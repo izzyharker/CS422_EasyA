@@ -1,4 +1,5 @@
 # web scraper WIP for Easy A project, by Sequoia
+# not sure if we should add more files to gitignore - any opinions?
 
 import requests
 from bs4 import BeautifulSoup
