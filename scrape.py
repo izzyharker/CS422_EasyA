@@ -13,8 +13,10 @@ def scrape_faculty_names(base_url, department=''):
     if response.status_code != 200:
         print("Failed to retrieve the webpage")
         return []
-
+    # parse html, turn it into an object, a nested data structure in particular
     soup = BeautifulSoup(response.text, 'html.parser')
+    # select method finds all <p> elements with the class 'facultylist' - inspected the html of the page to find this
+    # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed
     faculty_elements = soup.select('p.facultylist')
 
     # extracting only the names from each element
