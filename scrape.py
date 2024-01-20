@@ -1,13 +1,20 @@
-# web scraper WIP for Easy A project, by Sequoia
-# not sure if we should add more files to gitignore - any opinions?
-
 import requests
 from bs4 import BeautifulSoup
+import csv
 
-def scrape_faculty_names(base_url, department=''):
+
+def write_to_csv(faculty_names, file_name):
+    with open(file_name, 'w', newline='', encoding='utf-8') as file:
+        # write names to the csv, replaces any existing files
+        # do we want to add more info besides names?
+        writer = csv.writer(file)
+        for name in faculty_names:
+            writer.writerow([name])  # each name is written to a new row
+
+
+def scrape_faculty_names(base_url, department='', stop_at_header='Courtesy'):
     # construct the full URL by appending the department to the base URL
     full_url = base_url + department
-
     response = requests.get(full_url)
     # if there is an unsuccessful http request
     if response.status_code != 200:
@@ -15,19 +22,34 @@ def scrape_faculty_names(base_url, department=''):
         return []
     # parse html, turn it into an object, a nested data structure in particular
     soup = BeautifulSoup(response.text, 'html.parser')
-    # select method finds all <p> elements with the class 'facultylist' - inspected the html of the page to find this
-    # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed
-    faculty_elements = soup.select('p.facultylist')
 
-    # extracting only the names from each element
-    # debugging is still in order to ensure we only grab names
-    faculty_names = [element.get_text().split(',')[0].strip() for element in faculty_elements]
+    # can use a more complex data struct if needed
+    faculty_names = []
+
+    # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, <h3> to cutoff emeriti
+    elements = soup.find_all(['p', 'h3'])
+
+    # loop through all <p>, <h3> elements and stop if an <h3> with 'Courtesy' is found
+    for element in elements:
+        if element.name == 'h3' and stop_at_header in element.text:
+            break
+        # check if the element is a <p> with class 'facultylist'.
+        if element.name == 'p' and 'facultylist' in element.get('class', []):
+            # get faculty name, assuming it is the first element before a comma
+            faculty_names.append(element.get_text().split(',')[0].strip())
+
     return faculty_names
 
 
-# base URL for Wayback Machine archive
 base_url = 'https://web.archive.org/web/20141028184934/http://catalog.uoregon.edu/arts_sciences/'
+# scraping the natural sciences
+dept_list = ['biology/', 'chemistry/', 'computerandinfoscience/', 'generalscience/', 'geologicalsciences/',
+             'humanphysiology/', 'mathematics/', 'neuroscience/', 'physics/', 'psychology/']
+faculty_names = []
+# this works, but I still need to filter out Emeriti from all departments
+for dept in dept_list:
+    faculty_names += scrape_faculty_names(base_url, dept)
 
-# e.g., scraping the mathematics department
-faculty_names_math = scrape_faculty_names(base_url, 'mathematics/')
-print(faculty_names_math)
+print(faculty_names)
+
+write_to_csv(faculty_names, 'faculty_names.csv')
