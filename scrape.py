@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import time
 
 
 def write_to_csv(faculty_names, file_name):
@@ -13,7 +14,7 @@ def write_to_csv(faculty_names, file_name):
             writer.writerow([name])  # each name is written to a new row
 
 
-def scrape_faculty_names(base_url, department='', stop_at_header='Courtesy'):
+def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'Courtesy', 'Special Staff']):
     # construct the full URL by appending the department to the base URL
     full_url = base_url + department
     response = requests.get(full_url)
@@ -30,9 +31,10 @@ def scrape_faculty_names(base_url, department='', stop_at_header='Courtesy'):
     # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, <h3> to cutoff emeriti
     elements = soup.find_all(['p', 'h3'])
 
-    # loop through all <p>, <h3> elements and stop if an <h3> with 'Courtesy' is found
+    # loop through all <p>, <h3> elements and stop if an <h3> with any of the specified headers is found
     for element in elements:
-        if element.name == 'h3' and stop_at_header in element.text:
+        # any function lets it iterate through the stop at headers
+        if element.name == 'h3' and any(header in element.text for header in stop_at_headers):
             break
         # check if the element is a <p> with class 'facultylist'.
         if element.name == 'p' and 'facultylist' in element.get('class', []):
@@ -49,7 +51,10 @@ dept_list = ['biology/', 'chemistry/', 'computerandinfoscience/', 'generalscienc
 faculty_names = []
 # this works, but I still need to filter out Emeriti from all departments
 for dept in dept_list:
+    print(dept)
+    faculty_names.append(dept)
     faculty_names += scrape_faculty_names(base_url, dept)
+    time.sleep(2)
 
 print(faculty_names)
 
