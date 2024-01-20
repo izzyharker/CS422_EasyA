@@ -49,7 +49,7 @@ base_url = 'https://web.archive.org/web/20141028184934/http://catalog.uoregon.ed
 dept_list = ['biology/', 'chemistry/', 'computerandinfoscience/', 'generalscience/', 'geologicalsciences/',
              'humanphysiology/', 'mathematics/', 'neuroscience/', 'physics/', 'psychology/']
 faculty_names = []
-# this works, but I still need to filter out Emeriti from all departments
+# this works, and it filters out Emeriti from all departments - is that what we want?
 for dept in dept_list:
     print(dept)
     faculty_names.append(dept)
