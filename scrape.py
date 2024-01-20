@@ -1,3 +1,4 @@
+# web scraper WIP for Easy A project, by Sequoia
 import requests
 from bs4 import BeautifulSoup
 import csv
