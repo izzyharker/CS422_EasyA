@@ -13,8 +13,9 @@ def write_to_csv(faculty_names, file_name):
         for name in faculty_names:
             writer.writerow([name])  # each name is written to a new row
 
-
-def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'Courtesy', 'Special Staff']):
+# TODO: Add this parameter if we want to filter names besides the core staff
+# , stop_at_headers=['Emeriti', 'Courtesy', 'Special Staff']
+def scrape_faculty_names(base_url, department=''):
     # construct the full URL by appending the department to the base URL
     full_url = base_url + department
     response = requests.get(full_url)
@@ -25,7 +26,6 @@ def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'C
     # parse html, turn it into an object, a nested data structure in particular
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # can use a more complex data struct if needed
     faculty_names = []
 
     # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, <h3> to cutoff emeriti
@@ -34,8 +34,9 @@ def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'C
     # loop through all <p>, <h3> elements and stop if an <h3> with any of the specified headers is found
     for element in elements:
         # any function lets it iterate through the stop at headers
-        if element.name == 'h3' and any(header in element.text for header in stop_at_headers):
-            break
+        # Uncomment below if want to use stop-at headers
+       # if element.name == 'h3' and any(header in element.text for header in stop_at_headers):
+        #    break
         # check if the element is a <p> with class 'facultylist'.
         if element.name == 'p' and 'facultylist' in element.get('class', []):
             # get faculty name, assuming it is the first element before a comma
