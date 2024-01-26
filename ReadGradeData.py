@@ -5,7 +5,7 @@ Description: Contains a class which reads data from the gradedata.txt file into 
 
 Notes: 
 - now works with original gradedata.js file
-- breaks on keyword "function" keyword to indicate end of data
+- breaks on keyword "function" keyword to indicate end of data (or EOF)
 """
 
 class readGradeData():
@@ -92,9 +92,9 @@ class readGradeData():
         return reformatted_data
                 
 
-"""
-Testing code for the class
-grade_data_container = readGradeData("gradedata.js")
+# Testing code for the class
+    
+grade_data_container = readGradeData("./media/gradedata.js")
 grade_data = grade_data_container.get_data()
 
 print(grade_data_container.data["CIS415"])
@@ -108,4 +108,3 @@ reformatted_data = grade_data_container.reformatForTermPrio()
 print()
 print(reformatted_data["Spring 2014"]["CIS415"])
 print()
-"""
