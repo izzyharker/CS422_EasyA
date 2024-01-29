@@ -31,16 +31,19 @@ def scrape_faculty_names(base_url, department=''):
     # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, <h3> to cutoff emeriti
     elements = soup.find_all(['p', 'h3'])
 
-    # loop through all <p>, <h3> elements and stop if an <h3> with any of the specified headers is found
     for element in elements:
-        # any function lets it iterate through the stop at headers
-        # Uncomment below if want to use stop-at headers
-       # if element.name == 'h3' and any(header in element.text for header in stop_at_headers):
-        #    break
-        # check if the element is a <p> with class 'facultylist'.
         if element.name == 'p' and 'facultylist' in element.get('class', []):
-            # get faculty name, assuming it is the first element before a comma
-            faculty_names.append(element.get_text().split(',')[0].strip())
+            full_name = element.get_text().split(',')[0].strip()
+            # split the name
+            name_parts = full_name.split()
+            # check if the name consists of at least first and last names
+            if len(name_parts) >= 2:
+                # format as 'lname, fname'
+                formatted_name = f"{name_parts[-1]}, {' '.join(name_parts[:-1])}"
+            else:
+                # if only one part is present, use it as is
+                formatted_name = full_name
+            faculty_names.append(formatted_name)
 
     return faculty_names
 
@@ -50,7 +53,7 @@ base_url = 'https://web.archive.org/web/20141028184934/http://catalog.uoregon.ed
 dept_list = ['biology/', 'chemistry/', 'computerandinfoscience/', 'generalscience/', 'geologicalsciences/',
              'humanphysiology/', 'mathematics/', 'neuroscience/', 'physics/', 'psychology/']
 faculty_names = []
-# this works, and it filters out Emeriti from all departments - is that what we want?
+
 for dept in dept_list:
     print(dept)
     faculty_names.append(dept)
