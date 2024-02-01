@@ -1,5 +1,5 @@
 """
-Author: Izzy Harker
+Author: Izzy Harker, Carter Young
 Date: 1/21/24
 Description: Contains a class which reads data from the gradedata.txt file into a dictionary
 
@@ -7,6 +7,7 @@ Notes:
 - now works with original gradedata.js file
 - breaks on keyword "function" keyword to indicate end of data
 """
+
 
 class readGradeData():
     def __init__(self, filepath):
@@ -90,11 +91,159 @@ class readGradeData():
                 reformatted_data[term][classid] = section
         
         return reformatted_data
-                
+
+    def filter_by_majors(self, majors_to_keep):
+        """Filters data to include only specified majors
+
+            Args:
+            majors_to_keep (list)
+
+            Returns:
+            Filtered class data
+        """
+        filtered_data = {}
+        for key in self.data:
+            if any(key.startswith(major) for major in majors_to_keep):
+                filtered_data[key] = self.data[key]
+        return filtered_data
+
+    def save_data_to_file(self, data, filename):
+        """
+        Saves data to a file
+
+        Args:
+            data (dict): data to be saved
+            filename(str): where we are saving
+
+        """
+        with open(filename, 'w') as file:
+            for key, value in data.items():
+                file.write(f'"{key}": [\n')
+                for section in value:
+                    file.write('    {\n')
+                    for inner_key, inner_value in section.items():
+                        file.write(f'        "{inner_key}": "{inner_value}",\n')
+                    file.write('    },\n')
+                file.write('],\n')
+
+    def remove_elements(self, elements_to_remove):
+        """ Removes unnecessary data fields from the grade data
+
+        Args:
+        elements_to_remove (list): list of keys from each entry
+        """
+        for key in self.data:
+            for section in self.data[key]:
+                for element in elements_to_remove:
+                    section.pop(element, None)  # Removes element if it is present
+
+    def store_aprec_as_percent(self):
+        """ Converts 'aprec' values from numeric strings to percentage strings for graphing ease"""
+        for key in self.data:
+            for section in self.data[key]:
+                if 'aprec' in section:
+                    # Just add %
+                    section['aprec'] = f"{section['aprec']}%"
+
+    def calculate_failprec(self):
+        """ Calculates 'failprec' as sum of 'dprec' and 'fprec' for each section. """
+        for key in self.data:
+            for section in self.data[key]:
+                dprec = float(section.get('dprec', '0'))  # Convert to float, default to 0 if not there
+                fprec = float(section.get('fprec', '0'))  # Convert to float, default to 0 if not present
+                section['failprec'] = f"{dprec + fprec:.2f}%"
+
+    def reformat_name(self):
+        """ This function reformats the instructor name to be the same as the web scrape """
+        for key in self.data:
+            for section in self.data[key]:
+                if 'instructor' in section:
+                    name_parts = section['instructor'].split(', ')
+                    if len(name_parts) == 2:
+                        last_name, first_middle_name = name_parts
+                        section['instructor'] = f"{first_middle_name} {last_name}"
+                    # else:
+                        # Handle case where name is not in expected format
+                        # section['instructor'] = section['instructor']
+
+
+def calculate_avg(data):
+    """ Calculate the average of key fields per class and per instructor. """
+    averages = {}
+    for course, sections in data.items():  # Filter on course
+        for section in sections:
+            instructor = section.get('instructor', 'Unknown Instructor')  # Filter on instructor and course
+
+            # Safely get 'aprec' and 'failprec'
+            aprec = float(section.get('aprec', '0').rstrip('%'))  # Removing % and converting to float
+            failprec = float(section.get('failprec', '0').rstrip('%'))  # Removing % and converting to float
+
+            if (course, instructor) not in averages:
+                # Default to 0 if not there
+                averages[(course, instructor)] = {'aprec_sum': 0, 'failprec_sum': 0, 'count': 0}
+
+            averages[(course, instructor)]['aprec_sum'] += aprec  # Count aprec per course per instructor
+            averages[(course, instructor)]['failprec_sum'] += failprec  # Count failprec per course per instructor
+            averages[(course, instructor)]['count'] += 1  # Store num times instructor teaches class
+
+    # Calculate averages
+    for key in averages:
+        aprec_avg = averages[key]['aprec_sum'] / averages[key]['count']  # Calculate aprec avg per class/instructor
+        failprec_avg = averages[key]['failprec_sum'] / averages[key]['count']  # Calculate %D/F avg per class/instructor
+        averages[key] = {  # These are our values per class per instructor
+             'aprec_avg': aprec_avg,
+             'failprec_avg': failprec_avg,
+             'teaching_count': averages[key]['count']
+        }
+
+    return averages
+
+
+def save_averages_to_file(averages, filename):
+    """ Save averages to text file """
+    with open(filename, 'w') as file:
+        for (course, instructor), scores in averages.items():
+            line = f"Course: {course}, Instructor: {instructor}, Taught Count: {scores['teaching_count']}, Aprec Avg: {scores['aprec_avg']:.2f}%, Failprec Avg: {scores['failprec_avg']:.2f}%\n"
+            file.write(line)
+
+
+# Define elements to remove
+elements_to_remove = ["crn", "bprec", "cprec", "dprec", "fprec"]
+
+# Define majors to keep
+majors_to_keep = ["BI", "CH", "CIS", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
+
+# Load data
+grade_data_container = readGradeData("gradedata.txt")
+
+# Call aprec -> %
+grade_data_container.store_aprec_as_percent()
+
+# Call calc_failprec
+grade_data_container.calculate_failprec()
+
+# Remove superfluous elements
+grade_data_container.remove_elements(elements_to_remove)
+
+# Reformat instructor names
+grade_data_container.reformat_name()
+
+# Filter out non-natural science majors
+filtered_grade_data = grade_data_container.filter_by_majors(majors_to_keep)
+
+# Calc avg
+average_scores = calculate_avg(filtered_grade_data)
+
+# Output filtered data
+grade_data_container.save_data_to_file(filtered_grade_data, "filtered_gradedata.txt")
+
+# Output average data
+save_averages_to_file(average_scores, "average_grades.txt")
+
 
 """
 Testing code for the class
-grade_data_container = readGradeData("gradedata.js")
+grade_data_container = readGradeData("gradedata.txt")
 grade_data = grade_data_container.get_data()
 
 print(grade_data_container.data["CIS415"])
