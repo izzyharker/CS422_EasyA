@@ -5,7 +5,7 @@ Description: Contains a class which reads data from the gradedata.txt file into 
 
 Notes: 
 - now works with original gradedata.js file
-- breaks on keyword "function" keyword to indicate end of data
+- breaks on keyword "function" keyword to indicate end of data (or EOF)
 """
 
 
@@ -240,7 +240,6 @@ grade_data_container.save_data_to_file(filtered_grade_data, "filtered_gradedata.
 # Output average data
 save_averages_to_file(average_scores, "average_grades.txt")
 
-
 """
 Testing code for the class
 grade_data_container = readGradeData("gradedata.txt")
@@ -257,4 +256,3 @@ reformatted_data = grade_data_container.reformatForTermPrio()
 print()
 print(reformatted_data["Spring 2014"]["CIS415"])
 print()
-"""

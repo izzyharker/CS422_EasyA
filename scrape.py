@@ -6,15 +6,15 @@ import time
 
 
 def write_to_csv(faculty_names, file_name):
-    with open(file_name, 'w', newline='', encoding='utf-8') as file:
+    with open(file_name, 'w', newline='', encoding='utf-8-sig') as file:
         # write names to the csv, replaces any existing files
-        # do we want to add more info besides names?
-        writer = csv.writer(file)
+        # this also accounts for special characters recording correctly in excel, e.g., "'"
+        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for name in faculty_names:
             writer.writerow([name])  # each name is written to a new row
 
 
-def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'Courtesy', 'Special Staff']):
+def scrape_faculty_names(base_url, department=''):
     # construct the full URL by appending the department to the base URL
     full_url = base_url + department
     response = requests.get(full_url)
@@ -22,24 +22,31 @@ def scrape_faculty_names(base_url, department='', stop_at_headers=['Emeriti', 'C
     if response.status_code != 200:
         print("Failed to retrieve the webpage")
         return []
-    # parse html, turn it into an object, a nested data structure in particular
+    # parse html, turn it into a nested data structure
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # can use a more complex data struct if needed
     faculty_names = []
 
-    # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, <h3> to cutoff emeriti
+    # return a list of tag objects, i.e., <p> tags in the HTML where faculty names are listed, or any other tag
     elements = soup.find_all(['p', 'h3'])
 
-    # loop through all <p>, <h3> elements and stop if an <h3> with any of the specified headers is found
     for element in elements:
-        # any function lets it iterate through the stop at headers
-        if element.name == 'h3' and any(header in element.text for header in stop_at_headers):
-            break
-        # check if the element is a <p> with class 'facultylist'.
+        # remove extra (not faculty names) text within <p> tags
+        if element.name == 'p' and 'The date in parentheses' in element.get_text():
+            continue
         if element.name == 'p' and 'facultylist' in element.get('class', []):
-            # get faculty name, assuming it is the first element before a comma
-            faculty_names.append(element.get_text().split(',')[0].strip())
+            full_name = element.get_text().split(',')[0].strip()
+            # split the name
+            name_parts = full_name.split()
+            # check if the name consists of at least first and last names
+            if len(name_parts) >= 2:
+                # format as 'lname, fname'
+                formatted_name = f"{name_parts[-1]}, {' '.join(name_parts[:-1])}"
+            else:
+                # if only one part is present, use it as is
+                formatted_name = full_name
+            faculty_names.append(formatted_name)
+
 
     return faculty_names
 
@@ -49,7 +56,7 @@ base_url = 'https://web.archive.org/web/20141028184934/http://catalog.uoregon.ed
 dept_list = ['biology/', 'chemistry/', 'computerandinfoscience/', 'generalscience/', 'geologicalsciences/',
              'humanphysiology/', 'mathematics/', 'neuroscience/', 'physics/', 'psychology/']
 faculty_names = []
-# this works, and it filters out Emeriti from all departments - is that what we want?
+
 for dept in dept_list:
     print(dept)
     faculty_names.append(dept)
