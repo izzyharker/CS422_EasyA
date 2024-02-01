@@ -128,7 +128,7 @@ def filter_by_department(data, department, level=None):
 
     # Iterate through instructors
     for instructor in filtered_data:
-        total_taught= filtered_data[instructor]['Total Classes']
+        total_taught = filtered_data[instructor]['Total Classes']
         filtered_data[instructor]['Aprec Avg'] = filtered_data[instructor]['Aprec Sum'] / total_taught if total_taught > 0 else 0
         filtered_data[instructor]['Failprec Avg'] = filtered_data[instructor]['Failprec Sum'] / total_taught if total_taught > 0 else 0
         del filtered_data[instructor]['Aprec Sum'], filtered_data[instructor]['Failprec Sum']
@@ -152,6 +152,14 @@ def display_data(data):
         print(f"Instructor: {instructor}, Total Taught Count: {info['Total Classes']}, Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%")
 
 
+def write_to_file(filename, data):
+    """ This function converts filter output to .txt for easy graph manipulation. """
+    with open(filename, 'w') as file:
+        for instructor, info in data.items():
+            file.write(f"Instructor: {instructor}, Total Classes: {info['Total Classes']}, ")
+            file.write(f"Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%\n")
+
+
 def main():
     filename = "average_grades.txt"
     with open(filename, 'r') as file:
@@ -159,22 +167,31 @@ def main():
 
     # 1st choice: What do we want to filter by?
     choice = input("Do you want to query by department, level, or class? Enter 'department', 'level' or 'class: ").lower()
-    # Department level filter and entries
+    # Department level filter and save to file
     if choice == 'department':
         department = input("Enter a department (e.g., 'BI'): ")
         department_data = filter_by_department(average_grades, department)
-        display_data(department_data)
-    # Class level filter and entries
+        output_filename = f"dept_{department}.txt"
+        write_to_file(output_filename, department_data)
+        print(f"Results for department filter saved to {output_filename}")
+
+    # Class level filter and save to file
     elif choice == 'class':
         class_code = input("Enter a class code (e.g., 'BI121'): ")
         class_data = filter_by_course(average_grades, class_code)
-        display_instructor_data(class_data, class_code)
-    # Level filter and entries
+        output_filename = f"class_{class_code}.txt"
+        write_to_file(output_filename, class_data)
+        print(f"Results for class filter saved to {output_filename}")
+
+    # Level filter and save to file
     elif choice == 'level':
         department = input("Enter a department (e.g., 'BI'): ")
         level = input("Enter the course level (e.g., '1l' for 100-level courses): ")
-        department_data = filter_by_department(average_grades, department, level)
-        display_data(department_data)
+        level_data = filter_by_department(average_grades, department, level)
+        output_filename = f"level_{department}{level}.txt"
+        write_to_file(output_filename, level_data)
+        print(f"Results for level filter saved to {output_filename}")
+
     # Error
     else:
         print("Invalid.")
