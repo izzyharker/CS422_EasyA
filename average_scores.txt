@@ -1,0 +1,1595 @@
+Course: BI121, Instructor: Vincent P. Lombardi, Taught Count: 7, Aprec Avg: 22.03%, Failprec Avg: 4.22%
+Course: BI122, Instructor: Amy Alexis Connolly, Taught Count: 2, Aprec Avg: 6.13%, Failprec Avg: 13.05%
+Course: BI122, Instructor: Kryn Stankunas, Taught Count: 1, Aprec Avg: 61.45%, Failprec Avg: 0.00%
+Course: BI122, Instructor: Andrew Wayne Vandegrift, Taught Count: 1, Aprec Avg: 42.70%, Failprec Avg: 2.81%
+Course: BI123, Instructor: Alan James Kelly, Taught Count: 4, Aprec Avg: 22.03%, Failprec Avg: 6.04%
+Course: BI130, Instructor: Jason Pienaar, Taught Count: 1, Aprec Avg: 27.05%, Failprec Avg: 4.92%
+Course: BI130, Instructor: Claude Benjamin Crabtree, Taught Count: 3, Aprec Avg: 73.47%, Failprec Avg: 1.30%
+Course: BI130, Instructor: Tobias Joseph Policha, Taught Count: 3, Aprec Avg: 22.35%, Failprec Avg: 11.14%
+Course: BI131, Instructor: Jason Pienaar, Taught Count: 1, Aprec Avg: 5.56%, Failprec Avg: 6.25%
+Course: BI131, Instructor: Ann Marie Petersen, Taught Count: 1, Aprec Avg: 31.45%, Failprec Avg: 5.03%
+Course: BI131, Instructor: Gabriel Isaac Yospin, Taught Count: 1, Aprec Avg: 28.39%, Failprec Avg: 8.39%
+Course: BI132, Instructor: Debbie Schlenoff, Taught Count: 5, Aprec Avg: 18.72%, Failprec Avg: 5.98%
+Course: BI132, Instructor: Avinash Deep Bala Singh, Taught Count: 4, Aprec Avg: 63.13%, Failprec Avg: 2.16%
+Course: BI140M, Instructor: Judith Eisen, Taught Count: 2, Aprec Avg: 18.92%, Failprec Avg: 2.17%
+Course: BI140M, Instructor: Eleanor Vivienne H Vandegrift, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 3.12%
+Course: BI150, Instructor: Michelle Wood, Taught Count: 2, Aprec Avg: 27.56%, Failprec Avg: 4.39%
+Course: BI150, Instructor: Anne Michelle Wood, Taught Count: 2, Aprec Avg: 46.46%, Failprec Avg: 1.67%
+Course: BI199, Instructor: Vincent P. Lombardi, Taught Count: 4, Aprec Avg: 75.69%, Failprec Avg: 0.00%
+Course: BI211, Instructor: John H. Postlethwait, Taught Count: 5, Aprec Avg: 11.34%, Failprec Avg: 10.61%
+Course: BI211, Instructor: Peter Brian Wetherwax, Taught Count: 5, Aprec Avg: 25.77%, Failprec Avg: 14.04%
+Course: BI211, Instructor: Jana Prikryl, Taught Count: 4, Aprec Avg: 16.36%, Failprec Avg: 15.47%
+Course: BI211, Instructor: Cristin Leanna Hulslander, Taught Count: 2, Aprec Avg: 17.28%, Failprec Avg: 11.05%
+Course: BI211, Instructor: Lorien Lily Reynolds, Taught Count: 1, Aprec Avg: 27.42%, Failprec Avg: 14.52%
+Course: BI211, Instructor: Nicola Caroline Barber, Taught Count: 1, Aprec Avg: 27.47%, Failprec Avg: 5.51%
+Course: BI212, Instructor: Mark Charles Carrier, Taught Count: 8, Aprec Avg: 11.70%, Failprec Avg: 17.80%
+Course: BI212, Instructor: Hannah Elizabeth Wilson, Taught Count: 3, Aprec Avg: 26.70%, Failprec Avg: 7.13%
+Course: BI213, Instructor: Peter Brian Wetherwax, Taught Count: 5, Aprec Avg: 13.91%, Failprec Avg: 8.36%
+Course: BI213, Instructor: Cristin Leanna Hulslander, Taught Count: 2, Aprec Avg: 11.22%, Failprec Avg: 14.09%
+Course: BI213, Instructor: Tobias Joseph Policha, Taught Count: 4, Aprec Avg: 37.03%, Failprec Avg: 3.67%
+Course: BI213, Instructor: Gabriel Isaac Yospin, Taught Count: 1, Aprec Avg: 9.29%, Failprec Avg: 17.86%
+Course: BI214, Instructor: Alan James Kelly, Taught Count: 5, Aprec Avg: 21.46%, Failprec Avg: 9.48%
+Course: BI214, Instructor: Amy Alexis Connolly, Taught Count: 2, Aprec Avg: 7.95%, Failprec Avg: 5.66%
+Course: BI281H, Instructor: Karen Ulvestad Sprague, Taught Count: 1, Aprec Avg: 37.68%, Failprec Avg: 17.39%
+Course: BI281H, Instructor: Carl A. Stiefbold, Taught Count: 2, Aprec Avg: 27.90%, Failprec Avg: 7.97%
+Course: BI281H, Instructor: Laurel Elaine Pfeifer-Meister, Taught Count: 1, Aprec Avg: 38.18%, Failprec Avg: 3.64%
+Course: BI282H, Instructor: Carl A. Stiefbold, Taught Count: 3, Aprec Avg: 30.55%, Failprec Avg: 8.98%
+Course: BI282H, Instructor: Victoria G. Herman, Taught Count: 1, Aprec Avg: 32.69%, Failprec Avg: 1.94%
+Course: BI283H, Instructor: Carl A. Stiefbold, Taught Count: 3, Aprec Avg: 37.02%, Failprec Avg: 3.46%
+Course: BI283H, Instructor: Brendan Bohannan, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 0.00%
+Course: BI306, Instructor: Peter Brian Wetherwax, Taught Count: 1, Aprec Avg: 62.96%, Failprec Avg: 0.00%
+Course: BI307, Instructor: Alan Wayne Dickman, Taught Count: 4, Aprec Avg: 27.52%, Failprec Avg: 0.85%
+Course: BI309, Instructor: Janis C. Weeks, Taught Count: 4, Aprec Avg: 37.51%, Failprec Avg: 2.73%
+Course: BI320, Instructor: Jana Prikryl, Taught Count: 8, Aprec Avg: 35.60%, Failprec Avg: 5.90%
+Course: BI320, Instructor: Victoria G. Herman, Taught Count: 1, Aprec Avg: 20.24%, Failprec Avg: 9.52%
+Course: BI320, Instructor: Leslie Adrianne Coonrod, Taught Count: 2, Aprec Avg: 23.99%, Failprec Avg: 9.16%
+Course: BI322, Instructor: Philip Eric Washbourne, Taught Count: 3, Aprec Avg: 32.99%, Failprec Avg: 0.48%
+Course: BI322, Instructor: Amy Alexis Connolly, Taught Count: 2, Aprec Avg: 36.67%, Failprec Avg: 2.90%
+Course: BI322, Instructor: Nicola Caroline Barber, Taught Count: 1, Aprec Avg: 39.73%, Failprec Avg: 2.74%
+Course: BI322, Instructor: Anne Elizabeth Dietz Zemper, Taught Count: 1, Aprec Avg: 22.00%, Failprec Avg: 2.00%
+Course: BI328, Instructor: Bethany Anne Rader, Taught Count: 1, Aprec Avg: 16.07%, Failprec Avg: 0.00%
+Course: BI328, Instructor: Avinash Deep Bala Singh, Taught Count: 2, Aprec Avg: 24.11%, Failprec Avg: 3.34%
+Course: BI328, Instructor: Adam Christopher Miller, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 1.52%
+Course: BI330, Instructor: Ann Maureen Womack, Taught Count: 1, Aprec Avg: 16.83%, Failprec Avg: 3.96%
+Course: BI330, Instructor: Jeneva Koryn Anderson, Taught Count: 1, Aprec Avg: 24.77%, Failprec Avg: 7.34%
+Course: BI330, Instructor: Adam Saunders, Taught Count: 2, Aprec Avg: 32.88%, Failprec Avg: 2.84%
+Course: BI331, Instructor: Alan James Kelly, Taught Count: 16, Aprec Avg: 31.72%, Failprec Avg: 0.00%
+Course: BI353, Instructor: Terry Takahashi, Taught Count: 5, Aprec Avg: 15.90%, Failprec Avg: 5.65%
+Course: BI355, Instructor: Ann Marie Petersen, Taught Count: 1, Aprec Avg: 41.18%, Failprec Avg: 0.00%
+Course: BI356, Instructor: Philip Eric Washbourne, Taught Count: 3, Aprec Avg: 35.80%, Failprec Avg: 0.00%
+Course: BI356, Instructor: Lisa A. Wagner, Taught Count: 1, Aprec Avg: 30.23%, Failprec Avg: 0.00%
+Course: BI357, Instructor: Cynthia D. Trowbridge, Taught Count: 1, Aprec Avg: 36.07%, Failprec Avg: 0.00%
+Course: BI357, Instructor: Marley Anne Jarvis, Taught Count: 1, Aprec Avg: 30.91%, Failprec Avg: 3.64%
+Course: BI357, Instructor: Michelle Wood, Taught Count: 1, Aprec Avg: 65.12%, Failprec Avg: 0.00%
+Course: BI357, Instructor: Lisa Marie Munger, Taught Count: 1, Aprec Avg: 73.61%, Failprec Avg: 1.40%
+Course: BI358, Instructor: Vincent P. Lombardi, Taught Count: 4, Aprec Avg: 55.29%, Failprec Avg: 0.67%
+Course: BI359, Instructor: Matthew A. Streisfeld, Taught Count: 4, Aprec Avg: 25.20%, Failprec Avg: 7.59%
+Course: BI360, Instructor: Nathan Tublitz, Taught Count: 4, Aprec Avg: 24.49%, Failprec Avg: 6.54%
+Course: BI360, Instructor: Hannah Ivy Bishop, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 1.87%
+Course: BI370, Instructor: Laurel Elaine Pfeifer-Meister, Taught Count: 4, Aprec Avg: 31.36%, Failprec Avg: 2.27%
+Course: BI370, Instructor: Barbara Ann Roy, Taught Count: 2, Aprec Avg: 24.76%, Failprec Avg: 2.94%
+Course: BI372, Instructor: Barbara Ann Roy, Taught Count: 2, Aprec Avg: 67.26%, Failprec Avg: 0.00%
+Course: BI374, Instructor: Debbie Schlenoff, Taught Count: 5, Aprec Avg: 26.67%, Failprec Avg: 2.00%
+Course: BI375, Instructor: Gabriel Isaac Yospin, Taught Count: 1, Aprec Avg: 42.00%, Failprec Avg: 0.00%
+Course: BI380, Instructor: William Emmons Bradshaw, Taught Count: 3, Aprec Avg: 36.75%, Failprec Avg: 4.97%
+Course: BI380, Instructor: David W. Anderson, Taught Count: 1, Aprec Avg: 19.18%, Failprec Avg: 2.74%
+Course: BI380, Instructor: Patrick Carnahan Phillips, Taught Count: 1, Aprec Avg: 22.86%, Failprec Avg: 4.29%
+Course: BI390, Instructor: Debbie Schlenoff, Taught Count: 3, Aprec Avg: 17.75%, Failprec Avg: 4.70%
+Course: BI390, Instructor: Ashley Rogers Robart, Taught Count: 1, Aprec Avg: 64.00%, Failprec Avg: 0.00%
+Course: BI399, Instructor: Brian Lynn Bingham, Taught Count: 2, Aprec Avg: 55.40%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Alice Barkan, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Janis C. Weeks, Taught Count: 2, Aprec Avg: 47.43%, Failprec Avg: 2.38%
+Course: BI410, Instructor: George F. Sprague, Taught Count: 2, Aprec Avg: 73.33%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Peter Brian Wetherwax, Taught Count: 2, Aprec Avg: 54.52%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Monte Westerfield, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Roderick A. Capaldi, Taught Count: 2, Aprec Avg: 84.07%, Failprec Avg: 0.00%
+Course: BI410, Instructor: John Conery, Taught Count: 4, Aprec Avg: 67.68%, Failprec Avg: 0.01%
+Course: BI410, Instructor: Michelle Wood, Taught Count: 1, Aprec Avg: 78.57%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Santiago Jaramillo, Taught Count: 4, Aprec Avg: 65.53%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Brendan Bohannan, Taught Count: 1, Aprec Avg: 76.32%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Kelly Christine Rakow Sutherland, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Cristopher M. Niell, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Terry Takahashi, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Jeffrey N. McKnight, Taught Count: 1, Aprec Avg: 84.21%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Victoria G. Herman, Taught Count: 1, Aprec Avg: 46.67%, Failprec Avg: 0.03%
+Course: BI410, Instructor: Elliott T. Abe, Taught Count: 1, Aprec Avg: 55.56%, Failprec Avg: 0.00%
+Course: BI410, Instructor: Yashar Ahmadian Tehrani, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 5.67%
+Course: BI420, Instructor: Javier Fierro, Taught Count: 1, Aprec Avg: 90.91%, Failprec Avg: 0.00%
+Course: BI422, Instructor: Philip Eric Washbourne, Taught Count: 3, Aprec Avg: 41.71%, Failprec Avg: 0.00%
+Course: BI423, Instructor: Alice Barkan, Taught Count: 2, Aprec Avg: 53.55%, Failprec Avg: 2.08%
+Course: BI424, Instructor: Eric Selker, Taught Count: 2, Aprec Avg: 54.85%, Failprec Avg: 0.00%
+Course: BI426, Instructor: Alan James Kelly, Taught Count: 3, Aprec Avg: 41.99%, Failprec Avg: 0.00%
+Course: BI427, Instructor: Monte Westerfield, Taught Count: 2, Aprec Avg: 66.45%, Failprec Avg: 0.00%
+Course: BI428, Instructor: Bethany Anne Rader, Taught Count: 1, Aprec Avg: 68.75%, Failprec Avg: 0.00%
+Course: BI433, Instructor: Karen Jeanne Guillemin, Taught Count: 4, Aprec Avg: 61.07%, Failprec Avg: 0.00%
+Course: BI442, Instructor: Tobias Joseph Policha, Taught Count: 3, Aprec Avg: 33.70%, Failprec Avg: 2.78%
+Course: BI448, Instructor: Susan Elizabeth Holmes, Taught Count: 3, Aprec Avg: 41.53%, Failprec Avg: 0.00%
+Course: BI451, Instructor: Cynthia D. Trowbridge, Taught Count: 1, Aprec Avg: 60.87%, Failprec Avg: 0.00%
+Course: BI451, Instructor: Patrick Kelly Baker, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: BI451, Instructor: Richard Emlet, Taught Count: 1, Aprec Avg: 52.38%, Failprec Avg: 0.00%
+Course: BI451, Instructor: Troy Robert Nash, Taught Count: 1, Aprec Avg: 35.00%, Failprec Avg: 0.00%
+Course: BI452, Instructor: Melissa A. Scherr, Taught Count: 2, Aprec Avg: 56.09%, Failprec Avg: 2.08%
+Course: BI452, Instructor: Philip A. Schapker, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: BI455, Instructor: Douglas R. Warrick, Taught Count: 1, Aprec Avg: 85.71%, Failprec Avg: 0.00%
+Course: BI455, Instructor: Janet Hodder, Taught Count: 1, Aprec Avg: 48.00%, Failprec Avg: 4.00%
+Course: BI457, Instructor: Terra Celeste Hiebert, Taught Count: 1, Aprec Avg: 55.56%, Failprec Avg: 0.00%
+Course: BI457, Instructor: George RH von Dassow, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%
+Course: BI457, Instructor: Craig M. Young, Taught Count: 1, Aprec Avg: 58.82%, Failprec Avg: 0.00%
+Course: BI457, Instructor: Ronald G. Oldfield, Taught Count: 1, Aprec Avg: 61.54%, Failprec Avg: 0.00%
+Course: BI457, Instructor: Janet Hodder, Taught Count: 1, Aprec Avg: 70.83%, Failprec Avg: 0.00%
+Course: BI457, Instructor: Svetlana Andreevna Maslakova, Taught Count: 2, Aprec Avg: 63.39%, Failprec Avg: 0.00%
+Course: BI458, Instructor: Alan Shanks, Taught Count: 3, Aprec Avg: 54.06%, Failprec Avg: 0.00%
+Course: BI461, Instructor: Terry Takahashi, Taught Count: 1, Aprec Avg: 26.32%, Failprec Avg: 0.00%
+Course: BI461, Instructor: Avinash Deep Bala Singh, Taught Count: 2, Aprec Avg: 50.27%, Failprec Avg: 5.17%
+Course: BI463, Instructor: Clifford H. Keller, Taught Count: 2, Aprec Avg: 41.07%, Failprec Avg: 0.00%
+Course: BI466, Instructor: Judith Eisen, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: BI468, Instructor: Tom Alan Titus, Taught Count: 2, Aprec Avg: 56.81%, Failprec Avg: 2.00%
+Course: BI471, Instructor: Jessica Lee Green, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: BI472, Instructor: Laurel Elaine Pfeifer-Meister, Taught Count: 1, Aprec Avg: 40.91%, Failprec Avg: 0.00%
+Course: BI472, Instructor: Brendan Bohannan, Taught Count: 1, Aprec Avg: 88.89%, Failprec Avg: 0.00%
+Course: BI473, Instructor: William Emmons Bradshaw, Taught Count: 1, Aprec Avg: 83.33%, Failprec Avg: 0.00%
+Course: BI474, Instructor: Cynthia D. Trowbridge, Taught Count: 1, Aprec Avg: 57.90%, Failprec Avg: 0.00%
+Course: BI484, Instructor: David W. Anderson, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 11.11%
+Course: BI484, Instructor: Allison Marie Fuiten, Taught Count: 1, Aprec Avg: 70.37%, Failprec Avg: 0.00%
+Course: BI485, Instructor: Shawn Lockery, Taught Count: 3, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: BI486, Instructor: Jason Pienaar, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 6.67%
+Course: BI486, Instructor: Nadia D. Singh, Taught Count: 1, Aprec Avg: 9.09%, Failprec Avg: 9.09%
+Course: BI488, Instructor: Matthew A. Streisfeld, Taught Count: 3, Aprec Avg: 15.73%, Failprec Avg: 2.39%
+Course: BI493, Instructor: Eric Allen Johnson, Taught Count: 3, Aprec Avg: 58.71%, Failprec Avg: 0.00%
+Course: BI610, Instructor: Victoria G. Herman, Taught Count: 1, Aprec Avg: 58.82%, Failprec Avg: 0.00%
+Course: BI610, Instructor: Shawn Lockery, Taught Count: 1, Aprec Avg: 69.23%, Failprec Avg: 0.00%
+Course: BI610, Instructor: William Andrew Cresko, Taught Count: 2, Aprec Avg: 58.30%, Failprec Avg: 0.00%
+Course: BI610, Instructor: Peter Lochhead Ralph, Taught Count: 1, Aprec Avg: 69.57%, Failprec Avg: 4.35%
+Course: BI610, Instructor: Leslie Adrianne Coonrod, Taught Count: 1, Aprec Avg: 88.24%, Failprec Avg: 0.00%
+Course: CH111, Instructor: Mark Charles Lonergan, Taught Count: 3, Aprec Avg: 14.44%, Failprec Avg: 15.67%
+Course: CH111, Instructor: Jeffrey J. Willemsen, Taught Count: 2, Aprec Avg: 49.78%, Failprec Avg: 3.00%
+Course: CH111, Instructor: Uladzimir K. Slabin, Taught Count: 1, Aprec Avg: 76.92%, Failprec Avg: 0.00%
+Course: CH111, Instructor: Philip Adam Kovac, Taught Count: 1, Aprec Avg: 14.56%, Failprec Avg: 7.81%
+Course: CH111, Instructor: David R. Sullivan, Taught Count: 1, Aprec Avg: 21.99%, Failprec Avg: 5.70%
+Course: CH113, Instructor: Julie Ann Haack, Taught Count: 4, Aprec Avg: 23.59%, Failprec Avg: 3.87%
+Course: CH114, Instructor: Julie Ann Haack, Taught Count: 4, Aprec Avg: 41.77%, Failprec Avg: 0.99%
+Course: CH140M, Instructor: Judith Eisen, Taught Count: 2, Aprec Avg: 34.60%, Failprec Avg: 4.37%
+Course: CH140M, Instructor: Eleanor Vivienne H Vandegrift, Taught Count: 1, Aprec Avg: 21.21%, Failprec Avg: 0.00%
+Course: CH157M, Instructor: Michael G. Raymer, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 13.33%
+Course: CH221, Instructor: Paul Craig Engelking, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 13.49%
+Course: CH221, Instructor: Korakod Chimploy, Taught Count: 2, Aprec Avg: 30.04%, Failprec Avg: 9.00%
+Course: CH221, Instructor: Deborah Exton, Taught Count: 2, Aprec Avg: 15.76%, Failprec Avg: 9.64%
+Course: CH221, Instructor: Bryan Paul Nell, Taught Count: 4, Aprec Avg: 25.49%, Failprec Avg: 15.94%
+Course: CH221, Instructor: Michelle Marie Watt, Taught Count: 1, Aprec Avg: 8.00%, Failprec Avg: 19.38%
+Course: CH221, Instructor: Nicholas Adam Valley, Taught Count: 1, Aprec Avg: 16.58%, Failprec Avg: 15.35%
+Course: CH221, Instructor: Willard Earl Collier, Taught Count: 1, Aprec Avg: 54.87%, Failprec Avg: 7.08%
+Course: CH221, Instructor: Thomas J. Greenbowe, Taught Count: 2, Aprec Avg: 13.39%, Failprec Avg: 12.66%
+Course: CH221, Instructor: Philip Adam Kovac, Taught Count: 1, Aprec Avg: 11.44%, Failprec Avg: 8.17%
+Course: CH222, Instructor: Korakod Chimploy, Taught Count: 3, Aprec Avg: 27.28%, Failprec Avg: 8.72%
+Course: CH222, Instructor: Deborah Exton, Taught Count: 3, Aprec Avg: 8.44%, Failprec Avg: 9.72%
+Course: CH222, Instructor: Thomas J. Greenbowe, Taught Count: 4, Aprec Avg: 19.72%, Failprec Avg: 13.83%
+Course: CH222, Instructor: Gregory Maxwell Williams, Taught Count: 2, Aprec Avg: 20.10%, Failprec Avg: 10.43%
+Course: CH222, Instructor: Shannon Birk Boettcher, Taught Count: 1, Aprec Avg: 14.85%, Failprec Avg: 9.91%
+Course: CH223, Instructor: Korakod Chimploy, Taught Count: 3, Aprec Avg: 18.83%, Failprec Avg: 18.05%
+Course: CH223, Instructor: Deborah Exton, Taught Count: 2, Aprec Avg: 5.37%, Failprec Avg: 14.87%
+Course: CH223, Instructor: Thomas J. Greenbowe, Taught Count: 3, Aprec Avg: 29.36%, Failprec Avg: 9.63%
+Course: CH223, Instructor: Michael Kellman, Taught Count: 2, Aprec Avg: 9.59%, Failprec Avg: 8.60%
+Course: CH223, Instructor: Bryan Paul Nell, Taught Count: 1, Aprec Avg: 8.25%, Failprec Avg: 10.56%
+Course: CH223, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 15.49%, Failprec Avg: 7.06%
+Course: CH223, Instructor: Philip Adam Kovac, Taught Count: 1, Aprec Avg: 25.33%, Failprec Avg: 3.96%
+Course: CH224H, Instructor: Catherine Jo Page, Taught Count: 4, Aprec Avg: 36.89%, Failprec Avg: 6.31%
+Course: CH225H, Instructor: Shannon Birk Boettcher, Taught Count: 1, Aprec Avg: 54.76%, Failprec Avg: 2.38%
+Course: CH225H, Instructor: Catherine Jo Page, Taught Count: 1, Aprec Avg: 40.74%, Failprec Avg: 1.85%
+Course: CH225H, Instructor: Jeffrey A. Cina, Taught Count: 2, Aprec Avg: 42.02%, Failprec Avg: 0.00%
+Course: CH226H, Instructor: Andrew H. Marcus, Taught Count: 1, Aprec Avg: 57.69%, Failprec Avg: 3.85%
+Course: CH226H, Instructor: David C. Johnson, Taught Count: 3, Aprec Avg: 47.53%, Failprec Avg: 0.74%
+Course: CH227, Instructor: Deborah Exton, Taught Count: 8, Aprec Avg: 15.29%, Failprec Avg: 6.61%
+Course: CH227, Instructor: Brandy R. Fox, Taught Count: 1, Aprec Avg: 75.83%, Failprec Avg: 3.33%
+Course: CH227, Instructor: Willard Earl Collier, Taught Count: 1, Aprec Avg: 81.44%, Failprec Avg: 0.00%
+Course: CH227, Instructor: Bryan Paul Nell, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 3.57%
+Course: CH227, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 25.41%, Failprec Avg: 6.12%
+Course: CH228, Instructor: Deborah Exton, Taught Count: 6, Aprec Avg: 16.99%, Failprec Avg: 4.39%
+Course: CH228, Instructor: Brandy R. Fox, Taught Count: 1, Aprec Avg: 72.82%, Failprec Avg: 1.94%
+Course: CH228, Instructor: Thomas J. Greenbowe, Taught Count: 4, Aprec Avg: 44.01%, Failprec Avg: 1.65%
+Course: CH228, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 24.09%, Failprec Avg: 3.66%
+Course: CH229, Instructor: Deborah Exton, Taught Count: 29, Aprec Avg: 26.16%, Failprec Avg: 1.62%
+Course: CH229, Instructor: Uladzimir K. Slabin, Taught Count: 1, Aprec Avg: 73.33%, Failprec Avg: 0.00%
+Course: CH229, Instructor: Thomas J. Greenbowe, Taught Count: 2, Aprec Avg: 35.70%, Failprec Avg: 0.00%
+Course: CH229, Instructor: Brandi Lee Baldock, Taught Count: 2, Aprec Avg: 14.53%, Failprec Avg: 2.06%
+Course: CH237, Instructor: Gregory Maxwell Williams, Taught Count: 3, Aprec Avg: 47.57%, Failprec Avg: 0.98%
+Course: CH237, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 39.66%, Failprec Avg: 1.76%
+Course: CH238, Instructor: Gregory Maxwell Williams, Taught Count: 3, Aprec Avg: 47.79%, Failprec Avg: 0.64%
+Course: CH238, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 31.91%, Failprec Avg: 0.02%
+Course: CH239, Instructor: Gregory Maxwell Williams, Taught Count: 3, Aprec Avg: 53.33%, Failprec Avg: 0.00%
+Course: CH239, Instructor: Clive Tristan Kittredge, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: CH331, Instructor: Gregory Maxwell Williams, Taught Count: 3, Aprec Avg: 12.64%, Failprec Avg: 13.00%
+Course: CH331, Instructor: Douglas Michael Young, Taught Count: 2, Aprec Avg: 33.68%, Failprec Avg: 7.21%
+Course: CH331, Instructor: Michael E. Koscho, Taught Count: 1, Aprec Avg: 31.86%, Failprec Avg: 4.42%
+Course: CH331, Instructor: Ronald Hilton Swisher, Taught Count: 1, Aprec Avg: 25.79%, Failprec Avg: 2.74%
+Course: CH335, Instructor: Bruce P. Branchaud, Taught Count: 2, Aprec Avg: 18.83%, Failprec Avg: 3.82%
+Course: CH335, Instructor: Uladzimir K. Slabin, Taught Count: 1, Aprec Avg: 52.83%, Failprec Avg: 1.89%
+Course: CH335, Instructor: Douglas Michael Young, Taught Count: 1, Aprec Avg: 54.63%, Failprec Avg: 9.26%
+Course: CH335, Instructor: Michael M. Haley, Taught Count: 2, Aprec Avg: 15.98%, Failprec Avg: 9.37%
+Course: CH335, Instructor: Bryan Paul Nell, Taught Count: 1, Aprec Avg: 32.46%, Failprec Avg: 17.54%
+Course: CH336, Instructor: Gregory Maxwell Williams, Taught Count: 3, Aprec Avg: 27.83%, Failprec Avg: 11.11%
+Course: CH336, Instructor: Gary Oliver Spessard, Taught Count: 2, Aprec Avg: 41.25%, Failprec Avg: 0.00%
+Course: CH336, Instructor: Bryan Paul Nell, Taught Count: 1, Aprec Avg: 16.38%, Failprec Avg: 7.76%
+Course: CH336, Instructor: Ronald Hilton Swisher, Taught Count: 1, Aprec Avg: 39.16%, Failprec Avg: 4.91%
+Course: CH337, Instructor: James Evan Hutchison, Taught Count: 1, Aprec Avg: 6.25%, Failprec Avg: 4.91%
+Course: CH337, Instructor: Michael E. Koscho, Taught Count: 5, Aprec Avg: 55.81%, Failprec Avg: 2.56%
+Course: CH337, Instructor: Bruce P. Branchaud, Taught Count: 1, Aprec Avg: 8.52%, Failprec Avg: 5.68%
+Course: CH338, Instructor: Michael E. Koscho, Taught Count: 6, Aprec Avg: 48.37%, Failprec Avg: 1.02%
+Course: CH338, Instructor: Bryan Paul Nell, Taught Count: 1, Aprec Avg: 11.19%, Failprec Avg: 5.22%
+Course: CH341, Instructor: Michael E. Koscho, Taught Count: 4, Aprec Avg: 27.19%, Failprec Avg: 4.94%
+Course: CH342, Instructor: Michael Dwight Pluth, Taught Count: 4, Aprec Avg: 26.66%, Failprec Avg: 1.24%
+Course: CH343, Instructor: Bruce P. Branchaud, Taught Count: 2, Aprec Avg: 34.72%, Failprec Avg: 2.73%
+Course: CH343, Instructor: Ramesh Jasti, Taught Count: 2, Aprec Avg: 40.13%, Failprec Avg: 2.47%
+Course: CH348, Instructor: Michael E. Koscho, Taught Count: 4, Aprec Avg: 53.39%, Failprec Avg: 2.45%
+Course: CH349, Instructor: Michael E. Koscho, Taught Count: 4, Aprec Avg: 57.76%, Failprec Avg: 0.89%
+Course: CH360, Instructor: Tom H. Stevens, Taught Count: 4, Aprec Avg: 24.92%, Failprec Avg: 1.02%
+Course: CH360, Instructor: Jason Lawrence Ormsby, Taught Count: 1, Aprec Avg: 80.64%, Failprec Avg: 0.00%
+Course: CH411, Instructor: Jeffrey A. Cina, Taught Count: 1, Aprec Avg: 32.73%, Failprec Avg: 1.82%
+Course: CH411, Instructor: Marina Guenza, Taught Count: 1, Aprec Avg: 36.67%, Failprec Avg: 5.00%
+Course: CH412, Instructor: Paul Craig Engelking, Taught Count: 1, Aprec Avg: 20.59%, Failprec Avg: 10.29%
+Course: CH412, Instructor: Michael Kellman, Taught Count: 3, Aprec Avg: 17.46%, Failprec Avg: 1.23%
+Course: CH413, Instructor: Georgy Nazin, Taught Count: 3, Aprec Avg: 38.10%, Failprec Avg: 1.11%
+Course: CH413, Instructor: Andrew H. Marcus, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 0.00%
+Course: CH417, Instructor: John Hardwick, Taught Count: 2, Aprec Avg: 31.93%, Failprec Avg: 6.20%
+Course: CH417, Instructor: Mark Charles Lonergan, Taught Count: 1, Aprec Avg: 34.00%, Failprec Avg: 10.04%
+Course: CH418, Instructor: John Hardwick, Taught Count: 3, Aprec Avg: 42.30%, Failprec Avg: 7.38%
+Course: CH418, Instructor: Cathy Yat-Yee Wong, Taught Count: 1, Aprec Avg: 35.48%, Failprec Avg: 0.03%
+Course: CH419, Instructor: John Hardwick, Taught Count: 3, Aprec Avg: 40.87%, Failprec Avg: 6.89%
+Course: CH419, Instructor: Georgy Nazin, Taught Count: 1, Aprec Avg: 46.15%, Failprec Avg: 0.08%
+Course: CH420, Instructor: Darren W. Johnson, Taught Count: 3, Aprec Avg: 47.56%, Failprec Avg: 2.93%
+Course: CH429, Instructor: Paul Craig Engelking, Taught Count: 2, Aprec Avg: 24.52%, Failprec Avg: 7.14%
+Course: CH429, Instructor: James Stephen Prell, Taught Count: 2, Aprec Avg: 35.02%, Failprec Avg: 0.02%
+Course: CH431, Instructor: David C. Johnson, Taught Count: 2, Aprec Avg: 21.95%, Failprec Avg: 19.18%
+Course: CH431, Instructor: David R. Tyler, Taught Count: 2, Aprec Avg: 26.14%, Failprec Avg: 16.23%
+Course: CH432, Instructor: Victoria J. De Rose, Taught Count: 3, Aprec Avg: 31.00%, Failprec Avg: 1.96%
+Course: CH432, Instructor: Douglas Michael Young, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 9.52%
+Course: CH433, Instructor: Catherine Jo Page, Taught Count: 4, Aprec Avg: 23.92%, Failprec Avg: 9.52%
+Course: CH452, Instructor: Ramesh Jasti, Taught Count: 1, Aprec Avg: 65.22%, Failprec Avg: 8.70%
+Course: CH452, Instructor: Michael M. Haley, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 6.25%
+Course: CH461, Instructor: Bradley James Nolen, Taught Count: 2, Aprec Avg: 16.07%, Failprec Avg: 13.09%
+Course: CH461, Instructor: Kenneth E. Prehoda, Taught Count: 2, Aprec Avg: 27.31%, Failprec Avg: 12.87%
+Course: CH462, Instructor: Tom H. Stevens, Taught Count: 4, Aprec Avg: 23.72%, Failprec Avg: 1.04%
+Course: CH463, Instructor: Diane K. Hawley, Taught Count: 4, Aprec Avg: 30.47%, Failprec Avg: 4.07%
+Course: CH464, Instructor: Leslie Adrianne Coonrod, Taught Count: 2, Aprec Avg: 47.10%, Failprec Avg: 0.00%
+Course: CH464, Instructor: Diane K. Hawley, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: CH467, Instructor: Diane K. Hawley, Taught Count: 3, Aprec Avg: 33.16%, Failprec Avg: 1.02%
+Course: CH547, Instructor: Marina Guenza, Taught Count: 3, Aprec Avg: 70.73%, Failprec Avg: 0.00%
+Course: CH551, Instructor: Ramesh Jasti, Taught Count: 2, Aprec Avg: 69.70%, Failprec Avg: 0.00%
+Course: CH552, Instructor: Michael M. Haley, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: CH610, Instructor: Richard P. Chartoff, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 0.00%
+Course: CH610, Instructor: Casey E. Check, Taught Count: 1, Aprec Avg: 93.75%, Failprec Avg: 0.00%
+Course: CH610, Instructor: Julie Ann Haack, Taught Count: 1, Aprec Avg: 85.42%, Failprec Avg: 0.00%
+Course: CH667, Instructor: David R. Tyler, Taught Count: 2, Aprec Avg: 50.96%, Failprec Avg: 0.00%
+Course: CH668, Instructor: Willie E. Rochefort, Taught Count: 2, Aprec Avg: 92.50%, Failprec Avg: 0.00%
+Course: CH669, Instructor: Darren W. Johnson, Taught Count: 1, Aprec Avg: 70.59%, Failprec Avg: 0.00%
+Course: CH669, Instructor: Casey E. Check, Taught Count: 1, Aprec Avg: 77.27%, Failprec Avg: 0.00%
+Course: CH678, Instructor: Benjamin Jose Aleman, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: CHN101, Instructor: Denise Huang Gigliotti, Taught Count: 12, Aprec Avg: 63.05%, Failprec Avg: 0.76%
+Course: CHN102, Instructor: Denise Huang Gigliotti, Taught Count: 7, Aprec Avg: 60.10%, Failprec Avg: 0.71%
+Course: CHN103, Instructor: Denise Huang Gigliotti, Taught Count: 7, Aprec Avg: 62.08%, Failprec Avg: 0.00%
+Course: CHN150, Instructor: Monica Eileen McLellan Zikpi, Taught Count: 1, Aprec Avg: 21.35%, Failprec Avg: 16.85%
+Course: CHN150, Instructor: Maram Epstein, Taught Count: 2, Aprec Avg: 32.77%, Failprec Avg: 5.50%
+Course: CHN151, Instructor: Alison M. Groppe, Taught Count: 3, Aprec Avg: 27.97%, Failprec Avg: 1.69%
+Course: CHN151, Instructor: Monica Eileen McLellan Zikpi, Taught Count: 2, Aprec Avg: 23.61%, Failprec Avg: 6.90%
+Course: CHN152, Instructor: Alison M. Groppe, Taught Count: 2, Aprec Avg: 24.76%, Failprec Avg: 0.39%
+Course: CHN152, Instructor: Roy Bing Chan, Taught Count: 2, Aprec Avg: 25.63%, Failprec Avg: 3.54%
+Course: CHN152, Instructor: Luke Ronald Habberstad, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.02%
+Course: CHN201, Instructor: Fengjun Mao, Taught Count: 5, Aprec Avg: 82.50%, Failprec Avg: 0.00%
+Course: CHN202, Instructor: Fengjun Mao, Taught Count: 6, Aprec Avg: 66.44%, Failprec Avg: 3.03%
+Course: CHN203, Instructor: Fengjun Mao, Taught Count: 6, Aprec Avg: 56.13%, Failprec Avg: 4.23%
+Course: CHN301, Instructor: Jean Yuanpeng Wu, Taught Count: 2, Aprec Avg: 69.38%, Failprec Avg: 0.00%
+Course: CHN301, Instructor: Fengjun Mao, Taught Count: 1, Aprec Avg: 81.25%, Failprec Avg: 0.00%
+Course: CHN302, Instructor: Jean Yuanpeng Wu, Taught Count: 5, Aprec Avg: 71.79%, Failprec Avg: 0.00%
+Course: CHN303, Instructor: Jean Yuanpeng Wu, Taught Count: 3, Aprec Avg: 69.49%, Failprec Avg: 0.00%
+Course: CHN305, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 11.27%, Failprec Avg: 11.27%
+Course: CHN305, Instructor: Luke Ronald Habberstad, Taught Count: 3, Aprec Avg: 43.48%, Failprec Avg: 7.49%
+Course: CHN306, Instructor: Yugen Wang, Taught Count: 3, Aprec Avg: 34.35%, Failprec Avg: 6.45%
+Course: CHN306, Instructor: Maram Epstein, Taught Count: 1, Aprec Avg: 47.37%, Failprec Avg: 2.63%
+Course: CHN307, Instructor: Roy Bing Chan, Taught Count: 3, Aprec Avg: 38.25%, Failprec Avg: 3.12%
+Course: CHN307, Instructor: Alison M. Groppe, Taught Count: 1, Aprec Avg: 38.71%, Failprec Avg: 1.61%
+Course: CHN308, Instructor: Alison M. Groppe, Taught Count: 3, Aprec Avg: 50.83%, Failprec Avg: 0.00%
+Course: CHN350, Instructor: Maram Epstein, Taught Count: 2, Aprec Avg: 38.54%, Failprec Avg: 0.04%
+Course: CHN350, Instructor: Monica Eileen McLellan Zikpi, Taught Count: 2, Aprec Avg: 29.81%, Failprec Avg: 6.97%
+Course: CHN351, Instructor: Roy Bing Chan, Taught Count: 3, Aprec Avg: 47.95%, Failprec Avg: 1.15%
+Course: CHN351, Instructor: Maram Epstein, Taught Count: 1, Aprec Avg: 67.57%, Failprec Avg: 2.70%
+Course: CHN399, Instructor: Chunyan He, Taught Count: 3, Aprec Avg: 55.73%, Failprec Avg: 2.22%
+Course: CHN411, Instructor: Jean Yuanpeng Wu, Taught Count: 2, Aprec Avg: 78.57%, Failprec Avg: 0.00%
+Course: CHN412, Instructor: Jean Yuanpeng Wu, Taught Count: 1, Aprec Avg: 69.23%, Failprec Avg: 0.00%
+Course: CHN413, Instructor: Jean Yuanpeng Wu, Taught Count: 1, Aprec Avg: 70.00%, Failprec Avg: 0.00%
+Course: CHN420, Instructor: Fengjun Mao, Taught Count: 3, Aprec Avg: 53.57%, Failprec Avg: 4.17%
+Course: CHN421, Instructor: Fengjun Mao, Taught Count: 1, Aprec Avg: 52.63%, Failprec Avg: 5.26%
+Course: CHN480, Instructor: Zhuo Jing-Schmidt, Taught Count: 2, Aprec Avg: 55.49%, Failprec Avg: 0.00%
+Course: CIS105, Instructor: Arthur Melvin Farley, Taught Count: 1, Aprec Avg: 65.96%, Failprec Avg: 6.38%
+Course: CIS110, Instructor: Gerald Joel Ross, Taught Count: 1, Aprec Avg: 55.49%, Failprec Avg: 10.44%
+Course: CIS110, Instructor: Phillip Dean Colbert, Taught Count: 7, Aprec Avg: 60.34%, Failprec Avg: 3.81%
+Course: CIS110, Instructor: Amir Farzad, Taught Count: 1, Aprec Avg: 88.23%, Failprec Avg: 0.00%
+Course: CIS110, Instructor: Kanika Sood, Taught Count: 1, Aprec Avg: 69.56%, Failprec Avg: 4.35%
+Course: CIS110, Instructor: Michael Shane Hennessy, Taught Count: 4, Aprec Avg: 22.79%, Failprec Avg: 3.42%
+Course: CIS110, Instructor: Elizabeth Pearl Ann Fuller, Taught Count: 2, Aprec Avg: 82.33%, Failprec Avg: 2.71%
+Course: CIS110, Instructor: Mingwei Zhang, Taught Count: 1, Aprec Avg: 82.95%, Failprec Avg: 3.10%
+Course: CIS111, Instructor: Christie Lee Lili Prottsman, Taught Count: 1, Aprec Avg: 40.62%, Failprec Avg: 12.50%
+Course: CIS111, Instructor: Michael Shane Hennessy, Taught Count: 11, Aprec Avg: 51.24%, Failprec Avg: 2.04%
+Course: CIS111, Instructor: Pat Holleran, Taught Count: 7, Aprec Avg: 32.92%, Failprec Avg: 7.63%
+Course: CIS111, Instructor: David A. Wilkins, Taught Count: 2, Aprec Avg: 48.89%, Failprec Avg: 6.51%
+Course: CIS111, Instructor: Zeinab Riazi, Taught Count: 1, Aprec Avg: 70.59%, Failprec Avg: 5.88%
+Course: CIS111, Instructor: Sudhanshu Sanjay Sane, Taught Count: 1, Aprec Avg: 80.77%, Failprec Avg: 0.00%
+Course: CIS111, Instructor: Brian Arnett Bird, Taught Count: 1, Aprec Avg: 35.23%, Failprec Avg: 6.82%
+Course: CIS111, Instructor: Makseem Angel Skorodinsky, Taught Count: 1, Aprec Avg: 39.51%, Failprec Avg: 3.70%
+Course: CIS111, Instructor: Phillip Dean Colbert, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 7.14%
+Course: CIS111, Instructor: Ronald Kent Little, Taught Count: 1, Aprec Avg: 31.01%, Failprec Avg: 2.33%
+Course: CIS115, Instructor: Eric David Wills, Taught Count: 2, Aprec Avg: 30.31%, Failprec Avg: 6.58%
+Course: CIS115, Instructor: Phillip Dean Colbert, Taught Count: 5, Aprec Avg: 47.88%, Failprec Avg: 7.07%
+Course: CIS122, Instructor: David A. Wilkins, Taught Count: 7, Aprec Avg: 50.76%, Failprec Avg: 6.78%
+Course: CIS122, Instructor: Kathleen Freeman Hennessy, Taught Count: 3, Aprec Avg: 51.09%, Failprec Avg: 7.59%
+Course: CIS122, Instructor: Jason Lee Fahrion, Taught Count: 1, Aprec Avg: 74.14%, Failprec Avg: 0.00%
+Course: CIS122, Instructor: Gautam Ghanashyam Sondur, Taught Count: 1, Aprec Avg: 84.00%, Failprec Avg: 0.00%
+Course: CIS122, Instructor: Raleigh Francis Foster, Taught Count: 1, Aprec Avg: 88.89%, Failprec Avg: 0.00%
+Course: CIS122, Instructor: Bijan Yaghoubi Shahir, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 4.65%
+Course: CIS210, Instructor: Michal Terry Young, Taught Count: 3, Aprec Avg: 37.95%, Failprec Avg: 11.90%
+Course: CIS210, Instructor: Joseph Sherman Sventek, Taught Count: 1, Aprec Avg: 23.33%, Failprec Avg: 9.17%
+Course: CIS210, Instructor: Kathleen Freeman Hennessy, Taught Count: 3, Aprec Avg: 16.15%, Failprec Avg: 14.85%
+Course: CIS211, Instructor: John Conery, Taught Count: 5, Aprec Avg: 35.22%, Failprec Avg: 1.38%
+Course: CIS211, Instructor: Anthony J. Hornof, Taught Count: 1, Aprec Avg: 49.31%, Failprec Avg: 15.07%
+Course: CIS211, Instructor: Michal Terry Young, Taught Count: 2, Aprec Avg: 27.59%, Failprec Avg: 1.11%
+Course: CIS212, Instructor: Eric David Wills, Taught Count: 6, Aprec Avg: 44.87%, Failprec Avg: 8.00%
+Course: CIS212, Instructor: Lei Jiao, Taught Count: 2, Aprec Avg: 27.98%, Failprec Avg: 10.72%
+Course: CIS313, Instructor: Andrzej Proskurowski, Taught Count: 6, Aprec Avg: 45.44%, Failprec Avg: 3.73%
+Course: CIS313, Instructor: Daniel Baruch Lowd, Taught Count: 2, Aprec Avg: 8.98%, Failprec Avg: 7.15%
+Course: CIS313, Instructor: Christopher Wilson, Taught Count: 1, Aprec Avg: 7.50%, Failprec Avg: 10.00%
+Course: CIS313, Instructor: Xiaodi Wu, Taught Count: 1, Aprec Avg: 29.23%, Failprec Avg: 1.54%
+Course: CIS313, Instructor: Joseph Sherman Sventek, Taught Count: 1, Aprec Avg: 17.95%, Failprec Avg: 6.41%
+Course: CIS314, Instructor: Eric David Wills, Taught Count: 7, Aprec Avg: 34.31%, Failprec Avg: 4.63%
+Course: CIS314, Instructor: Michel Ako Kinsy, Taught Count: 1, Aprec Avg: 29.79%, Failprec Avg: 19.15%
+Course: CIS315, Instructor: Christopher Wilson, Taught Count: 8, Aprec Avg: 36.68%, Failprec Avg: 5.82%
+Course: CIS330, Instructor: Boyana Radenska Norris, Taught Count: 4, Aprec Avg: 52.37%, Failprec Avg: 4.66%
+Course: CIS330, Instructor: Henry Roberts Childs, Taught Count: 3, Aprec Avg: 49.36%, Failprec Avg: 11.71%
+Course: CIS399, Instructor: Stephen F. Fickas, Taught Count: 4, Aprec Avg: 72.75%, Failprec Avg: 0.76%
+Course: CIS399, Instructor: Steven E. VanDevender, Taught Count: 3, Aprec Avg: 61.63%, Failprec Avg: 6.67%
+Course: CIS399, Instructor: Brian Arnett Bird, Taught Count: 3, Aprec Avg: 62.70%, Failprec Avg: 6.55%
+Course: CIS399, Instructor: Charles Martel Augustine, Taught Count: 3, Aprec Avg: 55.80%, Failprec Avg: 12.02%
+Course: CIS399, Instructor: Michal Terry Young, Taught Count: 2, Aprec Avg: 36.67%, Failprec Avg: 10.84%
+Course: CIS399, Instructor: Daniel Baruch Lowd, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 5.61%
+Course: CIS410, Instructor: Kent A. Stevens, Taught Count: 3, Aprec Avg: 60.62%, Failprec Avg: 0.00%
+Course: CIS410, Instructor: Boyana Radenska Norris, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 0.00%
+Course: CIS410, Instructor: Eugene Luks, Taught Count: 1, Aprec Avg: 9.09%, Failprec Avg: 0.00%
+Course: CIS410, Instructor: Allen Malony, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 12.50%
+Course: CIS410, Instructor: Henry Roberts Childs, Taught Count: 2, Aprec Avg: 45.48%, Failprec Avg: 0.03%
+Course: CIS415, Instructor: Kevin Raymond Butler, Taught Count: 1, Aprec Avg: 14.71%, Failprec Avg: 5.88%
+Course: CIS415, Instructor: Allen Malony, Taught Count: 2, Aprec Avg: 29.18%, Failprec Avg: 9.76%
+Course: CIS415, Instructor: Joseph Sherman Sventek, Taught Count: 4, Aprec Avg: 24.36%, Failprec Avg: 6.29%
+Course: CIS420, Instructor: Heidi E. Dixon, Taught Count: 2, Aprec Avg: 50.91%, Failprec Avg: 9.34%
+Course: CIS420, Instructor: Christopher Wilson, Taught Count: 2, Aprec Avg: 35.42%, Failprec Avg: 4.18%
+Course: CIS422, Instructor: Stuart Faulk, Taught Count: 11, Aprec Avg: 38.12%, Failprec Avg: 1.53%
+Course: CIS422, Instructor: Michal Terry Young, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 4.17%
+Course: CIS422, Instructor: Anthony J. Hornof, Taught Count: 1, Aprec Avg: 29.03%, Failprec Avg: 0.00%
+Course: CIS423, Instructor: Michal Terry Young, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 0.00%
+Course: CIS423, Instructor: Stuart Faulk, Taught Count: 2, Aprec Avg: 52.50%, Failprec Avg: 2.50%
+Course: CIS425, Instructor: Zena Ariola, Taught Count: 8, Aprec Avg: 20.40%, Failprec Avg: 6.98%
+Course: CIS427, Instructor: Zena Ariola, Taught Count: 3, Aprec Avg: 22.54%, Failprec Avg: 0.00%
+Course: CIS429, Instructor: Michel Ako Kinsy, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 14.29%
+Course: CIS432, Instructor: Jun Li, Taught Count: 1, Aprec Avg: 38.89%, Failprec Avg: 16.67%
+Course: CIS432, Instructor: Reza Rejaie, Taught Count: 3, Aprec Avg: 18.87%, Failprec Avg: 9.45%
+Course: CIS433, Instructor: Jun Li, Taught Count: 4, Aprec Avg: 50.86%, Failprec Avg: 0.00%
+Course: CIS441, Instructor: Henry Roberts Childs, Taught Count: 1, Aprec Avg: 55.00%, Failprec Avg: 0.00%
+Course: CIS443, Instructor: Anthony J. Hornof, Taught Count: 3, Aprec Avg: 35.47%, Failprec Avg: 2.08%
+Course: CIS445, Instructor: Jun Li, Taught Count: 1, Aprec Avg: 35.71%, Failprec Avg: 0.00%
+Course: CIS451, Instructor: Christopher Wilson, Taught Count: 3, Aprec Avg: 52.56%, Failprec Avg: 2.01%
+Course: CIS452, Instructor: Dejing Dou, Taught Count: 1, Aprec Avg: 81.25%, Failprec Avg: 0.00%
+Course: CIS471, Instructor: Dejing Dou, Taught Count: 3, Aprec Avg: 27.70%, Failprec Avg: 10.63%
+Course: CIS472, Instructor: Dejing Dou, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 0.00%
+Course: CIS472, Instructor: Daniel Baruch Lowd, Taught Count: 3, Aprec Avg: 31.50%, Failprec Avg: 14.53%
+Course: CIS490, Instructor: Arthur Melvin Farley, Taught Count: 2, Aprec Avg: 29.82%, Failprec Avg: 0.00%
+Course: CIS572, Instructor: Dejing Dou, Taught Count: 1, Aprec Avg: 70.00%, Failprec Avg: 0.00%
+Course: CIS572, Instructor: Daniel Baruch Lowd, Taught Count: 3, Aprec Avg: 64.96%, Failprec Avg: 2.56%
+Course: CIS621, Instructor: Christopher Wilson, Taught Count: 2, Aprec Avg: 68.89%, Failprec Avg: 0.00%
+Course: CIS624, Instructor: Boyana Radenska Norris, Taught Count: 3, Aprec Avg: 80.08%, Failprec Avg: 0.00%
+Course: CIS630, Instructor: Reza Rejaie, Taught Count: 3, Aprec Avg: 48.46%, Failprec Avg: 0.00%
+Course: CIS650, Instructor: Stephen F. Fickas, Taught Count: 4, Aprec Avg: 89.17%, Failprec Avg: 0.00%
+Course: HPHY101, Instructor: Kara Marie Beasley, Taught Count: 1, Aprec Avg: 85.50%, Failprec Avg: 0.50%
+Course: HPHY101, Instructor: Jennifer Ann Miner, Taught Count: 2, Aprec Avg: 37.34%, Failprec Avg: 2.78%
+Course: HPHY102, Instructor: Robin M. Hopkins, Taught Count: 1, Aprec Avg: 27.50%, Failprec Avg: 10.00%
+Course: HPHY102, Instructor: James John Hannigan, Taught Count: 1, Aprec Avg: 76.47%, Failprec Avg: 0.00%
+Course: HPHY103, Instructor: James John Hannigan, Taught Count: 2, Aprec Avg: 29.25%, Failprec Avg: 5.33%
+Course: HPHY104, Instructor: Vern L. Katz, Taught Count: 3, Aprec Avg: 47.45%, Failprec Avg: 6.61%
+Course: HPHY105, Instructor: Ingrid Adrienne Skoog, Taught Count: 3, Aprec Avg: 48.09%, Failprec Avg: 2.78%
+Course: HPHY105, Instructor: Elinor Louise Sullivan, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 1.33%
+Course: HPHY111, Instructor: Sierra Dawson, Taught Count: 3, Aprec Avg: 66.85%, Failprec Avg: 2.90%
+Course: HPHY211, Instructor: Jonathon Cory Miner, Taught Count: 4, Aprec Avg: 33.33%, Failprec Avg: 7.29%
+Course: HPHY211, Instructor: Robin M. Hopkins, Taught Count: 8, Aprec Avg: 56.48%, Failprec Avg: 2.23%
+Course: HPHY211, Instructor: Austin Dean Hocker, Taught Count: 1, Aprec Avg: 62.18%, Failprec Avg: 5.77%
+Course: HPHY211, Instructor: Alice Sawyer Green Callahan, Taught Count: 1, Aprec Avg: 74.09%, Failprec Avg: 2.59%
+Course: HPHY211, Instructor: Nicole Christiane Swann, Taught Count: 1, Aprec Avg: 69.23%, Failprec Avg: 0.71%
+Course: HPHY212, Instructor: Andrew Robert Karduna, Taught Count: 4, Aprec Avg: 27.13%, Failprec Avg: 4.09%
+Course: HPHY212, Instructor: James Thomas Davis, Taught Count: 1, Aprec Avg: 84.95%, Failprec Avg: 1.07%
+Course: HPHY212, Instructor: Philip D. Matern, Taught Count: 5, Aprec Avg: 54.16%, Failprec Avg: 5.80%
+Course: HPHY212, Instructor: Kimber Marie Mattox, Taught Count: 2, Aprec Avg: 48.27%, Failprec Avg: 2.03%
+Course: HPHY321, Instructor: Jon W. Runyeon, Taught Count: 5, Aprec Avg: 24.92%, Failprec Avg: 7.53%
+Course: HPHY321, Instructor: Jacqlyn Shiri Hyler, Taught Count: 1, Aprec Avg: 27.59%, Failprec Avg: 10.35%
+Course: HPHY322, Instructor: Sierra Dawson, Taught Count: 4, Aprec Avg: 26.43%, Failprec Avg: 6.07%
+Course: HPHY322, Instructor: Brett Romano Ely, Taught Count: 1, Aprec Avg: 32.00%, Failprec Avg: 4.00%
+Course: HPHY322, Instructor: Kimber Marie Mattox, Taught Count: 1, Aprec Avg: 46.57%, Failprec Avg: 1.09%
+Course: HPHY323, Instructor: Jon W. Runyeon, Taught Count: 7, Aprec Avg: 43.51%, Failprec Avg: 4.18%
+Course: HPHY323, Instructor: Jennifer Ann Miner, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 3.03%
+Course: HPHY324, Instructor: Sierra Dawson, Taught Count: 3, Aprec Avg: 31.52%, Failprec Avg: 4.52%
+Course: HPHY324, Instructor: Kimber Marie Mattox, Taught Count: 5, Aprec Avg: 49.89%, Failprec Avg: 1.75%
+Course: HPHY325, Instructor: Jennifer Ann Miner, Taught Count: 3, Aprec Avg: 59.64%, Failprec Avg: 2.41%
+Course: HPHY325, Instructor: Jon W. Runyeon, Taught Count: 1, Aprec Avg: 25.93%, Failprec Avg: 3.70%
+Course: HPHY325, Instructor: Robin M. Hopkins, Taught Count: 4, Aprec Avg: 16.51%, Failprec Avg: 3.44%
+Course: HPHY325, Instructor: Jacqlyn Hyler King, Taught Count: 1, Aprec Avg: 85.00%, Failprec Avg: 0.00%
+Course: HPHY333, Instructor: Anita D. Christie, Taught Count: 4, Aprec Avg: 21.81%, Failprec Avg: 3.59%
+Course: HPHY333, Instructor: On-Yee Lo, Taught Count: 1, Aprec Avg: 78.02%, Failprec Avg: 2.20%
+Course: HPHY337, Instructor: Brian Reed Nichols, Taught Count: 1, Aprec Avg: 76.36%, Failprec Avg: 0.00%
+Course: HPHY362, Instructor: Grace Marie Golden, Taught Count: 7, Aprec Avg: 43.96%, Failprec Avg: 1.55%
+Course: HPHY362, Instructor: Shelley Wadsworth Linens, Taught Count: 1, Aprec Avg: 50.77%, Failprec Avg: 0.00%
+Course: HPHY371, Instructor: John R. Halliwill, Taught Count: 2, Aprec Avg: 49.03%, Failprec Avg: 0.29%
+Course: HPHY371, Instructor: Kimber Marie Mattox, Taught Count: 2, Aprec Avg: 41.96%, Failprec Avg: 0.45%
+Course: HPHY371, Instructor: Philip D. Matern, Taught Count: 3, Aprec Avg: 26.92%, Failprec Avg: 0.28%
+Course: HPHY371, Instructor: Dylan Charles Sieck, Taught Count: 1, Aprec Avg: 13.68%, Failprec Avg: 0.00%
+Course: HPHY381, Instructor: On-Yee Lo, Taught Count: 1, Aprec Avg: 70.00%, Failprec Avg: 0.00%
+Course: HPHY381, Instructor: Michael E. Hahn, Taught Count: 2, Aprec Avg: 29.81%, Failprec Avg: 1.93%
+Course: HPHY381, Instructor: James John Hannigan, Taught Count: 1, Aprec Avg: 97.22%, Failprec Avg: 0.00%
+Course: HPHY381, Instructor: Andrew Robert Karduna, Taught Count: 1, Aprec Avg: 41.94%, Failprec Avg: 3.23%
+Course: HPHY399, Instructor: Philip D. Matern, Taught Count: 1, Aprec Avg: 50.88%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Kimber Marie Mattox, Taught Count: 2, Aprec Avg: 46.80%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Brian Reed Nichols, Taught Count: 5, Aprec Avg: 41.52%, Failprec Avg: 1.25%
+Course: HPHY410, Instructor: Carrie Evelyn McCurdy, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Brian Harry Dalton, Taught Count: 1, Aprec Avg: 52.63%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Philip D. Matern, Taught Count: 1, Aprec Avg: 77.78%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Robin M. Hopkins, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Ashley Elizabeth Walker, Taught Count: 2, Aprec Avg: 69.72%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Adrianne G. Huxtable, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: HPHY410, Instructor: Ian Greenhouse, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%
+Course: HPHY412, Instructor: Andrew Thomas Lovering, Taught Count: 3, Aprec Avg: 53.30%, Failprec Avg: 0.00%
+Course: HPHY413, Instructor: Hans Christian Dreyer, Taught Count: 1, Aprec Avg: 46.43%, Failprec Avg: 3.57%
+Course: HPHY413, Instructor: Philip D. Matern, Taught Count: 1, Aprec Avg: 82.61%, Failprec Avg: 0.00%
+Course: HPHY413, Instructor: Damien M. Callahan, Taught Count: 1, Aprec Avg: 68.97%, Failprec Avg: 0.00%
+Course: HPHY414, Instructor: Hans Christian Dreyer, Taught Count: 1, Aprec Avg: 92.59%, Failprec Avg: 3.70%
+Course: HPHY417, Instructor: Jeffrey Gilbert, Taught Count: 2, Aprec Avg: 36.58%, Failprec Avg: 0.00%
+Course: HPHY419, Instructor: Marjorie H. Woollacott, Taught Count: 2, Aprec Avg: 54.52%, Failprec Avg: 2.94%
+Course: HPHY421, Instructor: Brian Reed Nichols, Taught Count: 2, Aprec Avg: 42.70%, Failprec Avg: 0.00%
+Course: HPHY422, Instructor: Carrie Evelyn McCurdy, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: HPHY433, Instructor: Jon W. Runyeon, Taught Count: 3, Aprec Avg: 74.94%, Failprec Avg: 0.00%
+Course: HPHY434, Instructor: Anita D. Christie, Taught Count: 3, Aprec Avg: 79.37%, Failprec Avg: 0.00%
+Course: HPHY434, Instructor: Brian Harry Dalton, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: HPHY435, Instructor: Brian Harry Dalton, Taught Count: 1, Aprec Avg: 86.36%, Failprec Avg: 0.00%
+Course: HPHY441, Instructor: Aaron W. Harding, Taught Count: 1, Aprec Avg: 94.74%, Failprec Avg: 0.00%
+Course: HPHY442, Instructor: Jonathon Cory Miner, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: HPHY443, Instructor: Brian Reed Nichols, Taught Count: 1, Aprec Avg: 54.05%, Failprec Avg: 0.00%
+Course: HPHY460, Instructor: Sean Michael Roach, Taught Count: 2, Aprec Avg: 70.46%, Failprec Avg: 2.00%
+Course: HPHY462, Instructor: Grace Marie Golden, Taught Count: 4, Aprec Avg: 81.75%, Failprec Avg: 0.00%
+Course: HPHY470, Instructor: John R. Halliwill, Taught Count: 4, Aprec Avg: 78.17%, Failprec Avg: 0.00%
+Course: HPHY470, Instructor: Christopher Todd Minson, Taught Count: 2, Aprec Avg: 55.56%, Failprec Avg: 0.00%
+Course: HPHY473, Instructor: Andrew Thomas Lovering, Taught Count: 1, Aprec Avg: 77.78%, Failprec Avg: 0.00%
+Course: MATH105, Instructor: Elina Yurevna Kleshcheva, Taught Count: 3, Aprec Avg: 25.84%, Failprec Avg: 11.94%
+Course: MATH105, Instructor: David Christopher Steinberg, Taught Count: 5, Aprec Avg: 16.52%, Failprec Avg: 12.26%
+Course: MATH105, Instructor: Cassandra Rae Sturgill, Taught Count: 1, Aprec Avg: 9.17%, Failprec Avg: 14.68%
+Course: MATH105, Instructor: Tammy Marie Nezol, Taught Count: 2, Aprec Avg: 35.65%, Failprec Avg: 13.16%
+Course: MATH105, Instructor: Clover May, Taught Count: 1, Aprec Avg: 59.38%, Failprec Avg: 6.25%
+Course: MATH105, Instructor: Nickolas Donald Winovich, Taught Count: 1, Aprec Avg: 53.33%, Failprec Avg: 0.00%
+Course: MATH105, Instructor: Eric King Hogle, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 4.54%
+Course: MATH105, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH105, Instructor: Alexander Kleshchev, Taught Count: 1, Aprec Avg: 26.98%, Failprec Avg: 7.94%
+Course: MATH105, Instructor: James Isenberg, Taught Count: 1, Aprec Avg: 10.38%, Failprec Avg: 5.66%
+Course: MATH105, Instructor: Cassandra Rae Fisher, Taught Count: 8, Aprec Avg: 24.03%, Failprec Avg: 15.73%
+Course: MATH105, Instructor: Christophe H. Dethier, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: MATH105, Instructor: Doeke David Buursma, Taught Count: 2, Aprec Avg: 40.67%, Failprec Avg: 4.78%
+Course: MATH105, Instructor: Bradley Lewis Burdick, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 26.67%
+Course: MATH105, Instructor: Helen Kathleen Jenne, Taught Count: 1, Aprec Avg: 23.81%, Failprec Avg: 9.52%
+Course: MATH105, Instructor: Kristen Lynn Henderson, Taught Count: 1, Aprec Avg: 12.68%, Failprec Avg: 9.89%
+Course: MATH106, Instructor: Jeffrey Andrew Battiste, Taught Count: 1, Aprec Avg: 3.03%, Failprec Avg: 27.27%
+Course: MATH106, Instructor: David Christopher Steinberg, Taught Count: 6, Aprec Avg: 19.93%, Failprec Avg: 9.49%
+Course: MATH106, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 26.97%, Failprec Avg: 7.87%
+Course: MATH106, Instructor: Adam Paul Welly, Taught Count: 1, Aprec Avg: 77.50%, Failprec Avg: 2.50%
+Course: MATH106, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 52.17%, Failprec Avg: 4.35%
+Course: MATH106, Instructor: Martin Wesley Hiserote, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 11.11%
+Course: MATH106, Instructor: Tammy Marie Nezol, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 11.11%
+Course: MATH106, Instructor: Elina Yurevna Kleshcheva, Taught Count: 1, Aprec Avg: 2.78%, Failprec Avg: 11.11%
+Course: MATH106, Instructor: Jonathan Michael Wells, Taught Count: 1, Aprec Avg: 54.76%, Failprec Avg: 9.52%
+Course: MATH106, Instructor: Kyle Patrick Evitts, Taught Count: 1, Aprec Avg: 53.33%, Failprec Avg: 6.67%
+Course: MATH106, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 26.67%, Failprec Avg: 20.00%
+Course: MATH106, Instructor: Christina Lynn Hazel, Taught Count: 2, Aprec Avg: 32.14%, Failprec Avg: 2.38%
+Course: MATH106, Instructor: Kai Shyang Wang, Taught Count: 1, Aprec Avg: 11.63%, Failprec Avg: 25.58%
+Course: MATH106, Instructor: Cassandra Rae Fisher, Taught Count: 2, Aprec Avg: 47.42%, Failprec Avg: 4.77%
+Course: MATH106, Instructor: Joe Whaley Webster, Taught Count: 1, Aprec Avg: 52.00%, Failprec Avg: 8.00%
+Course: MATH106, Instructor: Kristen Lynn Henderson, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 10.42%
+Course: MATH107, Instructor: Elina Yurevna Kleshcheva, Taught Count: 3, Aprec Avg: 31.10%, Failprec Avg: 2.96%
+Course: MATH107, Instructor: David Christopher Steinberg, Taught Count: 2, Aprec Avg: 44.62%, Failprec Avg: 7.73%
+Course: MATH107, Instructor: Keegan L. Boyle, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 7.69%
+Course: MATH107, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 5.46%, Failprec Avg: 5.45%
+Course: MATH107, Instructor: Paul A. Herstedt, Taught Count: 1, Aprec Avg: 77.42%, Failprec Avg: 0.00%
+Course: MATH107, Instructor: Cassandra Rae Fisher, Taught Count: 1, Aprec Avg: 5.56%, Failprec Avg: 8.89%
+Course: MATH107, Instructor: Kai Shyang Wang, Taught Count: 1, Aprec Avg: 20.83%, Failprec Avg: 9.38%
+Course: MATH107, Instructor: Phillip L. Staley, Taught Count: 1, Aprec Avg: 36.36%, Failprec Avg: 0.00%
+Course: MATH107, Instructor: Tammy Marie Nezol, Taught Count: 1, Aprec Avg: 30.33%, Failprec Avg: 2.48%
+Course: MATH111, Instructor: Matthew David Arbo, Taught Count: 2, Aprec Avg: 14.29%, Failprec Avg: 27.11%
+Course: MATH111, Instructor: Benjamin Patrick Dyer, Taught Count: 5, Aprec Avg: 30.51%, Failprec Avg: 17.43%
+Course: MATH111, Instructor: Janelle A. Currey, Taught Count: 4, Aprec Avg: 26.12%, Failprec Avg: 12.48%
+Course: MATH111, Instructor: Jeffrey F. Musyt, Taught Count: 3, Aprec Avg: 32.40%, Failprec Avg: 3.30%
+Course: MATH111, Instructor: Marriott Edward Grimes, Taught Count: 2, Aprec Avg: 20.52%, Failprec Avg: 21.14%
+Course: MATH111, Instructor: Liliana Anna Pazdan-Siudeja, Taught Count: 14, Aprec Avg: 24.15%, Failprec Avg: 17.49%
+Course: MATH111, Instructor: Maria Nemirovskaya, Taught Count: 2, Aprec Avg: 19.79%, Failprec Avg: 15.30%
+Course: MATH111, Instructor: Joshua Elliott Ericson, Taught Count: 2, Aprec Avg: 19.02%, Failprec Avg: 3.78%
+Course: MATH111, Instructor: Gavin Keith Armstrong, Taught Count: 6, Aprec Avg: 40.62%, Failprec Avg: 6.34%
+Course: MATH111, Instructor: K. Hawley, Taught Count: 1, Aprec Avg: 47.73%, Failprec Avg: 4.54%
+Course: MATH111, Instructor: Christophe H. Dethier, Taught Count: 4, Aprec Avg: 32.38%, Failprec Avg: 9.66%
+Course: MATH111, Instructor: Fred Hervert, Taught Count: 11, Aprec Avg: 30.58%, Failprec Avg: 22.27%
+Course: MATH111, Instructor: Craig Choules Tingey, Taught Count: 8, Aprec Avg: 38.65%, Failprec Avg: 4.22%
+Course: MATH111, Instructor: Keegan L. Boyle, Taught Count: 4, Aprec Avg: 15.55%, Failprec Avg: 13.80%
+Course: MATH111, Instructor: Paul A. Herstedt, Taught Count: 4, Aprec Avg: 33.07%, Failprec Avg: 10.29%
+Course: MATH111, Instructor: Ryan Takahashi, Taught Count: 6, Aprec Avg: 30.16%, Failprec Avg: 15.28%
+Course: MATH111, Instructor: Nick Jon Davidson, Taught Count: 3, Aprec Avg: 21.81%, Failprec Avg: 12.58%
+Course: MATH111, Instructor: Christopher Ernst Hardy, Taught Count: 2, Aprec Avg: 38.32%, Failprec Avg: 15.65%
+Course: MATH111, Instructor: Tyler Andrew Russell, Taught Count: 4, Aprec Avg: 13.99%, Failprec Avg: 12.60%
+Course: MATH111, Instructor: Andrew Scott Reynolds, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 33.33%
+Course: MATH111, Instructor: Leanne E. Merrill, Taught Count: 1, Aprec Avg: 7.69%, Failprec Avg: 7.69%
+Course: MATH111, Instructor: Claire E. Dodson, Taught Count: 4, Aprec Avg: 30.53%, Failprec Avg: 14.50%
+Course: MATH111, Instructor: Tammy Marie Nezol, Taught Count: 5, Aprec Avg: 23.47%, Failprec Avg: 11.73%
+Course: MATH111, Instructor: Leila Michelle Vaden, Taught Count: 1, Aprec Avg: 31.03%, Failprec Avg: 17.24%
+Course: MATH111, Instructor: Christopher Paul Mehl, Taught Count: 3, Aprec Avg: 38.52%, Failprec Avg: 6.72%
+Course: MATH111, Instructor: Katie Rose Gedeon, Taught Count: 3, Aprec Avg: 46.56%, Failprec Avg: 13.94%
+Course: MATH111, Instructor: Martin Wesley Hiserote, Taught Count: 1, Aprec Avg: 30.30%, Failprec Avg: 21.21%
+Course: MATH111, Instructor: Allen James Stewart, Taught Count: 2, Aprec Avg: 20.94%, Failprec Avg: 21.50%
+Course: MATH111, Instructor: Emilio Eusebio Gardella, Taught Count: 4, Aprec Avg: 29.16%, Failprec Avg: 14.29%
+Course: MATH111, Instructor: Travis Conner VanDevanter, Taught Count: 1, Aprec Avg: 27.59%, Failprec Avg: 24.14%
+Course: MATH111, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 5, Aprec Avg: 27.73%, Failprec Avg: 6.38%
+Course: MATH111, Instructor: Cassandra Rae Sturgill, Taught Count: 1, Aprec Avg: 40.74%, Failprec Avg: 25.93%
+Course: MATH111, Instructor: David Christopher Steinberg, Taught Count: 3, Aprec Avg: 14.13%, Failprec Avg: 28.78%
+Course: MATH111, Instructor: Jean Bernard Nganou, Taught Count: 1, Aprec Avg: 34.48%, Failprec Avg: 13.79%
+Course: MATH111, Instructor: Abhinav Verma, Taught Count: 1, Aprec Avg: 43.33%, Failprec Avg: 26.67%
+Course: MATH111, Instructor: Matthew Arthur Farley, Taught Count: 1, Aprec Avg: 18.18%, Failprec Avg: 40.91%
+Course: MATH111, Instructor: Douglas Craig Hintz, Taught Count: 2, Aprec Avg: 33.46%, Failprec Avg: 11.95%
+Course: MATH111, Instructor: Joe Whaley Webster, Taught Count: 2, Aprec Avg: 26.74%, Failprec Avg: 17.21%
+Course: MATH111, Instructor: Patrick Andrew Durkin, Taught Count: 2, Aprec Avg: 10.00%, Failprec Avg: 13.57%
+Course: MATH111, Instructor: Eric John Merchant, Taught Count: 2, Aprec Avg: 16.34%, Failprec Avg: 16.12%
+Course: MATH111, Instructor: Anthony Jordan Meyer, Taught Count: 2, Aprec Avg: 17.14%, Failprec Avg: 10.88%
+Course: MATH111, Instructor: Kathryn Hawley, Taught Count: 3, Aprec Avg: 41.91%, Failprec Avg: 6.43%
+Course: MATH111, Instructor: Andrew Michael Stephens, Taught Count: 5, Aprec Avg: 21.16%, Failprec Avg: 10.66%
+Course: MATH111, Instructor: Michael Robert Price, Taught Count: 2, Aprec Avg: 33.93%, Failprec Avg: 12.50%
+Course: MATH111, Instructor: Tianyuan Xu, Taught Count: 2, Aprec Avg: 23.44%, Failprec Avg: 18.75%
+Course: MATH111, Instructor: Demetre Peter Kazaras, Taught Count: 2, Aprec Avg: 22.08%, Failprec Avg: 15.93%
+Course: MATH111, Instructor: Arunima Bhattacharya, Taught Count: 5, Aprec Avg: 20.95%, Failprec Avg: 18.99%
+Course: MATH111, Instructor: Andrew S. Wray, Taught Count: 4, Aprec Avg: 21.14%, Failprec Avg: 18.50%
+Course: MATH111, Instructor: Sarah Jo Frei, Taught Count: 3, Aprec Avg: 33.75%, Failprec Avg: 13.33%
+Course: MATH111, Instructor: Helen Kathleen Jenne, Taught Count: 3, Aprec Avg: 28.97%, Failprec Avg: 12.30%
+Course: MATH111, Instructor: Christina Lynn Hazel, Taught Count: 4, Aprec Avg: 30.60%, Failprec Avg: 11.67%
+Course: MATH111, Instructor: Kyle Patrick Evitts, Taught Count: 4, Aprec Avg: 24.93%, Failprec Avg: 19.59%
+Course: MATH111, Instructor: Bradley Lewis Burdick, Taught Count: 4, Aprec Avg: 25.79%, Failprec Avg: 14.65%
+Course: MATH111, Instructor: Hannah Alice Winkler, Taught Count: 3, Aprec Avg: 41.84%, Failprec Avg: 10.35%
+Course: MATH111, Instructor: Robert Brian Usher, Taught Count: 2, Aprec Avg: 22.38%, Failprec Avg: 19.62%
+Course: MATH111, Instructor: Doeke David Buursma, Taught Count: 1, Aprec Avg: 10.00%, Failprec Avg: 20.00%
+Course: MATH111, Instructor: Thomas Andrew Pitts, Taught Count: 2, Aprec Avg: 41.91%, Failprec Avg: 8.45%
+Course: MATH111, Instructor: Cassandra Rae Fisher, Taught Count: 5, Aprec Avg: 20.13%, Failprec Avg: 30.99%
+Course: MATH111, Instructor: Bijan Yaghoubi Shahir, Taught Count: 3, Aprec Avg: 17.55%, Failprec Avg: 15.65%
+Course: MATH111, Instructor: Kai Shyang Wang, Taught Count: 2, Aprec Avg: 25.62%, Failprec Avg: 11.35%
+Course: MATH111, Instructor: Dana Lauren Fry, Taught Count: 4, Aprec Avg: 12.38%, Failprec Avg: 8.96%
+Course: MATH111, Instructor: Jeffrey Allen Monroe, Taught Count: 2, Aprec Avg: 16.34%, Failprec Avg: 14.36%
+Course: MATH111, Instructor: Karl Philip Schmidt, Taught Count: 2, Aprec Avg: 31.70%, Failprec Avg: 25.16%
+Course: MATH111, Instructor: Wei Zhang, Taught Count: 2, Aprec Avg: 41.67%, Failprec Avg: 14.59%
+Course: MATH111, Instructor: Maya E. Davis, Taught Count: 2, Aprec Avg: 39.81%, Failprec Avg: 4.35%
+Course: MATH111, Instructor: Matthew Mark Lukac, Taught Count: 3, Aprec Avg: 23.01%, Failprec Avg: 14.18%
+Course: MATH111, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 37.04%, Failprec Avg: 22.22%
+Course: MATH111, Instructor: Wenjing Yao, Taught Count: 10, Aprec Avg: 20.01%, Failprec Avg: 11.11%
+Course: MATH111, Instructor: Kristen Lynn Henderson, Taught Count: 2, Aprec Avg: 29.17%, Failprec Avg: 19.59%
+Course: MATH111, Instructor: Isaac Ahern, Taught Count: 2, Aprec Avg: 52.38%, Failprec Avg: 10.31%
+Course: MATH111, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 2, Aprec Avg: 20.09%, Failprec Avg: 0.00%
+Course: MATH111, Instructor: Nathan S. Hunter, Taught Count: 3, Aprec Avg: 41.99%, Failprec Avg: 11.29%
+Course: MATH111, Instructor: Elisa Michelle Bellah, Taught Count: 3, Aprec Avg: 31.96%, Failprec Avg: 8.96%
+Course: MATH111, Instructor: Daniel Hothem, Taught Count: 3, Aprec Avg: 14.54%, Failprec Avg: 8.83%
+Course: MATH111, Instructor: David Loren Collett, Taught Count: 4, Aprec Avg: 15.49%, Failprec Avg: 22.50%
+Course: MATH111, Instructor: Phillip L. Staley, Taught Count: 3, Aprec Avg: 29.76%, Failprec Avg: 2.34%
+Course: MATH111, Instructor: Michael Johnson Gwynn, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 7.69%
+Course: MATH111, Instructor: Shlomo Libeskind, Taught Count: 1, Aprec Avg: 8.00%, Failprec Avg: 4.16%
+Course: MATH111, Instructor: Andrew Evan Lebovitz, Taught Count: 1, Aprec Avg: 9.09%, Failprec Avg: 6.09%
+Course: MATH111, Instructor: Marissa A. Masden, Taught Count: 2, Aprec Avg: 23.41%, Failprec Avg: 10.11%
+Course: MATH111, Instructor: Yang Hu, Taught Count: 2, Aprec Avg: 41.07%, Failprec Avg: 0.00%
+Course: MATH111, Instructor: Jon Merril Aycock, Taught Count: 1, Aprec Avg: 20.83%, Failprec Avg: 8.50%
+Course: MATH111, Instructor: Karl Joseph Wallulis, Taught Count: 3, Aprec Avg: 20.82%, Failprec Avg: 5.73%
+Course: MATH111, Instructor: Champ Davis, Taught Count: 2, Aprec Avg: 27.78%, Failprec Avg: 6.83%
+Course: MATH111, Instructor: Angel Servando Beltran, Taught Count: 2, Aprec Avg: 15.78%, Failprec Avg: 14.46%
+Course: MATH111, Instructor: Alonso Delfin Ares de Parga, Taught Count: 1, Aprec Avg: 30.30%, Failprec Avg: 9.12%
+Course: MATH111, Instructor: Robin Daniel Allison, Taught Count: 2, Aprec Avg: 26.48%, Failprec Avg: 9.14%
+Course: MATH111, Instructor: Gregory S. Knapp, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 5.64%
+Course: MATH111, Instructor: Nathan Samuel Taylor, Taught Count: 2, Aprec Avg: 26.79%, Failprec Avg: 6.50%
+Course: MATH111, Instructor: Samuel Wiley Chandler, Taught Count: 2, Aprec Avg: 23.31%, Failprec Avg: 6.62%
+Course: MATH111, Instructor: Elliot M. Granath, Taught Count: 2, Aprec Avg: 13.68%, Failprec Avg: 6.70%
+Course: MATH111, Instructor: Ivo De Los Santos Vekemans, Taught Count: 2, Aprec Avg: 27.33%, Failprec Avg: 6.21%
+Course: MATH111, Instructor: Christopher Charles Keane, Taught Count: 1, Aprec Avg: 17.86%, Failprec Avg: 7.21%
+Course: MATH111, Instructor: Elisha Daniel Hulbert, Taught Count: 2, Aprec Avg: 12.50%, Failprec Avg: 6.38%
+Course: MATH111, Instructor: Arjuna H. Hathaway, Taught Count: 2, Aprec Avg: 47.41%, Failprec Avg: 0.04%
+Course: MATH111, Instructor: Elijah Samuel Bodish, Taught Count: 1, Aprec Avg: 34.48%, Failprec Avg: 0.10%
+Course: MATH111, Instructor: Dane Yoshiki Miyata, Taught Count: 1, Aprec Avg: 26.47%, Failprec Avg: 2.97%
+Course: MATH111, Instructor: Jesse Asher Cohen, Taught Count: 2, Aprec Avg: 34.27%, Failprec Avg: 11.46%
+Course: MATH111, Instructor: Corey Tucker Brooke, Taught Count: 3, Aprec Avg: 21.95%, Failprec Avg: 7.73%
+Course: MATH111, Instructor: Elina Yurevna Kleshcheva, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.09%
+Course: MATH112, Instructor: Justin Reid Hilburn, Taught Count: 6, Aprec Avg: 29.64%, Failprec Avg: 11.94%
+Course: MATH112, Instructor: Demetre Peter Kazaras, Taught Count: 3, Aprec Avg: 18.81%, Failprec Avg: 23.63%
+Course: MATH112, Instructor: Julia Nicole Porcino, Taught Count: 2, Aprec Avg: 22.48%, Failprec Avg: 28.29%
+Course: MATH112, Instructor: Adam Paul Welly, Taught Count: 4, Aprec Avg: 34.23%, Failprec Avg: 16.79%
+Course: MATH112, Instructor: Robert W. Muth, Taught Count: 1, Aprec Avg: 9.09%, Failprec Avg: 36.36%
+Course: MATH112, Instructor: David Julian Steinberg, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 18.75%
+Course: MATH112, Instructor: Jeffrey Andrew Battiste, Taught Count: 1, Aprec Avg: 27.59%, Failprec Avg: 20.69%
+Course: MATH112, Instructor: Benjamin William Reid, Taught Count: 2, Aprec Avg: 17.15%, Failprec Avg: 19.57%
+Course: MATH112, Instructor: Daniel Nicholas Raies, Taught Count: 7, Aprec Avg: 25.68%, Failprec Avg: 9.84%
+Course: MATH112, Instructor: Joseph William Loubert, Taught Count: 1, Aprec Avg: 41.03%, Failprec Avg: 5.13%
+Course: MATH112, Instructor: Michael Yuan Sun, Taught Count: 1, Aprec Avg: 14.29%, Failprec Avg: 28.57%
+Course: MATH112, Instructor: Cassandra Rae Sturgill, Taught Count: 1, Aprec Avg: 26.09%, Failprec Avg: 21.74%
+Course: MATH112, Instructor: Karl Philip Schmidt, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 13.33%
+Course: MATH112, Instructor: Benjamin Loffswold Cornelis, Taught Count: 1, Aprec Avg: 34.38%, Failprec Avg: 6.25%
+Course: MATH112, Instructor: Eric King Hogle, Taught Count: 4, Aprec Avg: 23.67%, Failprec Avg: 18.98%
+Course: MATH112, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 15.38%, Failprec Avg: 19.23%
+Course: MATH112, Instructor: Matthew Arthur Farley, Taught Count: 1, Aprec Avg: 7.69%, Failprec Avg: 19.23%
+Course: MATH112, Instructor: Tianyuan Xu, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 20.00%
+Course: MATH112, Instructor: Safia M. Chettih, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 7.14%
+Course: MATH112, Instructor: Clover May, Taught Count: 3, Aprec Avg: 23.86%, Failprec Avg: 16.60%
+Course: MATH112, Instructor: Leanne E. Merrill, Taught Count: 4, Aprec Avg: 37.30%, Failprec Avg: 5.38%
+Course: MATH112, Instructor: Martin Wesley Hiserote, Taught Count: 4, Aprec Avg: 40.41%, Failprec Avg: 14.01%
+Course: MATH112, Instructor: Christopher Paul Mehl, Taught Count: 2, Aprec Avg: 15.09%, Failprec Avg: 8.00%
+Course: MATH112, Instructor: Adam N. Layne, Taught Count: 2, Aprec Avg: 32.75%, Failprec Avg: 15.00%
+Course: MATH112, Instructor: Nickolas Donald Winovich, Taught Count: 4, Aprec Avg: 25.62%, Failprec Avg: 12.81%
+Course: MATH112, Instructor: Janelle A. Currey, Taught Count: 2, Aprec Avg: 25.05%, Failprec Avg: 17.14%
+Course: MATH112, Instructor: Paul A. Herstedt, Taught Count: 4, Aprec Avg: 25.40%, Failprec Avg: 14.38%
+Course: MATH112, Instructor: Leila Michelle Vaden, Taught Count: 4, Aprec Avg: 18.44%, Failprec Avg: 20.98%
+Course: MATH112, Instructor: Jeffrey F. Musyt, Taught Count: 2, Aprec Avg: 26.94%, Failprec Avg: 4.35%
+Course: MATH112, Instructor: Abhinav Verma, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 15.00%
+Course: MATH112, Instructor: Jean Bernard Nganou, Taught Count: 4, Aprec Avg: 23.91%, Failprec Avg: 19.24%
+Course: MATH112, Instructor: Marriott Edward Grimes, Taught Count: 1, Aprec Avg: 44.83%, Failprec Avg: 3.45%
+Course: MATH112, Instructor: Keegan L. Boyle, Taught Count: 6, Aprec Avg: 24.60%, Failprec Avg: 12.79%
+Course: MATH112, Instructor: Cynthia Ann Lester, Taught Count: 2, Aprec Avg: 30.90%, Failprec Avg: 17.54%
+Course: MATH112, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 15.79%, Failprec Avg: 10.53%
+Course: MATH112, Instructor: Claire E. Dodson, Taught Count: 1, Aprec Avg: 19.23%, Failprec Avg: 7.69%
+Course: MATH112, Instructor: Andrew Woroby Hampton, Taught Count: 3, Aprec Avg: 27.93%, Failprec Avg: 5.32%
+Course: MATH112, Instructor: Andrew Scott Reynolds, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 28.57%
+Course: MATH112, Instructor: Doeke David Buursma, Taught Count: 2, Aprec Avg: 21.24%, Failprec Avg: 9.47%
+Course: MATH112, Instructor: Jonathan Michael Wells, Taught Count: 2, Aprec Avg: 19.04%, Failprec Avg: 31.54%
+Course: MATH112, Instructor: Benjamin Patrick Dyer, Taught Count: 1, Aprec Avg: 14.29%, Failprec Avg: 9.52%
+Course: MATH112, Instructor: Robert Brian Usher, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 15.38%
+Course: MATH112, Instructor: Christophe H. Dethier, Taught Count: 3, Aprec Avg: 40.16%, Failprec Avg: 5.42%
+Course: MATH112, Instructor: Anthony Jordan Meyer, Taught Count: 1, Aprec Avg: 19.23%, Failprec Avg: 7.69%
+Course: MATH112, Instructor: Thomas Andrew Pitts, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 18.18%
+Course: MATH112, Instructor: Patrick Andrew Durkin, Taught Count: 3, Aprec Avg: 24.22%, Failprec Avg: 12.33%
+Course: MATH112, Instructor: Andrew Michael Stephens, Taught Count: 2, Aprec Avg: 33.33%, Failprec Avg: 15.00%
+Course: MATH112, Instructor: Kathryn Hawley, Taught Count: 1, Aprec Avg: 29.17%, Failprec Avg: 16.67%
+Course: MATH112, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 26.92%, Failprec Avg: 7.69%
+Course: MATH112, Instructor: Joseph Wallace Iverson, Taught Count: 2, Aprec Avg: 29.50%, Failprec Avg: 21.20%
+Course: MATH112, Instructor: Joe Whaley Webster, Taught Count: 2, Aprec Avg: 33.05%, Failprec Avg: 8.76%
+Course: MATH112, Instructor: Bradley Lewis Burdick, Taught Count: 1, Aprec Avg: 35.71%, Failprec Avg: 7.14%
+Course: MATH112, Instructor: Andrew S. Wray, Taught Count: 1, Aprec Avg: 25.71%, Failprec Avg: 11.43%
+Course: MATH112, Instructor: Sarah Jo Frei, Taught Count: 1, Aprec Avg: 31.58%, Failprec Avg: 10.53%
+Course: MATH112, Instructor: Wei Zhang, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 6.25%
+Course: MATH112, Instructor: Jeffrey Allen Monroe, Taught Count: 2, Aprec Avg: 29.96%, Failprec Avg: 6.76%
+Course: MATH112, Instructor: Maya E. Davis, Taught Count: 1, Aprec Avg: 21.05%, Failprec Avg: 0.00%
+Course: MATH112, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 1, Aprec Avg: 13.04%, Failprec Avg: 8.70%
+Course: MATH112, Instructor: Christina Lynn Hazel, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 14.29%
+Course: MATH112, Instructor: Nathan S. Hunter, Taught Count: 2, Aprec Avg: 39.61%, Failprec Avg: 7.40%
+Course: MATH112, Instructor: Cassandra Rae Fisher, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 11.15%
+Course: MATH112, Instructor: Liliana Anna Pazdan-Siudeja, Taught Count: 6, Aprec Avg: 25.15%, Failprec Avg: 9.35%
+Course: MATH112, Instructor: Ross Laurens Casebolt, Taught Count: 2, Aprec Avg: 22.16%, Failprec Avg: 10.22%
+Course: MATH112, Instructor: Gavin Keith Armstrong, Taught Count: 2, Aprec Avg: 25.52%, Failprec Avg: 2.79%
+Course: MATH112, Instructor: Isaac Ahern, Taught Count: 2, Aprec Avg: 16.15%, Failprec Avg: 3.46%
+Course: MATH112, Instructor: Elisa Michelle Bellah, Taught Count: 1, Aprec Avg: 25.81%, Failprec Avg: 9.71%
+Course: MATH112, Instructor: Michael Dominic Gartner, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 11.57%
+Course: MATH112, Instructor: Allan Patrick Hendrickson, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 9.50%
+Course: MATH112, Instructor: Yang Hu, Taught Count: 1, Aprec Avg: 42.42%, Failprec Avg: 0.03%
+Course: MATH112, Instructor: Gautam Julian Webb, Taught Count: 2, Aprec Avg: 20.48%, Failprec Avg: 6.28%
+Course: MATH112, Instructor: Christopher Charles Keane, Taught Count: 1, Aprec Avg: 23.53%, Failprec Avg: 5.88%
+Course: MATH112, Instructor: Elliot M. Granath, Taught Count: 1, Aprec Avg: 31.03%, Failprec Avg: 0.00%
+Course: MATH112, Instructor: Kelly Pohland, Taught Count: 2, Aprec Avg: 14.41%, Failprec Avg: 13.12%
+Course: MATH112, Instructor: Jesse Asher Cohen, Taught Count: 1, Aprec Avg: 14.71%, Failprec Avg: 11.79%
+Course: MATH112, Instructor: Andrew Evan Lebovitz, Taught Count: 1, Aprec Avg: 31.58%, Failprec Avg: 5.32%
+Course: MATH112, Instructor: Dane Yoshiki Miyata, Taught Count: 2, Aprec Avg: 24.00%, Failprec Avg: 2.54%
+Course: MATH112, Instructor: Bo Phillips, Taught Count: 2, Aprec Avg: 14.71%, Failprec Avg: 23.66%
+Course: MATH112, Instructor: Elijah Samuel Bodish, Taught Count: 1, Aprec Avg: 37.04%, Failprec Avg: 11.15%
+Course: MATH112, Instructor: Nathan Samuel Taylor, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 0.00%
+Course: MATH112, Instructor: Gregory S. Knapp, Taught Count: 1, Aprec Avg: 18.18%, Failprec Avg: 22.77%
+Course: MATH112, Instructor: Marissa A. Masden, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 5.15%
+Course: MATH211, Instructor: Dev Prakash Sinha, Taught Count: 3, Aprec Avg: 36.68%, Failprec Avg: 25.00%
+Course: MATH211, Instructor: Andrew Woroby Hampton, Taught Count: 3, Aprec Avg: 29.71%, Failprec Avg: 0.00%
+Course: MATH211, Instructor: Tricia Hendrickson Bevans, Taught Count: 6, Aprec Avg: 33.18%, Failprec Avg: 10.88%
+Course: MATH211, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 39.13%, Failprec Avg: 4.35%
+Course: MATH211, Instructor: Tammy Marie Nezol, Taught Count: 4, Aprec Avg: 28.98%, Failprec Avg: 7.54%
+Course: MATH211, Instructor: Hannah Alice Winkler, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: MATH211, Instructor: Eric King Hogle, Taught Count: 1, Aprec Avg: 62.50%, Failprec Avg: 0.00%
+Course: MATH211, Instructor: Kristen Lynn Henderson, Taught Count: 1, Aprec Avg: 9.52%, Failprec Avg: 9.52%
+Course: MATH212, Instructor: Tricia Hendrickson Bevans, Taught Count: 5, Aprec Avg: 35.69%, Failprec Avg: 3.86%
+Course: MATH212, Instructor: Andrew Woroby Hampton, Taught Count: 2, Aprec Avg: 32.54%, Failprec Avg: 0.00%
+Course: MATH212, Instructor: Tammy Marie Nezol, Taught Count: 3, Aprec Avg: 30.16%, Failprec Avg: 8.37%
+Course: MATH212, Instructor: Dev Prakash Sinha, Taught Count: 1, Aprec Avg: 55.56%, Failprec Avg: 0.00%
+Course: MATH212, Instructor: Kristen Lynn Henderson, Taught Count: 1, Aprec Avg: 13.04%, Failprec Avg: 21.74%
+Course: MATH213, Instructor: Tricia Hendrickson Bevans, Taught Count: 3, Aprec Avg: 14.96%, Failprec Avg: 14.95%
+Course: MATH213, Instructor: Andrew Woroby Hampton, Taught Count: 1, Aprec Avg: 27.27%, Failprec Avg: 0.00%
+Course: MATH213, Instructor: Tammy Marie Nezol, Taught Count: 3, Aprec Avg: 26.89%, Failprec Avg: 14.38%
+Course: MATH213, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 81.82%, Failprec Avg: 0.00%
+Course: MATH213, Instructor: Kristen Lynn Henderson, Taught Count: 1, Aprec Avg: 12.50%, Failprec Avg: 8.37%
+Course: MATH231, Instructor: Boris Botvinnik, Taught Count: 4, Aprec Avg: 28.39%, Failprec Avg: 14.04%
+Course: MATH231, Instructor: Arkady Vaintrob, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 15.00%
+Course: MATH231, Instructor: Vadim Vologodski, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 7.41%
+Course: MATH231, Instructor: Junwu Tu, Taught Count: 1, Aprec Avg: 19.36%, Failprec Avg: 22.58%
+Course: MATH231, Instructor: David Christopher Steinberg, Taught Count: 2, Aprec Avg: 28.33%, Failprec Avg: 25.72%
+Course: MATH231, Instructor: Travis Conner VanDevanter, Taught Count: 1, Aprec Avg: 30.43%, Failprec Avg: 30.43%
+Course: MATH231, Instructor: Maria Nemirovskaya, Taught Count: 2, Aprec Avg: 26.78%, Failprec Avg: 21.23%
+Course: MATH231, Instructor: Tammy Marie Nezol, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 16.67%
+Course: MATH231, Instructor: Jon Brundan, Taught Count: 1, Aprec Avg: 8.75%, Failprec Avg: 3.75%
+Course: MATH231, Instructor: Eric John Merchant, Taught Count: 3, Aprec Avg: 16.97%, Failprec Avg: 17.75%
+Course: MATH231, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 41.18%, Failprec Avg: 11.76%
+Course: MATH231, Instructor: Benjamin Joseph Young, Taught Count: 1, Aprec Avg: 58.33%, Failprec Avg: 8.33%
+Course: MATH231, Instructor: Jean Bernard Nganou, Taught Count: 1, Aprec Avg: 13.64%, Failprec Avg: 22.73%
+Course: MATH231, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 4.16%
+Course: MATH231, Instructor: Mauricio Esteban Gomez Lopez, Taught Count: 1, Aprec Avg: 44.12%, Failprec Avg: 14.76%
+Course: MATH231, Instructor: Yefeng Shen, Taught Count: 1, Aprec Avg: 18.75%, Failprec Avg: 3.28%
+Course: MATH231, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 1, Aprec Avg: 13.79%, Failprec Avg: 3.52%
+Course: MATH232, Instructor: Eric John Merchant, Taught Count: 4, Aprec Avg: 22.53%, Failprec Avg: 3.36%
+Course: MATH232, Instructor: Jeffrey Andrew Battiste, Taught Count: 2, Aprec Avg: 13.96%, Failprec Avg: 31.34%
+Course: MATH232, Instructor: Junwu Tu, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 6.67%
+Course: MATH232, Instructor: Min Yong Ro, Taught Count: 1, Aprec Avg: 48.28%, Failprec Avg: 6.90%
+Course: MATH232, Instructor: Maria Nemirovskaya, Taught Count: 2, Aprec Avg: 39.90%, Failprec Avg: 9.78%
+Course: MATH232, Instructor: Tianyuan Xu, Taught Count: 1, Aprec Avg: 8.33%, Failprec Avg: 0.00%
+Course: MATH232, Instructor: Sergey Yuzvinsky, Taught Count: 2, Aprec Avg: 31.82%, Failprec Avg: 6.82%
+Course: MATH232, Instructor: Boris Botvinnik, Taught Count: 6, Aprec Avg: 42.16%, Failprec Avg: 8.20%
+Course: MATH232, Instructor: Travis Conner VanDevanter, Taught Count: 1, Aprec Avg: 48.48%, Failprec Avg: 12.12%
+Course: MATH232, Instructor: Deborah Anne Vicinsky, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 11.11%
+Course: MATH232, Instructor: Alexander Polishchuk, Taught Count: 1, Aprec Avg: 27.03%, Failprec Avg: 10.81%
+Course: MATH232, Instructor: Marcin Bownik, Taught Count: 1, Aprec Avg: 17.24%, Failprec Avg: 3.45%
+Course: MATH232, Instructor: Peng Lu, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 25.00%
+Course: MATH232, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 19.05%, Failprec Avg: 14.29%
+Course: MATH232, Instructor: Arkadiy Dmitrievich Berenshtein, Taught Count: 1, Aprec Avg: 30.43%, Failprec Avg: 4.35%
+Course: MATH232, Instructor: Helen Kathleen Jenne, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 13.37%
+Course: MATH232, Instructor: Doeke David Buursma, Taught Count: 1, Aprec Avg: 32.43%, Failprec Avg: 0.08%
+Course: MATH233, Instructor: Boris Botvinnik, Taught Count: 3, Aprec Avg: 39.26%, Failprec Avg: 2.22%
+Course: MATH233, Instructor: Nicholas J. Proudfoot, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: MATH233, Instructor: Arkady Vaintrob, Taught Count: 2, Aprec Avg: 66.90%, Failprec Avg: 8.40%
+Course: MATH241, Instructor: Bijan Yaghoubi Shahir, Taught Count: 4, Aprec Avg: 44.00%, Failprec Avg: 14.50%
+Course: MATH241, Instructor: Christopher Dean Sinclair, Taught Count: 2, Aprec Avg: 0.71%, Failprec Avg: 30.84%
+Course: MATH241, Instructor: Michael Robert Price, Taught Count: 6, Aprec Avg: 15.13%, Failprec Avg: 16.13%
+Course: MATH241, Instructor: Craig Choules Tingey, Taught Count: 3, Aprec Avg: 93.16%, Failprec Avg: 0.00%
+Course: MATH241, Instructor: Katie Rose Gedeon, Taught Count: 3, Aprec Avg: 38.09%, Failprec Avg: 19.48%
+Course: MATH241, Instructor: Adam Paul Welly, Taught Count: 1, Aprec Avg: 15.38%, Failprec Avg: 38.46%
+Course: MATH241, Instructor: Hayden Michael Harker, Taught Count: 4, Aprec Avg: 15.21%, Failprec Avg: 19.70%
+Course: MATH241, Instructor: Benjamin Patrick Dyer, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 6.67%
+Course: MATH241, Instructor: Nathan Girard Perlmutter, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 11.11%
+Course: MATH241, Instructor: Fred Hervert, Taught Count: 4, Aprec Avg: 30.55%, Failprec Avg: 20.77%
+Course: MATH241, Instructor: Justin Reid Hilburn, Taught Count: 1, Aprec Avg: 30.30%, Failprec Avg: 12.12%
+Course: MATH241, Instructor: Kyle Patrick Evitts, Taught Count: 1, Aprec Avg: 22.22%, Failprec Avg: 11.11%
+Course: MATH241, Instructor: Dana Lauren Fry, Taught Count: 1, Aprec Avg: 29.41%, Failprec Avg: 5.88%
+Course: MATH241, Instructor: Jeffrey Allen Monroe, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 16.00%
+Course: MATH241, Instructor: Marcin Bownik, Taught Count: 1, Aprec Avg: 5.74%, Failprec Avg: 14.90%
+Course: MATH241, Instructor: Elijah Samuel Bodish, Taught Count: 1, Aprec Avg: 17.86%, Failprec Avg: 14.29%
+Course: MATH241, Instructor: Jon Merril Aycock, Taught Count: 1, Aprec Avg: 6.90%, Failprec Avg: 24.31%
+Course: MATH242, Instructor: Fred Hervert, Taught Count: 7, Aprec Avg: 37.80%, Failprec Avg: 6.11%
+Course: MATH242, Instructor: Bijan Yaghoubi Shahir, Taught Count: 2, Aprec Avg: 66.86%, Failprec Avg: 5.69%
+Course: MATH242, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 0.65%, Failprec Avg: 20.65%
+Course: MATH242, Instructor: Demetre Peter Kazaras, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 23.08%
+Course: MATH242, Instructor: Deborah Anne Vicinsky, Taught Count: 1, Aprec Avg: 7.69%, Failprec Avg: 34.62%
+Course: MATH242, Instructor: Emilio Eusebio Gardella, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 10.00%
+Course: MATH242, Instructor: Claire E. Dodson, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 13.33%
+Course: MATH242, Instructor: Adam N. Layne, Taught Count: 1, Aprec Avg: 52.94%, Failprec Avg: 5.88%
+Course: MATH242, Instructor: Craig Choules Tingey, Taught Count: 2, Aprec Avg: 92.39%, Failprec Avg: 0.93%
+Course: MATH242, Instructor: Tianyuan Xu, Taught Count: 1, Aprec Avg: 14.81%, Failprec Avg: 11.11%
+Course: MATH242, Instructor: Benjamin William Reid, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 19.23%
+Course: MATH242, Instructor: Martin Wesley Hiserote, Taught Count: 1, Aprec Avg: 29.41%, Failprec Avg: 23.53%
+Course: MATH242, Instructor: Michael Robert Price, Taught Count: 2, Aprec Avg: 15.06%, Failprec Avg: 8.71%
+Course: MATH242, Instructor: Catherine Maria Hsu, Taught Count: 1, Aprec Avg: 43.33%, Failprec Avg: 13.33%
+Course: MATH242, Instructor: Gavin Keith Armstrong, Taught Count: 1, Aprec Avg: 7.14%, Failprec Avg: 28.57%
+Course: MATH242, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 18.18%
+Course: MATH242, Instructor: Paul A. Herstedt, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 33.33%
+Course: MATH242, Instructor: Phillip L. Staley, Taught Count: 1, Aprec Avg: 28.95%, Failprec Avg: 0.00%
+Course: MATH242, Instructor: Benjamin Joseph Young, Taught Count: 1, Aprec Avg: 17.99%, Failprec Avg: 2.70%
+Course: MATH243, Instructor: Hayden Michael Harker, Taught Count: 12, Aprec Avg: 34.28%, Failprec Avg: 10.07%
+Course: MATH243, Instructor: Cassandra Rae Sturgill, Taught Count: 2, Aprec Avg: 10.97%, Failprec Avg: 20.47%
+Course: MATH243, Instructor: Travis Conner VanDevanter, Taught Count: 2, Aprec Avg: 51.27%, Failprec Avg: 20.68%
+Course: MATH243, Instructor: Christophe H. Dethier, Taught Count: 1, Aprec Avg: 68.63%, Failprec Avg: 1.96%
+Course: MATH243, Instructor: Benjamin Patrick Dyer, Taught Count: 1, Aprec Avg: 38.71%, Failprec Avg: 9.68%
+Course: MATH243, Instructor: Eric John Merchant, Taught Count: 2, Aprec Avg: 41.79%, Failprec Avg: 8.04%
+Course: MATH243, Instructor: Karl Philip Schmidt, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 3.57%
+Course: MATH243, Instructor: Zhanwen Huang, Taught Count: 1, Aprec Avg: 35.48%, Failprec Avg: 12.90%
+Course: MATH243, Instructor: Craig Choules Tingey, Taught Count: 5, Aprec Avg: 50.18%, Failprec Avg: 5.06%
+Course: MATH243, Instructor: Janelle A. Currey, Taught Count: 2, Aprec Avg: 45.37%, Failprec Avg: 10.65%
+Course: MATH243, Instructor: Gavin Keith Armstrong, Taught Count: 2, Aprec Avg: 41.22%, Failprec Avg: 1.93%
+Course: MATH243, Instructor: Tyler Andrew Russell, Taught Count: 2, Aprec Avg: 47.48%, Failprec Avg: 1.22%
+Course: MATH243, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 48.15%, Failprec Avg: 0.00%
+Course: MATH243, Instructor: Jonathan Michael Wells, Taught Count: 2, Aprec Avg: 25.06%, Failprec Avg: 7.39%
+Course: MATH243, Instructor: Leila Michelle Vaden, Taught Count: 2, Aprec Avg: 23.41%, Failprec Avg: 13.26%
+Course: MATH243, Instructor: Michael Robert Price, Taught Count: 3, Aprec Avg: 23.45%, Failprec Avg: 10.57%
+Course: MATH243, Instructor: Sarah Jo Frei, Taught Count: 2, Aprec Avg: 26.89%, Failprec Avg: 14.22%
+Course: MATH243, Instructor: Robert Brian Usher, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 5.00%
+Course: MATH243, Instructor: Demetre Peter Kazaras, Taught Count: 1, Aprec Avg: 56.10%, Failprec Avg: 9.76%
+Course: MATH243, Instructor: Kathryn Hawley, Taught Count: 1, Aprec Avg: 45.83%, Failprec Avg: 0.00%
+Course: MATH243, Instructor: Patrick Andrew Durkin, Taught Count: 2, Aprec Avg: 32.74%, Failprec Avg: 4.17%
+Course: MATH243, Instructor: Joe Whaley Webster, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 16.67%
+Course: MATH243, Instructor: Andrew S. Wray, Taught Count: 1, Aprec Avg: 37.93%, Failprec Avg: 6.90%
+Course: MATH243, Instructor: David Asher Levin, Taught Count: 1, Aprec Avg: 8.48%, Failprec Avg: 10.30%
+Course: MATH243, Instructor: Dev Prakash Sinha, Taught Count: 1, Aprec Avg: 12.73%, Failprec Avg: 9.87%
+Course: MATH243, Instructor: Kyle Patrick Evitts, Taught Count: 1, Aprec Avg: 48.84%, Failprec Avg: 6.98%
+Course: MATH243, Instructor: Daniel Hothem, Taught Count: 1, Aprec Avg: 51.85%, Failprec Avg: 7.41%
+Course: MATH243, Instructor: Matthew Mark Lukac, Taught Count: 1, Aprec Avg: 53.85%, Failprec Avg: 3.85%
+Course: MATH243, Instructor: Arunima Bhattacharya, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 30.00%
+Course: MATH243, Instructor: Kristen Lynn Henderson, Taught Count: 3, Aprec Avg: 25.46%, Failprec Avg: 5.30%
+Course: MATH243, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 1, Aprec Avg: 32.00%, Failprec Avg: 8.00%
+Course: MATH243, Instructor: Maya E. Davis, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 19.05%
+Course: MATH243, Instructor: Bijan Yaghoubi Shahir, Taught Count: 3, Aprec Avg: 23.83%, Failprec Avg: 6.71%
+Course: MATH243, Instructor: Isaac Ahern, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 22.33%
+Course: MATH243, Instructor: Champ Davis, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 3.37%
+Course: MATH246, Instructor: Fred Hervert, Taught Count: 5, Aprec Avg: 22.78%, Failprec Avg: 20.32%
+Course: MATH246, Instructor: Michael Robert Price, Taught Count: 1, Aprec Avg: 8.33%, Failprec Avg: 20.83%
+Course: MATH246, Instructor: Joseph Wallace Iverson, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 33.33%
+Course: MATH246, Instructor: Victor Valentinovich Ostrik, Taught Count: 2, Aprec Avg: 12.44%, Failprec Avg: 9.45%
+Course: MATH246, Instructor: Jeffrey Andrew Battiste, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 25.00%
+Course: MATH246, Instructor: Adam Paul Welly, Taught Count: 1, Aprec Avg: 17.86%, Failprec Avg: 32.14%
+Course: MATH246, Instructor: Cassandra Rae Fisher, Taught Count: 5, Aprec Avg: 18.18%, Failprec Avg: 21.04%
+Course: MATH246, Instructor: Justin Reid Hilburn, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.00%
+Course: MATH246, Instructor: Nick Jon Davidson, Taught Count: 1, Aprec Avg: 36.36%, Failprec Avg: 18.18%
+Course: MATH246, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 26.67%
+Course: MATH246, Instructor: Robert W. Muth, Taught Count: 1, Aprec Avg: 10.71%, Failprec Avg: 10.71%
+Course: MATH246, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 1, Aprec Avg: 38.10%, Failprec Avg: 14.43%
+Course: MATH246, Instructor: Andrew S. Wray, Taught Count: 1, Aprec Avg: 24.00%, Failprec Avg: 12.04%
+Course: MATH246, Instructor: Phillip L. Staley, Taught Count: 1, Aprec Avg: 32.35%, Failprec Avg: 0.00%
+Course: MATH247, Instructor: Joseph Wallace Iverson, Taught Count: 2, Aprec Avg: 36.65%, Failprec Avg: 18.02%
+Course: MATH247, Instructor: Victor Valentinovich Ostrik, Taught Count: 2, Aprec Avg: 17.82%, Failprec Avg: 4.84%
+Course: MATH247, Instructor: Michael Robert Price, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 6.25%
+Course: MATH247, Instructor: Fred Hervert, Taught Count: 2, Aprec Avg: 40.91%, Failprec Avg: 10.10%
+Course: MATH247, Instructor: Nick Jon Davidson, Taught Count: 1, Aprec Avg: 17.39%, Failprec Avg: 21.74%
+Course: MATH247, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 15.38%
+Course: MATH247, Instructor: Ilan Daniel Weinschelbaum, Taught Count: 1, Aprec Avg: 45.16%, Failprec Avg: 0.00%
+Course: MATH247, Instructor: Phillip L. Staley, Taught Count: 1, Aprec Avg: 37.14%, Failprec Avg: 5.71%
+Course: MATH251, Instructor: N. Christopher Phillips, Taught Count: 5, Aprec Avg: 19.15%, Failprec Avg: 29.88%
+Course: MATH251, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 26.67%, Failprec Avg: 16.67%
+Course: MATH251, Instructor: Aaron Matthew Shatzer, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 17.86%
+Course: MATH251, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 37.04%, Failprec Avg: 14.81%
+Course: MATH251, Instructor: Alexander Palen Ellis, Taught Count: 3, Aprec Avg: 27.02%, Failprec Avg: 9.42%
+Course: MATH251, Instructor: Jennifer Rae Thorenson, Taught Count: 7, Aprec Avg: 23.92%, Failprec Avg: 18.53%
+Course: MATH251, Instructor: Junwu Tu, Taught Count: 1, Aprec Avg: 8.33%, Failprec Avg: 33.33%
+Course: MATH251, Instructor: Christin Nichole Bibby, Taught Count: 2, Aprec Avg: 25.46%, Failprec Avg: 14.91%
+Course: MATH251, Instructor: Shlomo Gelaki, Taught Count: 3, Aprec Avg: 20.54%, Failprec Avg: 13.56%
+Course: MATH251, Instructor: Tal Weissblat, Taught Count: 1, Aprec Avg: 17.86%, Failprec Avg: 28.57%
+Course: MATH251, Instructor: Nathan Girard Perlmutter, Taught Count: 2, Aprec Avg: 20.45%, Failprec Avg: 9.85%
+Course: MATH251, Instructor: Zhanwen Huang, Taught Count: 3, Aprec Avg: 34.96%, Failprec Avg: 22.42%
+Course: MATH251, Instructor: Matthew David Arbo, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 18.18%
+Course: MATH251, Instructor: Maria Nemirovskaya, Taught Count: 2, Aprec Avg: 19.23%, Failprec Avg: 19.23%
+Course: MATH251, Instructor: Nicholas Lerner Howell, Taught Count: 3, Aprec Avg: 26.92%, Failprec Avg: 32.24%
+Course: MATH251, Instructor: Hao Wang, Taught Count: 8, Aprec Avg: 32.94%, Failprec Avg: 9.82%
+Course: MATH251, Instructor: Jeffrey D. Vaaler, Taught Count: 1, Aprec Avg: 38.71%, Failprec Avg: 12.90%
+Course: MATH251, Instructor: Haotian Wu, Taught Count: 1, Aprec Avg: 25.93%, Failprec Avg: 0.00%
+Course: MATH251, Instructor: Patrick Michael Schultz, Taught Count: 1, Aprec Avg: 32.35%, Failprec Avg: 26.47%
+Course: MATH251, Instructor: Nick Jon Davidson, Taught Count: 4, Aprec Avg: 27.34%, Failprec Avg: 18.36%
+Course: MATH251, Instructor: Demetre Peter Kazaras, Taught Count: 1, Aprec Avg: 36.84%, Failprec Avg: 15.79%
+Course: MATH251, Instructor: Adam N. Layne, Taught Count: 2, Aprec Avg: 24.87%, Failprec Avg: 28.91%
+Course: MATH251, Instructor: Robert W. Muth, Taught Count: 2, Aprec Avg: 29.15%, Failprec Avg: 23.57%
+Course: MATH251, Instructor: Benjamin Loffswold Cornelis, Taught Count: 2, Aprec Avg: 18.59%, Failprec Avg: 5.62%
+Course: MATH251, Instructor: Max Benjamin Kutler, Taught Count: 3, Aprec Avg: 34.09%, Failprec Avg: 12.40%
+Course: MATH251, Instructor: Leanne E. Merrill, Taught Count: 2, Aprec Avg: 24.36%, Failprec Avg: 5.77%
+Course: MATH251, Instructor: David Julian Steinberg, Taught Count: 3, Aprec Avg: 23.96%, Failprec Avg: 14.19%
+Course: MATH251, Instructor: Liliana Anna Pazdan-Siudeja, Taught Count: 4, Aprec Avg: 25.73%, Failprec Avg: 19.93%
+Course: MATH251, Instructor: Travis Conner VanDevanter, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 30.00%
+Course: MATH251, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 36.11%, Failprec Avg: 5.56%
+Course: MATH251, Instructor: Jean Bernard Nganou, Taught Count: 4, Aprec Avg: 34.01%, Failprec Avg: 22.57%
+Course: MATH251, Instructor: Hayden Michael Harker, Taught Count: 5, Aprec Avg: 12.92%, Failprec Avg: 29.75%
+Course: MATH251, Instructor: Benjamin William Reid, Taught Count: 3, Aprec Avg: 19.83%, Failprec Avg: 18.63%
+Course: MATH251, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 19.23%, Failprec Avg: 15.38%
+Course: MATH251, Instructor: Trithang Tran, Taught Count: 1, Aprec Avg: 35.29%, Failprec Avg: 11.76%
+Course: MATH251, Instructor: Joseph Wallace Iverson, Taught Count: 1, Aprec Avg: 29.63%, Failprec Avg: 11.11%
+Course: MATH251, Instructor: Clover May, Taught Count: 3, Aprec Avg: 27.17%, Failprec Avg: 15.49%
+Course: MATH251, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 35.00%, Failprec Avg: 25.00%
+Course: MATH251, Instructor: Bijan Yaghoubi Shahir, Taught Count: 2, Aprec Avg: 36.42%, Failprec Avg: 14.50%
+Course: MATH251, Instructor: Katie Rose Gedeon, Taught Count: 4, Aprec Avg: 24.71%, Failprec Avg: 16.55%
+Course: MATH251, Instructor: Karl Philip Schmidt, Taught Count: 1, Aprec Avg: 17.65%, Failprec Avg: 38.24%
+Course: MATH251, Instructor: Gregory Michael Drugan, Taught Count: 2, Aprec Avg: 26.79%, Failprec Avg: 10.12%
+Course: MATH251, Instructor: Christopher Paul Mehl, Taught Count: 1, Aprec Avg: 37.84%, Failprec Avg: 27.03%
+Course: MATH251, Instructor: Fred Hervert, Taught Count: 2, Aprec Avg: 28.83%, Failprec Avg: 9.15%
+Course: MATH251, Instructor: Andrew Woroby Hampton, Taught Count: 3, Aprec Avg: 16.99%, Failprec Avg: 30.90%
+Course: MATH251, Instructor: Eric King Hogle, Taught Count: 3, Aprec Avg: 29.00%, Failprec Avg: 16.78%
+Course: MATH251, Instructor: Jonathan Michael Wells, Taught Count: 4, Aprec Avg: 18.75%, Failprec Avg: 24.88%
+Course: MATH251, Instructor: Cynthia Ann Lester, Taught Count: 3, Aprec Avg: 18.06%, Failprec Avg: 28.44%
+Course: MATH251, Instructor: Martin Wesley Hiserote, Taught Count: 2, Aprec Avg: 18.70%, Failprec Avg: 29.05%
+Course: MATH251, Instructor: Leila Michelle Vaden, Taught Count: 1, Aprec Avg: 13.04%, Failprec Avg: 13.04%
+Course: MATH251, Instructor: David Loren Collett, Taught Count: 2, Aprec Avg: 17.07%, Failprec Avg: 21.75%
+Course: MATH251, Instructor: Peng Lu, Taught Count: 1, Aprec Avg: 23.33%, Failprec Avg: 40.00%
+Course: MATH251, Instructor: Peter B. Gilkey, Taught Count: 1, Aprec Avg: 17.24%, Failprec Avg: 44.83%
+Course: MATH251, Instructor: Se-Jin Oh, Taught Count: 1, Aprec Avg: 47.37%, Failprec Avg: 31.58%
+Course: MATH251, Instructor: Janelle A. Currey, Taught Count: 2, Aprec Avg: 26.62%, Failprec Avg: 22.34%
+Course: MATH251, Instructor: Jeffrey F. Musyt, Taught Count: 1, Aprec Avg: 19.36%, Failprec Avg: 3.23%
+Course: MATH251, Instructor: Craig Choules Tingey, Taught Count: 6, Aprec Avg: 33.74%, Failprec Avg: 8.96%
+Course: MATH251, Instructor: Benjamin Patrick Dyer, Taught Count: 1, Aprec Avg: 21.21%, Failprec Avg: 30.30%
+Course: MATH251, Instructor: Ryan Takahashi, Taught Count: 2, Aprec Avg: 21.15%, Failprec Avg: 23.09%
+Course: MATH251, Instructor: Sarah Jo Frei, Taught Count: 1, Aprec Avg: 25.93%, Failprec Avg: 3.70%
+Course: MATH251, Instructor: Bradley Lewis Burdick, Taught Count: 1, Aprec Avg: 12.50%, Failprec Avg: 37.50%
+Course: MATH251, Instructor: Doeke David Buursma, Taught Count: 1, Aprec Avg: 6.67%, Failprec Avg: 40.00%
+Course: MATH251, Instructor: Christophe H. Dethier, Taught Count: 2, Aprec Avg: 16.35%, Failprec Avg: 24.59%
+Course: MATH251, Instructor: Robert Brian Usher, Taught Count: 2, Aprec Avg: 14.87%, Failprec Avg: 26.04%
+Course: MATH251, Instructor: Yefeng Shen, Taught Count: 2, Aprec Avg: 18.79%, Failprec Avg: 4.86%
+Course: MATH251, Instructor: Christina Lynn Hazel, Taught Count: 1, Aprec Avg: 21.21%, Failprec Avg: 18.27%
+Course: MATH251, Instructor: Wei Zhang, Taught Count: 3, Aprec Avg: 8.73%, Failprec Avg: 14.45%
+Course: MATH251, Instructor: Robert Lipshitz, Taught Count: 1, Aprec Avg: 31.82%, Failprec Avg: 4.59%
+Course: MATH251, Instructor: Patrick Andrew Durkin, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 10.10%
+Course: MATH251, Instructor: Mauricio Esteban Gomez Lopez, Taught Count: 1, Aprec Avg: 40.54%, Failprec Avg: 0.00%
+Course: MATH251, Instructor: Jacob Andrew Potter, Taught Count: 1, Aprec Avg: 13.04%, Failprec Avg: 17.39%
+Course: MATH251, Instructor: Cassandra Rae Fisher, Taught Count: 2, Aprec Avg: 20.61%, Failprec Avg: 10.26%
+Course: MATH251, Instructor: Elisa Michelle Bellah, Taught Count: 2, Aprec Avg: 22.62%, Failprec Avg: 9.64%
+Course: MATH251, Instructor: Nathan S. Hunter, Taught Count: 1, Aprec Avg: 47.06%, Failprec Avg: 2.94%
+Course: MATH251, Instructor: Jeffrey Allen Monroe, Taught Count: 2, Aprec Avg: 20.59%, Failprec Avg: 8.89%
+Course: MATH251, Instructor: Alonso Delfin Ares de Parga, Taught Count: 1, Aprec Avg: 23.08%, Failprec Avg: 23.12%
+Course: MATH251, Instructor: Allan Patrick Hendrickson, Taught Count: 1, Aprec Avg: 17.65%, Failprec Avg: 0.00%
+Course: MATH251, Instructor: Michael Dominic Gartner, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 9.62%
+Course: MATH252, Instructor: Jean Bernard Nganou, Taught Count: 12, Aprec Avg: 28.81%, Failprec Avg: 26.30%
+Course: MATH252, Instructor: Safia M. Chettih, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 14.29%
+Course: MATH252, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 26.92%, Failprec Avg: 7.69%
+Course: MATH252, Instructor: Patrick Michael Schultz, Taught Count: 1, Aprec Avg: 44.83%, Failprec Avg: 10.35%
+Course: MATH252, Instructor: Max Benjamin Kutler, Taught Count: 2, Aprec Avg: 40.28%, Failprec Avg: 6.12%
+Course: MATH252, Instructor: Shlomo Gelaki, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 19.05%
+Course: MATH252, Instructor: Micah Wayne Warren, Taught Count: 1, Aprec Avg: 9.09%, Failprec Avg: 0.00%
+Course: MATH252, Instructor: Christin Nichole Bibby, Taught Count: 2, Aprec Avg: 28.03%, Failprec Avg: 17.62%
+Course: MATH252, Instructor: Alexander Palen Ellis, Taught Count: 1, Aprec Avg: 22.86%, Failprec Avg: 2.86%
+Course: MATH252, Instructor: Junwu Tu, Taught Count: 1, Aprec Avg: 34.38%, Failprec Avg: 12.50%
+Course: MATH252, Instructor: Aaron Matthew Shatzer, Taught Count: 1, Aprec Avg: 31.03%, Failprec Avg: 17.24%
+Course: MATH252, Instructor: Alexander Polishchuk, Taught Count: 1, Aprec Avg: 34.29%, Failprec Avg: 5.71%
+Course: MATH252, Instructor: Nathan Girard Perlmutter, Taught Count: 1, Aprec Avg: 31.25%, Failprec Avg: 6.25%
+Course: MATH252, Instructor: Tal Weissblat, Taught Count: 2, Aprec Avg: 57.88%, Failprec Avg: 1.61%
+Course: MATH252, Instructor: Deborah Anne Vicinsky, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 10.00%
+Course: MATH252, Instructor: Bronson Cade Lim, Taught Count: 2, Aprec Avg: 44.09%, Failprec Avg: 14.84%
+Course: MATH252, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 6.45%, Failprec Avg: 22.58%
+Course: MATH252, Instructor: Craig Choules Tingey, Taught Count: 2, Aprec Avg: 18.83%, Failprec Avg: 9.75%
+Course: MATH252, Instructor: Jeffrey D. Vaaler, Taught Count: 3, Aprec Avg: 32.98%, Failprec Avg: 23.51%
+Course: MATH252, Instructor: Haotian Wu, Taught Count: 5, Aprec Avg: 34.42%, Failprec Avg: 1.91%
+Course: MATH252, Instructor: Andrew Scott Reynolds, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: MATH252, Instructor: David Julian Steinberg, Taught Count: 3, Aprec Avg: 15.20%, Failprec Avg: 10.24%
+Course: MATH252, Instructor: Gregory Michael Drugan, Taught Count: 3, Aprec Avg: 26.92%, Failprec Avg: 5.68%
+Course: MATH252, Instructor: Robert W. Muth, Taught Count: 3, Aprec Avg: 28.37%, Failprec Avg: 10.32%
+Course: MATH252, Instructor: David Asher Levin, Taught Count: 1, Aprec Avg: 45.24%, Failprec Avg: 2.38%
+Course: MATH252, Instructor: Zhanwen Huang, Taught Count: 2, Aprec Avg: 40.54%, Failprec Avg: 13.51%
+Course: MATH252, Instructor: Daniel K. Dugger, Taught Count: 2, Aprec Avg: 30.76%, Failprec Avg: 19.20%
+Course: MATH252, Instructor: Hayden Michael Harker, Taught Count: 2, Aprec Avg: 21.36%, Failprec Avg: 27.37%
+Course: MATH252, Instructor: Trithang Tran, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 11.36%
+Course: MATH252, Instructor: David Loren Collett, Taught Count: 2, Aprec Avg: 27.78%, Failprec Avg: 12.32%
+Course: MATH252, Instructor: Benjamin William Reid, Taught Count: 1, Aprec Avg: 12.00%, Failprec Avg: 0.00%
+Course: MATH252, Instructor: Hao Wang, Taught Count: 3, Aprec Avg: 37.70%, Failprec Avg: 0.99%
+Course: MATH252, Instructor: Karl Philip Schmidt, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 22.22%
+Course: MATH252, Instructor: Adam N. Layne, Taught Count: 4, Aprec Avg: 27.73%, Failprec Avg: 3.73%
+Course: MATH252, Instructor: Clover May, Taught Count: 3, Aprec Avg: 21.43%, Failprec Avg: 21.69%
+Course: MATH252, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%
+Course: MATH252, Instructor: Nicolas Michael Addington, Taught Count: 2, Aprec Avg: 21.89%, Failprec Avg: 18.45%
+Course: MATH252, Instructor: Joseph Wallace Iverson, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 20.00%
+Course: MATH252, Instructor: Jennifer Rae Thorenson, Taught Count: 6, Aprec Avg: 23.31%, Failprec Avg: 23.18%
+Course: MATH252, Instructor: Marcin Bownik, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 10.00%
+Course: MATH252, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 1, Aprec Avg: 27.03%, Failprec Avg: 27.03%
+Course: MATH252, Instructor: Leanne E. Merrill, Taught Count: 1, Aprec Avg: 29.41%, Failprec Avg: 5.88%
+Course: MATH252, Instructor: Catherine Maria Hsu, Taught Count: 1, Aprec Avg: 46.67%, Failprec Avg: 23.33%
+Course: MATH252, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 20.00%
+Course: MATH252, Instructor: Jeffrey F. Musyt, Taught Count: 1, Aprec Avg: 26.67%, Failprec Avg: 3.33%
+Course: MATH252, Instructor: Benjamin Patrick Dyer, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: MATH252, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 15.79%, Failprec Avg: 26.32%
+Course: MATH252, Instructor: Joe Whaley Webster, Taught Count: 2, Aprec Avg: 19.64%, Failprec Avg: 6.05%
+Course: MATH252, Instructor: Sarah Jo Frei, Taught Count: 1, Aprec Avg: 6.45%, Failprec Avg: 9.84%
+Course: MATH252, Instructor: Han Feng, Taught Count: 2, Aprec Avg: 21.81%, Failprec Avg: 5.89%
+Course: MATH252, Instructor: Christophe H. Dethier, Taught Count: 1, Aprec Avg: 44.12%, Failprec Avg: 5.91%
+Course: MATH252, Instructor: Martin Wesley Hiserote, Taught Count: 1, Aprec Avg: 34.78%, Failprec Avg: 8.78%
+Course: MATH252, Instructor: Ryan Takahashi, Taught Count: 1, Aprec Avg: 26.67%, Failprec Avg: 10.03%
+Course: MATH252, Instructor: Jared Drew Johnson, Taught Count: 1, Aprec Avg: 29.41%, Failprec Avg: 5.91%
+Course: MATH252, Instructor: Robert Brian Usher, Taught Count: 1, Aprec Avg: 23.53%, Failprec Avg: 5.91%
+Course: MATH252, Instructor: Doeke David Buursma, Taught Count: 1, Aprec Avg: 6.25%, Failprec Avg: 9.56%
+Course: MATH252, Instructor: Christina Lynn Hazel, Taught Count: 2, Aprec Avg: 22.01%, Failprec Avg: 8.59%
+Course: MATH252, Instructor: Patrick Andrew Durkin, Taught Count: 1, Aprec Avg: 55.88%, Failprec Avg: 2.97%
+Course: MATH252, Instructor: Cassandra Rae Fisher, Taught Count: 1, Aprec Avg: 18.52%, Failprec Avg: 14.93%
+Course: MATH252, Instructor: Christopher Dean Sinclair, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 18.00%
+Course: MATH252, Instructor: Jonathan Michael Wells, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 0.11%
+Course: MATH252, Instructor: Paul A. Herstedt, Taught Count: 1, Aprec Avg: 37.50%, Failprec Avg: 16.79%
+Course: MATH252, Instructor: Liliana Anna Pazdan-Siudeja, Taught Count: 1, Aprec Avg: 27.27%, Failprec Avg: 9.12%
+Course: MATH253, Instructor: Huaxin Lin, Taught Count: 3, Aprec Avg: 23.45%, Failprec Avg: 0.05%
+Course: MATH253, Instructor: Tal Weissblat, Taught Count: 1, Aprec Avg: 57.90%, Failprec Avg: 26.32%
+Course: MATH253, Instructor: Deborah Anne Vicinsky, Taught Count: 1, Aprec Avg: 23.81%, Failprec Avg: 14.29%
+Course: MATH253, Instructor: Allen James Stewart, Taught Count: 1, Aprec Avg: 64.00%, Failprec Avg: 0.00%
+Course: MATH253, Instructor: Arkadiy Dmitrievich Berenshtein, Taught Count: 1, Aprec Avg: 47.83%, Failprec Avg: 4.35%
+Course: MATH253, Instructor: Min Yong Ro, Taught Count: 1, Aprec Avg: 54.17%, Failprec Avg: 0.00%
+Course: MATH253, Instructor: Aaron Matthew Shatzer, Taught Count: 1, Aprec Avg: 37.04%, Failprec Avg: 14.81%
+Course: MATH253, Instructor: Tianyuan Xu, Taught Count: 2, Aprec Avg: 43.15%, Failprec Avg: 10.03%
+Course: MATH253, Instructor: Joseph Wallace Iverson, Taught Count: 1, Aprec Avg: 34.62%, Failprec Avg: 26.92%
+Course: MATH253, Instructor: Patrick Michael Schultz, Taught Count: 1, Aprec Avg: 11.77%, Failprec Avg: 23.53%
+Course: MATH253, Instructor: James Paul Dilts, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 35.71%
+Course: MATH253, Instructor: Joseph William Loubert, Taught Count: 3, Aprec Avg: 28.28%, Failprec Avg: 20.63%
+Course: MATH253, Instructor: Nicholas Lerner Howell, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 24.00%
+Course: MATH253, Instructor: Andrew Scott Reynolds, Taught Count: 1, Aprec Avg: 23.81%, Failprec Avg: 9.52%
+Course: MATH253, Instructor: Adam N. Layne, Taught Count: 2, Aprec Avg: 38.19%, Failprec Avg: 7.42%
+Course: MATH253, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 25.81%, Failprec Avg: 35.48%
+Course: MATH253, Instructor: Haotian Wu, Taught Count: 2, Aprec Avg: 27.33%, Failprec Avg: 2.38%
+Course: MATH253, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 26.09%, Failprec Avg: 8.70%
+Course: MATH253, Instructor: Benjamin Seth Elias, Taught Count: 1, Aprec Avg: 42.50%, Failprec Avg: 12.50%
+Course: MATH253, Instructor: Trithang Tran, Taught Count: 2, Aprec Avg: 29.31%, Failprec Avg: 15.52%
+Course: MATH253, Instructor: Gregory Michael Drugan, Taught Count: 2, Aprec Avg: 34.29%, Failprec Avg: 12.71%
+Course: MATH253, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 19.05%
+Course: MATH253, Instructor: Micah Wayne Warren, Taught Count: 1, Aprec Avg: 61.54%, Failprec Avg: 3.85%
+Course: MATH253, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 29.17%, Failprec Avg: 16.67%
+Course: MATH253, Instructor: Eric King Hogle, Taught Count: 3, Aprec Avg: 30.30%, Failprec Avg: 11.94%
+Course: MATH253, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 31.58%, Failprec Avg: 21.05%
+Course: MATH253, Instructor: Jean Bernard Nganou, Taught Count: 2, Aprec Avg: 29.17%, Failprec Avg: 22.23%
+Course: MATH253, Instructor: David Loren Collett, Taught Count: 1, Aprec Avg: 13.33%, Failprec Avg: 16.67%
+Course: MATH253, Instructor: Christopher Dean Sinclair, Taught Count: 1, Aprec Avg: 13.64%, Failprec Avg: 18.18%
+Course: MATH253, Instructor: Shida Wang, Taught Count: 1, Aprec Avg: 22.58%, Failprec Avg: 12.94%
+Course: MATH253, Instructor: Alexander Kleshchev, Taught Count: 1, Aprec Avg: 48.57%, Failprec Avg: 0.00%
+Course: MATH253, Instructor: Sarah Jo Frei, Taught Count: 1, Aprec Avg: 20.83%, Failprec Avg: 20.92%
+Course: MATH253, Instructor: Qingyun Wang, Taught Count: 2, Aprec Avg: 27.27%, Failprec Avg: 5.30%
+Course: MATH253, Instructor: Joe Whaley Webster, Taught Count: 1, Aprec Avg: 29.63%, Failprec Avg: 3.81%
+Course: MATH253, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 3.57%
+Course: MATH253, Instructor: Jacob Andrew Potter, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 0.08%
+Course: MATH256, Instructor: Jennifer Rae Thorenson, Taught Count: 4, Aprec Avg: 30.10%, Failprec Avg: 24.38%
+Course: MATH256, Instructor: Micah Wayne Warren, Taught Count: 3, Aprec Avg: 32.04%, Failprec Avg: 2.63%
+Course: MATH256, Instructor: Jean Bernard Nganou, Taught Count: 2, Aprec Avg: 34.38%, Failprec Avg: 25.00%
+Course: MATH256, Instructor: James Isenberg, Taught Count: 6, Aprec Avg: 33.42%, Failprec Avg: 8.45%
+Course: MATH256, Instructor: Min Yong Ro, Taught Count: 1, Aprec Avg: 55.00%, Failprec Avg: 0.00%
+Course: MATH256, Instructor: Deborah Anne Vicinsky, Taught Count: 1, Aprec Avg: 68.75%, Failprec Avg: 12.50%
+Course: MATH256, Instructor: Weiyong He, Taught Count: 2, Aprec Avg: 30.78%, Failprec Avg: 5.97%
+Course: MATH256, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 42.86%, Failprec Avg: 0.00%
+Course: MATH256, Instructor: Benjamin Seth Elias, Taught Count: 2, Aprec Avg: 38.07%, Failprec Avg: 10.93%
+Course: MATH256, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 0.00%
+Course: MATH256, Instructor: Huaxin Lin, Taught Count: 2, Aprec Avg: 40.91%, Failprec Avg: 6.82%
+Course: MATH256, Instructor: Clover May, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 18.75%
+Course: MATH256, Instructor: Peng Lu, Taught Count: 1, Aprec Avg: 32.14%, Failprec Avg: 0.21%
+Course: MATH256, Instructor: Mauricio Esteban Gomez Lopez, Taught Count: 2, Aprec Avg: 50.61%, Failprec Avg: 3.96%
+Course: MATH256, Instructor: Bijan Yaghoubi Shahir, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 0.00%
+Course: MATH261, Instructor: Jon Brundan, Taught Count: 2, Aprec Avg: 49.64%, Failprec Avg: 2.50%
+Course: MATH261, Instructor: Alexander Kleshchev, Taught Count: 1, Aprec Avg: 61.91%, Failprec Avg: 0.00%
+Course: MATH262, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 11.11%
+Course: MATH281, Instructor: Peter B. Gilkey, Taught Count: 6, Aprec Avg: 22.45%, Failprec Avg: 12.38%
+Course: MATH281, Instructor: Peng Lu, Taught Count: 2, Aprec Avg: 32.80%, Failprec Avg: 25.27%
+Course: MATH281, Instructor: Weiyong He, Taught Count: 1, Aprec Avg: 23.33%, Failprec Avg: 3.33%
+Course: MATH281, Instructor: Tyler J. Kloefkorn, Taught Count: 1, Aprec Avg: 46.88%, Failprec Avg: 12.50%
+Course: MATH281, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 17.14%, Failprec Avg: 17.14%
+Course: MATH281, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 26.19%, Failprec Avg: 11.90%
+Course: MATH281, Instructor: Ellen Elizabeth Eischen, Taught Count: 1, Aprec Avg: 25.93%, Failprec Avg: 14.82%
+Course: MATH281, Instructor: Haotian Wu, Taught Count: 1, Aprec Avg: 24.00%, Failprec Avg: 0.00%
+Course: MATH281, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 6.82%
+Course: MATH281, Instructor: Shida Wang, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 8.33%
+Course: MATH281, Instructor: Clover May, Taught Count: 1, Aprec Avg: 40.62%, Failprec Avg: 6.25%
+Course: MATH281, Instructor: Arkady Dmitrievich Berenshtein, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 0.00%
+Course: MATH282, Instructor: Peter B. Gilkey, Taught Count: 6, Aprec Avg: 30.37%, Failprec Avg: 11.47%
+Course: MATH282, Instructor: Peng Lu, Taught Count: 4, Aprec Avg: 41.81%, Failprec Avg: 13.60%
+Course: MATH282, Instructor: Weiyong He, Taught Count: 1, Aprec Avg: 32.00%, Failprec Avg: 0.00%
+Course: MATH282, Instructor: Jennifer Rae Thorenson, Taught Count: 3, Aprec Avg: 22.84%, Failprec Avg: 17.26%
+Course: MATH282, Instructor: Ellen Elizabeth Eischen, Taught Count: 1, Aprec Avg: 21.74%, Failprec Avg: 13.04%
+Course: MATH282, Instructor: Haotian Wu, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 7.14%
+Course: MATH282, Instructor: Eric John Merchant, Taught Count: 1, Aprec Avg: 67.65%, Failprec Avg: 14.71%
+Course: MATH282, Instructor: Adam N. Layne, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.05%
+Course: MATH282, Instructor: Arkady Dmitrievich Berenstein, Taught Count: 1, Aprec Avg: 34.38%, Failprec Avg: 0.00%
+Course: MATH282, Instructor: Clover May, Taught Count: 1, Aprec Avg: 18.18%, Failprec Avg: 13.68%
+Course: MATH307, Instructor: Arkady Vaintrob, Taught Count: 1, Aprec Avg: 29.63%, Failprec Avg: 22.22%
+Course: MATH307, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 2, Aprec Avg: 23.33%, Failprec Avg: 17.50%
+Course: MATH307, Instructor: Christopher Dean Sinclair, Taught Count: 2, Aprec Avg: 35.97%, Failprec Avg: 3.85%
+Course: MATH307, Instructor: Micah Wayne Warren, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%
+Course: MATH307, Instructor: David Christopher Steinberg, Taught Count: 4, Aprec Avg: 29.29%, Failprec Avg: 15.07%
+Course: MATH307, Instructor: Shlomo Libeskind, Taught Count: 2, Aprec Avg: 24.05%, Failprec Avg: 14.29%
+Course: MATH307, Instructor: Jean Bernard Nganou, Taught Count: 3, Aprec Avg: 36.09%, Failprec Avg: 13.94%
+Course: MATH307, Instructor: Alexander Palen Ellis, Taught Count: 1, Aprec Avg: 21.43%, Failprec Avg: 7.14%
+Course: MATH307, Instructor: Sergey Yuzvinsky, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.00%
+Course: MATH307, Instructor: Robert W. Muth, Taught Count: 1, Aprec Avg: 17.65%, Failprec Avg: 35.29%
+Course: MATH307, Instructor: Daniel Nicholas Raies, Taught Count: 1, Aprec Avg: 41.18%, Failprec Avg: 0.00%
+Course: MATH307, Instructor: Andrew Paul Schopieray, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 19.23%
+Course: MATH307, Instructor: Peng Lu, Taught Count: 2, Aprec Avg: 20.81%, Failprec Avg: 24.01%
+Course: MATH307, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 0.00%
+Course: MATH307, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 36.36%, Failprec Avg: 0.00%
+Course: MATH307, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 15.38%, Failprec Avg: 7.73%
+Course: MATH307, Instructor: Patrick Andrew Durkin, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 3.33%
+Course: MATH307, Instructor: Gavin Keith Armstrong, Taught Count: 1, Aprec Avg: 20.69%, Failprec Avg: 3.45%
+Course: MATH307, Instructor: Gabriel Nielsen Montes de Oca, Taught Count: 1, Aprec Avg: 37.50%, Failprec Avg: 0.00%
+Course: MATH315, Instructor: Peter B. Gilkey, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 22.22%
+Course: MATH315, Instructor: Weiyong He, Taught Count: 1, Aprec Avg: 37.04%, Failprec Avg: 3.70%
+Course: MATH315, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 31.82%, Failprec Avg: 27.27%
+Course: MATH315, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 2, Aprec Avg: 29.62%, Failprec Avg: 21.46%
+Course: MATH315, Instructor: Jean Bernard Nganou, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 38.89%
+Course: MATH315, Instructor: Peng Lu, Taught Count: 1, Aprec Avg: 13.33%, Failprec Avg: 30.00%
+Course: MATH315, Instructor: N. Christopher Phillips, Taught Count: 2, Aprec Avg: 37.50%, Failprec Avg: 38.09%
+Course: MATH315, Instructor: David Julian Steinberg, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 20.00%
+Course: MATH315, Instructor: Christin Nichole Bibby, Taught Count: 1, Aprec Avg: 29.41%, Failprec Avg: 23.53%
+Course: MATH315, Instructor: Max Benjamin Kutler, Taught Count: 1, Aprec Avg: 14.29%, Failprec Avg: 4.76%
+Course: MATH315, Instructor: Joseph Wallace Iverson, Taught Count: 1, Aprec Avg: 39.13%, Failprec Avg: 39.13%
+Course: MATH315, Instructor: Huaxin Lin, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 25.00%
+Course: MATH315, Instructor: Nicholas Lerner Howell, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 21.43%
+Course: MATH315, Instructor: Bronson Cade Lim, Taught Count: 1, Aprec Avg: 17.39%, Failprec Avg: 13.04%
+Course: MATH341, Instructor: Marie Angela Vitulli, Taught Count: 2, Aprec Avg: 35.28%, Failprec Avg: 12.09%
+Course: MATH341, Instructor: Sergey Yuzvinsky, Taught Count: 1, Aprec Avg: 20.69%, Failprec Avg: 17.24%
+Course: MATH341, Instructor: Alexander Kleshchev, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Alexander Palen Ellis, Taught Count: 3, Aprec Avg: 31.85%, Failprec Avg: 5.43%
+Course: MATH341, Instructor: Benjamin Joseph Young, Taught Count: 2, Aprec Avg: 32.35%, Failprec Avg: 7.35%
+Course: MATH341, Instructor: Arkadiy Dmitrievich Berenshtein, Taught Count: 3, Aprec Avg: 38.29%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Aaron Matthew Shatzer, Taught Count: 1, Aprec Avg: 37.14%, Failprec Avg: 8.57%
+Course: MATH341, Instructor: Jon Brundan, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Benjamin Seth Elias, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 5.71%
+Course: MATH341, Instructor: Eric John Merchant, Taught Count: 1, Aprec Avg: 40.91%, Failprec Avg: 29.55%
+Course: MATH341, Instructor: Adam Paul Welly, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Trithang Tran, Taught Count: 2, Aprec Avg: 34.13%, Failprec Avg: 13.66%
+Course: MATH341, Instructor: Shabnam Akhtari, Taught Count: 1, Aprec Avg: 21.21%, Failprec Avg: 15.15%
+Course: MATH341, Instructor: Robert Lipshitz, Taught Count: 1, Aprec Avg: 24.00%, Failprec Avg: 8.00%
+Course: MATH341, Instructor: Tianyuan Xu, Taught Count: 1, Aprec Avg: 37.93%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Leanne Elizabeth Merrill, Taught Count: 1, Aprec Avg: 34.78%, Failprec Avg: 0.00%
+Course: MATH341, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 15.38%, Failprec Avg: 12.92%
+Course: MATH341, Instructor: Jared Drew Johnson, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 5.58%
+Course: MATH341, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 2.81%
+Course: MATH341, Instructor: Cynthia Ann Lester, Taught Count: 1, Aprec Avg: 9.38%, Failprec Avg: 15.75%
+Course: MATH341, Instructor: Eric King Hogle, Taught Count: 1, Aprec Avg: 23.53%, Failprec Avg: 2.94%
+Course: MATH341, Instructor: Han Feng, Taught Count: 1, Aprec Avg: 29.73%, Failprec Avg: 5.46%
+Course: MATH341, Instructor: Arkady Dmitrievich Berenshtein, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.03%
+Course: MATH342, Instructor: Sergey Yuzvinsky, Taught Count: 3, Aprec Avg: 45.77%, Failprec Avg: 11.84%
+Course: MATH342, Instructor: Marie Angela Vitulli, Taught Count: 1, Aprec Avg: 37.50%, Failprec Avg: 12.50%
+Course: MATH342, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 5.56%
+Course: MATH342, Instructor: Jon Brundan, Taught Count: 1, Aprec Avg: 51.35%, Failprec Avg: 8.11%
+Course: MATH342, Instructor: Arkadiy Dmitrievich Berenshtein, Taught Count: 4, Aprec Avg: 48.71%, Failprec Avg: 2.38%
+Course: MATH342, Instructor: Alexander Palen Ellis, Taught Count: 1, Aprec Avg: 22.58%, Failprec Avg: 3.23%
+Course: MATH342, Instructor: Robert Lipshitz, Taught Count: 2, Aprec Avg: 45.81%, Failprec Avg: 1.43%
+Course: MATH342, Instructor: Jared Drew Johnson, Taught Count: 1, Aprec Avg: 34.62%, Failprec Avg: 3.88%
+Course: MATH342, Instructor: Jennifer Rae Thorenson, Taught Count: 1, Aprec Avg: 32.35%, Failprec Avg: 2.94%
+Course: MATH342, Instructor: Han Feng, Taught Count: 1, Aprec Avg: 24.00%, Failprec Avg: 8.04%
+Course: MATH342, Instructor: Arkady Dmitrievich Berenstein, Taught Count: 1, Aprec Avg: 45.71%, Failprec Avg: 0.00%
+Course: MATH343, Instructor: Christopher Dean Sinclair, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 17.50%
+Course: MATH343, Instructor: Liliana Anna Pazdan-Siudeja, Taught Count: 3, Aprec Avg: 30.12%, Failprec Avg: 11.01%
+Course: MATH343, Instructor: Wenjing Yao, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 2.40%
+Course: MATH346, Instructor: Shabnam Akhtari, Taught Count: 2, Aprec Avg: 33.47%, Failprec Avg: 19.05%
+Course: MATH346, Instructor: David Christopher Steinberg, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 22.22%
+Course: MATH351, Instructor: Marcin Bownik, Taught Count: 1, Aprec Avg: 10.00%, Failprec Avg: 5.00%
+Course: MATH351, Instructor: Yuan Xu, Taught Count: 2, Aprec Avg: 26.68%, Failprec Avg: 8.12%
+Course: MATH351, Instructor: Benjamin Joseph Young, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 10.00%
+Course: MATH352, Instructor: Marcin Bownik, Taught Count: 2, Aprec Avg: 48.33%, Failprec Avg: 5.61%
+Course: MATH352, Instructor: Benjamin Joseph Young, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: MATH352, Instructor: Yuan Xu, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 3.33%
+Course: MATH391, Instructor: Jean Bernard Nganou, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 4.17%
+Course: MATH391, Instructor: Shlomo Libeskind, Taught Count: 2, Aprec Avg: 35.90%, Failprec Avg: 2.38%
+Course: MATH391, Instructor: David Christopher Steinberg, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.04%
+Course: MATH392, Instructor: Jean Bernard Nganou, Taught Count: 2, Aprec Avg: 40.45%, Failprec Avg: 22.57%
+Course: MATH392, Instructor: Shlomo Libeskind, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 9.52%
+Course: MATH392, Instructor: David Christopher Steinberg, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.06%
+Course: MATH393, Instructor: Jean Bernard Nganou, Taught Count: 3, Aprec Avg: 34.26%, Failprec Avg: 12.04%
+Course: MATH394, Instructor: Shlomo Libeskind, Taught Count: 1, Aprec Avg: 26.32%, Failprec Avg: 31.58%
+Course: MATH394, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 5.00%
+Course: MATH394, Instructor: Eric John Merchant, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: MATH395, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 35.29%, Failprec Avg: 23.53%
+Course: MATH411, Instructor: Shabnam Akhtari, Taught Count: 2, Aprec Avg: 20.83%, Failprec Avg: 23.61%
+Course: MATH411, Instructor: Weiyong He, Taught Count: 1, Aprec Avg: 17.39%, Failprec Avg: 13.04%
+Course: MATH411, Instructor: Marcin Bownik, Taught Count: 1, Aprec Avg: 32.00%, Failprec Avg: 12.04%
+Course: MATH413, Instructor: Huaxin Lin, Taught Count: 2, Aprec Avg: 37.50%, Failprec Avg: 6.25%
+Course: MATH421, Instructor: James Isenberg, Taught Count: 1, Aprec Avg: 30.77%, Failprec Avg: 0.00%
+Course: MATH421, Instructor: Jeffrey D. Vaaler, Taught Count: 1, Aprec Avg: 46.15%, Failprec Avg: 7.69%
+Course: MATH425, Instructor: Eric John Merchant, Taught Count: 8, Aprec Avg: 48.08%, Failprec Avg: 0.93%
+Course: MATH425, Instructor: Craig Choules Tingey, Taught Count: 1, Aprec Avg: 62.96%, Failprec Avg: 0.04%
+Course: MATH425, Instructor: Wenjing Yao, Taught Count: 1, Aprec Avg: 34.48%, Failprec Avg: 0.00%
+Course: MATH456, Instructor: Alexander Palen Ellis, Taught Count: 1, Aprec Avg: 16.67%, Failprec Avg: 0.00%
+Course: MATH456, Instructor: Nicholas J. Proudfoot, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 30.00%
+Course: MATH457, Instructor: Arkady Vaintrob, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 8.00%
+Course: MATH457, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 11.11%
+Course: MATH457, Instructor: Jared Drew Johnson, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: MATH458, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 8.33%
+Course: MATH458, Instructor: Ellen Elizabeth Eischen, Taught Count: 1, Aprec Avg: 34.38%, Failprec Avg: 18.75%
+Course: MATH461, Instructor: Hao Wang, Taught Count: 1, Aprec Avg: 22.92%, Failprec Avg: 4.17%
+Course: MATH461, Instructor: David Asher Levin, Taught Count: 3, Aprec Avg: 33.53%, Failprec Avg: 6.46%
+Course: MATH461, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 1, Aprec Avg: 26.32%, Failprec Avg: 21.05%
+Course: MATH461, Instructor: Micah Wayne Warren, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 2.86%
+Course: MATH462, Instructor: Bartlomiej Andrzej Siudeja, Taught Count: 1, Aprec Avg: 13.33%, Failprec Avg: 26.67%
+Course: MATH462, Instructor: David Asher Levin, Taught Count: 3, Aprec Avg: 27.36%, Failprec Avg: 12.43%
+Course: MATH463, Instructor: David Asher Levin, Taught Count: 4, Aprec Avg: 51.11%, Failprec Avg: 4.09%
+Course: MATH467, Instructor: Christopher Dean Sinclair, Taught Count: 2, Aprec Avg: 42.98%, Failprec Avg: 13.74%
+Course: MATH616, Instructor: Huaxin Lin, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 0.00%
+Course: MATH616, Instructor: Weiyong He, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.10%
+Course: MATH634, Instructor: Vadim Vologodski, Taught Count: 1, Aprec Avg: 94.12%, Failprec Avg: 0.00%
+Course: MATH634, Instructor: Nicholas J. Proudfoot, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: MATH634, Instructor: Dev Prakash Sinha, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: MATH635, Instructor: Daniel K. Dugger, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: MATH635, Instructor: Dev Prakash Sinha, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 0.00%
+Course: MATH647, Instructor: Alexander Polishchuk, Taught Count: 1, Aprec Avg: 35.29%, Failprec Avg: 0.00%
+Course: MATH647, Instructor: Arkady Vaintrob, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.00%
+Course: MATH647, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 90.00%, Failprec Avg: 0.00%
+Course: MATH648, Instructor: Alexander Kleshchev, Taught Count: 1, Aprec Avg: 37.50%, Failprec Avg: 0.00%
+Course: MATH648, Instructor: Alexander Polishchuk, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: MATH648, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 90.00%, Failprec Avg: 0.00%
+Course: MATH681, Instructor: Jon Brundan, Taught Count: 1, Aprec Avg: 90.91%, Failprec Avg: 0.00%
+Course: MATH681, Instructor: Nicolas Michael Addington, Taught Count: 1, Aprec Avg: 84.62%, Failprec Avg: 0.00%
+Course: PHYS101, Instructor: Bijan Yaghoubi Shahir, Taught Count: 6, Aprec Avg: 20.71%, Failprec Avg: 8.37%
+Course: PHYS101, Instructor: Eric Isaac Corwin, Taught Count: 1, Aprec Avg: 51.91%, Failprec Avg: 2.29%
+Course: PHYS101, Instructor: Jens Uwe Noeckel, Taught Count: 1, Aprec Avg: 56.06%, Failprec Avg: 0.02%
+Course: PHYS102, Instructor: Bijan Yaghoubi Shahir, Taught Count: 3, Aprec Avg: 24.08%, Failprec Avg: 10.20%
+Course: PHYS102, Instructor: Jens Uwe Noeckel, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 0.03%
+Course: PHYS152, Instructor: Daniel A. Steck, Taught Count: 4, Aprec Avg: 16.65%, Failprec Avg: 3.73%
+Course: PHYS152, Instructor: Timothy Jenkins, Taught Count: 3, Aprec Avg: 56.74%, Failprec Avg: 1.72%
+Course: PHYS152, Instructor: Timothy Cohen, Taught Count: 1, Aprec Avg: 58.90%, Failprec Avg: 0.00%
+Course: PHYS153, Instructor: Richard Philip Taylor, Taught Count: 3, Aprec Avg: 16.40%, Failprec Avg: 4.08%
+Course: PHYS153, Instructor: Roger Haydock, Taught Count: 1, Aprec Avg: 54.29%, Failprec Avg: 5.71%
+Course: PHYS155, Instructor: Gregory Bothun, Taught Count: 4, Aprec Avg: 19.58%, Failprec Avg: 1.39%
+Course: PHYS155, Instructor: Eric Isaac Corwin, Taught Count: 2, Aprec Avg: 57.66%, Failprec Avg: 8.45%
+Course: PHYS155, Instructor: Jens Uwe Noeckel, Taught Count: 1, Aprec Avg: 17.65%, Failprec Avg: 5.88%
+Course: PHYS156M, Instructor: Raghuveer Parthasarathy, Taught Count: 1, Aprec Avg: 4.35%, Failprec Avg: 21.74%
+Course: PHYS156M, Instructor: Gregory Bothun, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: PHYS161, Instructor: Raghuveer Parthasarathy, Taught Count: 3, Aprec Avg: 28.85%, Failprec Avg: 11.09%
+Course: PHYS162, Instructor: Miriam Deutsch, Taught Count: 2, Aprec Avg: 32.07%, Failprec Avg: 7.29%
+Course: PHYS162, Instructor: Raghuveer Parthasarathy, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 2.78%
+Course: PHYS162, Instructor: Dean William Livelybrooks, Taught Count: 1, Aprec Avg: 22.92%, Failprec Avg: 4.23%
+Course: PHYS163, Instructor: Miriam Deutsch, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS171, Instructor: Raghuveer Parthasarathy, Taught Count: 3, Aprec Avg: 25.49%, Failprec Avg: 7.22%
+Course: PHYS171, Instructor: Tristan Scott Ursell, Taught Count: 2, Aprec Avg: 28.12%, Failprec Avg: 14.59%
+Course: PHYS201, Instructor: Timothy Jenkins, Taught Count: 4, Aprec Avg: 25.10%, Failprec Avg: 5.04%
+Course: PHYS201, Instructor: Richard Philip Taylor, Taught Count: 7, Aprec Avg: 24.99%, Failprec Avg: 2.26%
+Course: PHYS201, Instructor: John W. Griffith, Taught Count: 3, Aprec Avg: 37.76%, Failprec Avg: 4.34%
+Course: PHYS202, Instructor: Timothy Jenkins, Taught Count: 8, Aprec Avg: 28.28%, Failprec Avg: 3.43%
+Course: PHYS202, Instructor: Stanley J. Micklavzina, Taught Count: 4, Aprec Avg: 35.50%, Failprec Avg: 4.77%
+Course: PHYS202, Instructor: Arthur Merriman Peck, Taught Count: 3, Aprec Avg: 28.66%, Failprec Avg: 4.83%
+Course: PHYS203, Instructor: Timothy Jenkins, Taught Count: 8, Aprec Avg: 24.45%, Failprec Avg: 5.32%
+Course: PHYS203, Instructor: Stanley J. Micklavzina, Taught Count: 6, Aprec Avg: 39.90%, Failprec Avg: 4.06%
+Course: PHYS204, Instructor: David Wayne Shook, Taught Count: 1, Aprec Avg: 60.98%, Failprec Avg: 2.44%
+Course: PHYS204, Instructor: Kevin T. Walton, Taught Count: 1, Aprec Avg: 61.54%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Peter Carl Lindstrom, Taught Count: 1, Aprec Avg: 74.29%, Failprec Avg: 2.86%
+Course: PHYS204, Instructor: Jordan R. Palamos, Taught Count: 1, Aprec Avg: 81.48%, Failprec Avg: 3.70%
+Course: PHYS204, Instructor: Joshua Tate Peterson, Taught Count: 12, Aprec Avg: 46.84%, Failprec Avg: 1.57%
+Course: PHYS204, Instructor: Ellis T. Roe, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: William Dumas, Taught Count: 2, Aprec Avg: 44.66%, Failprec Avg: 6.45%
+Course: PHYS204, Instructor: Rick Daniel Montgomery, Taught Count: 3, Aprec Avg: 56.97%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Brandon Henry Schlomann, Taught Count: 1, Aprec Avg: 37.93%, Failprec Avg: 10.35%
+Course: PHYS204, Instructor: Robert D. Rogers, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 4.17%
+Course: PHYS204, Instructor: Sofiane Merkouche, Taught Count: 1, Aprec Avg: 52.17%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Wesley W. Erickson, Taught Count: 1, Aprec Avg: 36.84%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Joshua Nathanial Frye, Taught Count: 1, Aprec Avg: 54.29%, Failprec Avg: 2.86%
+Course: PHYS204, Instructor: Alice Troup Greenberg, Taught Count: 1, Aprec Avg: 51.61%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Mae S. Voeun, Taught Count: 1, Aprec Avg: 32.14%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: Arthur Merriman Peck, Taught Count: 2, Aprec Avg: 57.80%, Failprec Avg: 0.00%
+Course: PHYS204, Instructor: William Christian Scannell, Taught Count: 8, Aprec Avg: 71.85%, Failprec Avg: 0.93%
+Course: PHYS205, Instructor: Jeremy Takemi Copperman, Taught Count: 4, Aprec Avg: 56.59%, Failprec Avg: 1.19%
+Course: PHYS205, Instructor: Joshua Tate Peterson, Taught Count: 7, Aprec Avg: 48.51%, Failprec Avg: 1.22%
+Course: PHYS205, Instructor: David Wayne Shook, Taught Count: 1, Aprec Avg: 24.14%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: William Dumas, Taught Count: 1, Aprec Avg: 53.85%, Failprec Avg: 7.69%
+Course: PHYS205, Instructor: Jordan R. Palamos, Taught Count: 1, Aprec Avg: 39.13%, Failprec Avg: 4.35%
+Course: PHYS205, Instructor: Joshua Nathanial Frye, Taught Count: 1, Aprec Avg: 68.00%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Edouard A. Hay, Taught Count: 1, Aprec Avg: 58.54%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Brandon Henry Schlomann, Taught Count: 1, Aprec Avg: 57.69%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Robert D. Rogers, Taught Count: 2, Aprec Avg: 46.81%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Kevin T. Walton, Taught Count: 1, Aprec Avg: 31.03%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Andrew Douglas Blaikie, Taught Count: 1, Aprec Avg: 40.74%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Julio Ciro Benegas, Taught Count: 2, Aprec Avg: 81.11%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: William James Watterson, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Alice Troup Greenberg, Taught Count: 1, Aprec Avg: 68.97%, Failprec Avg: 6.90%
+Course: PHYS205, Instructor: Joshua E. Ziegler, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Wesley W. Erickson, Taught Count: 1, Aprec Avg: 68.00%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Andrew Peter Hammond, Taught Count: 1, Aprec Avg: 64.52%, Failprec Avg: 0.00%
+Course: PHYS205, Instructor: Sofiane Merkouche, Taught Count: 1, Aprec Avg: 73.91%, Failprec Avg: 4.35%
+Course: PHYS205, Instructor: Mae S. Voeun, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 3.70%
+Course: PHYS205, Instructor: William Christian Scannell, Taught Count: 10, Aprec Avg: 65.13%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Jeremy Takemi Copperman, Taught Count: 1, Aprec Avg: 63.33%, Failprec Avg: 3.33%
+Course: PHYS206, Instructor: Andrew Douglas Blaikie, Taught Count: 2, Aprec Avg: 53.89%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Jonathan W. Ruffin, Taught Count: 1, Aprec Avg: 58.70%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Caleb J. Holt, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Joshua Tate Peterson, Taught Count: 2, Aprec Avg: 38.46%, Failprec Avg: 1.93%
+Course: PHYS206, Instructor: David Wayne Shook, Taught Count: 1, Aprec Avg: 64.00%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Jordan R. Palamos, Taught Count: 2, Aprec Avg: 56.12%, Failprec Avg: 3.02%
+Course: PHYS206, Instructor: Ellis T. Roe, Taught Count: 1, Aprec Avg: 67.65%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: William Christian Scannell, Taught Count: 13, Aprec Avg: 54.72%, Failprec Avg: 0.65%
+Course: PHYS206, Instructor: Edouard A. Hay, Taught Count: 1, Aprec Avg: 40.62%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: William Dumas, Taught Count: 1, Aprec Avg: 38.71%, Failprec Avg: 3.23%
+Course: PHYS206, Instructor: Robert D. Rogers, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Kevin T. Walton, Taught Count: 1, Aprec Avg: 17.65%, Failprec Avg: 5.88%
+Course: PHYS206, Instructor: Joshua Nathanial Frye, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Brandon Henry Schlomann, Taught Count: 1, Aprec Avg: 10.53%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Joshua E. Ziegler, Taught Count: 1, Aprec Avg: 42.10%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Sofiane Merkouche, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Wesley W. Erickson, Taught Count: 1, Aprec Avg: 48.28%, Failprec Avg: 3.45%
+Course: PHYS206, Instructor: Saul Benjamin Propp, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Michal S. Jander, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 3.57%
+Course: PHYS206, Instructor: Andrew Peter Hammond, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: PHYS206, Instructor: Mae S. Voeun, Taught Count: 1, Aprec Avg: 48.15%, Failprec Avg: 3.70%
+Course: PHYS206, Instructor: Alice Troup Greenberg, Taught Count: 1, Aprec Avg: 38.09%, Failprec Avg: 0.00%
+Course: PHYS251, Instructor: Benjamin James McMorran, Taught Count: 1, Aprec Avg: 39.83%, Failprec Avg: 9.32%
+Course: PHYS251, Instructor: Benjamin Jose Aleman, Taught Count: 1, Aprec Avg: 36.91%, Failprec Avg: 8.33%
+Course: PHYS251, Instructor: Eric C. Torrence, Taught Count: 1, Aprec Avg: 34.31%, Failprec Avg: 3.02%
+Course: PHYS252, Instructor: Benjamin James McMorran, Taught Count: 2, Aprec Avg: 37.94%, Failprec Avg: 5.00%
+Course: PHYS252, Instructor: Eric C. Torrence, Taught Count: 2, Aprec Avg: 45.33%, Failprec Avg: 0.01%
+Course: PHYS253, Instructor: Benjamin James McMorran, Taught Count: 2, Aprec Avg: 33.22%, Failprec Avg: 7.24%
+Course: PHYS253, Instructor: Eric C. Torrence, Taught Count: 2, Aprec Avg: 37.97%, Failprec Avg: 2.91%
+Course: PHYS290, Instructor: Joshua Tate Peterson, Taught Count: 1, Aprec Avg: 47.62%, Failprec Avg: 7.14%
+Course: PHYS290, Instructor: Stephanie Alexis Ninos Majewski, Taught Count: 7, Aprec Avg: 47.66%, Failprec Avg: 6.65%
+Course: PHYS290, Instructor: Benjamin James McMorran, Taught Count: 2, Aprec Avg: 70.89%, Failprec Avg: 7.11%
+Course: PHYS290, Instructor: Eric Isaac Corwin, Taught Count: 2, Aprec Avg: 60.72%, Failprec Avg: 0.04%
+Course: PHYS301, Instructor: Gregory Bothun, Taught Count: 1, Aprec Avg: 84.78%, Failprec Avg: 0.00%
+Course: PHYS301, Instructor: Steven J. van Enk, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS351, Instructor: Eric Isaac Corwin, Taught Count: 2, Aprec Avg: 35.67%, Failprec Avg: 5.00%
+Course: PHYS351, Instructor: Steven J. van Enk, Taught Count: 2, Aprec Avg: 31.87%, Failprec Avg: 6.50%
+Course: PHYS352, Instructor: Spencer Chang, Taught Count: 3, Aprec Avg: 33.29%, Failprec Avg: 0.00%
+Course: PHYS352, Instructor: Steven J. van Enk, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 0.00%
+Course: PHYS353, Instructor: Miriam Deutsch, Taught Count: 2, Aprec Avg: 26.14%, Failprec Avg: 13.07%
+Course: PHYS353, Instructor: Tristan Scott Ursell, Taught Count: 2, Aprec Avg: 31.69%, Failprec Avg: 9.01%
+Course: PHYS361, Instructor: John Nicols, Taught Count: 2, Aprec Avg: 48.57%, Failprec Avg: 0.00%
+Course: PHYS391, Instructor: Dean William Livelybrooks, Taught Count: 5, Aprec Avg: 31.36%, Failprec Avg: 9.00%
+Course: PHYS410, Instructor: Gregory Bothun, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: PHYS411, Instructor: Benjamin Jose Aleman, Taught Count: 3, Aprec Avg: 37.32%, Failprec Avg: 1.61%
+Course: PHYS412, Instructor: Roger Haydock, Taught Count: 1, Aprec Avg: 17.86%, Failprec Avg: 7.14%
+Course: PHYS412, Instructor: Dean William Livelybrooks, Taught Count: 1, Aprec Avg: 15.79%, Failprec Avg: 7.89%
+Course: PHYS412, Instructor: Stephanie Alexis Ninos Majewski, Taught Count: 2, Aprec Avg: 31.49%, Failprec Avg: 3.35%
+Course: PHYS413, Instructor: Roger Haydock, Taught Count: 1, Aprec Avg: 52.94%, Failprec Avg: 0.00%
+Course: PHYS413, Instructor: Eric Isaac Corwin, Taught Count: 1, Aprec Avg: 29.73%, Failprec Avg: 0.00%
+Course: PHYS413, Instructor: James Imamura, Taught Count: 1, Aprec Avg: 53.12%, Failprec Avg: 0.00%
+Course: PHYS413, Instructor: Stephanie Alexis Ninos Majewski, Taught Count: 1, Aprec Avg: 38.89%, Failprec Avg: 0.00%
+Course: PHYS414, Instructor: Steven J. van Enk, Taught Count: 2, Aprec Avg: 35.90%, Failprec Avg: 1.93%
+Course: PHYS414, Instructor: Timothy Cohen, Taught Count: 2, Aprec Avg: 23.81%, Failprec Avg: 4.76%
+Course: PHYS415, Instructor: Steven J. van Enk, Taught Count: 2, Aprec Avg: 34.67%, Failprec Avg: 6.25%
+Course: PHYS415, Instructor: Timothy Cohen, Taught Count: 2, Aprec Avg: 33.82%, Failprec Avg: 0.00%
+Course: PHYS417, Instructor: Steven J. van Enk, Taught Count: 4, Aprec Avg: 34.87%, Failprec Avg: 2.96%
+Course: PHYS425, Instructor: Stephen Gregory, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 8.33%
+Course: PHYS431, Instructor: Daniel A. Steck, Taught Count: 2, Aprec Avg: 51.28%, Failprec Avg: 3.33%
+Course: PHYS432, Instructor: Daniel A. Steck, Taught Count: 4, Aprec Avg: 41.57%, Failprec Avg: 1.68%
+Course: PHYS481, Instructor: Stephen Gregory, Taught Count: 1, Aprec Avg: 35.29%, Failprec Avg: 0.00%
+Course: PHYS481, Instructor: Benjamin Frederick Farr, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Kurt Allan Langworthy, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Fuding Lin, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: James Evan Hutchison, Taught Count: 2, Aprec Avg: 51.30%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Bryan Scott Boggs, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Khodadad Nima Dinyari, Taught Count: 2, Aprec Avg: 75.71%, Failprec Avg: 2.50%
+Course: PHYS610, Instructor: Spencer Chang, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Raghuveer Parthasarathy, Taught Count: 1, Aprec Avg: 87.50%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Mark Charles Lonergan, Taught Count: 1, Aprec Avg: 37.50%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Benjamin Jose Aleman, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: David Hampton McIntyre, Taught Count: 1, Aprec Avg: 77.78%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: Dietrich Belitz, Taught Count: 2, Aprec Avg: 56.57%, Failprec Avg: 0.00%
+Course: PHYS610, Instructor: David C. Johnson, Taught Count: 1, Aprec Avg: 62.50%, Failprec Avg: 0.00%
+Course: PHYS611, Instructor: Dietrich Belitz, Taught Count: 2, Aprec Avg: 57.78%, Failprec Avg: 0.00%
+Course: PHYS611, Instructor: John Toner, Taught Count: 2, Aprec Avg: 56.31%, Failprec Avg: 0.00%
+Course: PHYS612, Instructor: Dietrich Belitz, Taught Count: 1, Aprec Avg: 29.63%, Failprec Avg: 0.00%
+Course: PHYS612, Instructor: John Toner, Taught Count: 1, Aprec Avg: 44.44%, Failprec Avg: 0.00%
+Course: PHYS612, Instructor: Tristan Scott Ursell, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: PHYS613, Instructor: John Toner, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 0.00%
+Course: PHYS613, Instructor: Tristan Scott Ursell, Taught Count: 1, Aprec Avg: 61.90%, Failprec Avg: 0.00%
+Course: PHYS614, Instructor: John Toner, Taught Count: 2, Aprec Avg: 64.62%, Failprec Avg: 0.00%
+Course: PHYS614, Instructor: Dietrich Belitz, Taught Count: 1, Aprec Avg: 52.38%, Failprec Avg: 0.00%
+Course: PHYS622, Instructor: Paul L. Csonka, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: PHYS622, Instructor: Dietrich Belitz, Taught Count: 3, Aprec Avg: 53.33%, Failprec Avg: 0.00%
+Course: PHYS623, Instructor: Paul L. Csonka, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: PHYS623, Instructor: Dietrich Belitz, Taught Count: 2, Aprec Avg: 55.75%, Failprec Avg: 0.00%
+Course: PHYS627, Instructor: Khodadad Nima Dinyari, Taught Count: 1, Aprec Avg: 64.00%, Failprec Avg: 0.00%
+Course: PHYS631, Instructor: Jens Uwe Noeckel, Taught Count: 2, Aprec Avg: 82.29%, Failprec Avg: 0.00%
+Course: PHYS631, Instructor: Spencer Chang, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 0.00%
+Course: PHYS632, Instructor: Jens Uwe Noeckel, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.00%
+Course: PHYS632, Instructor: Spencer Chang, Taught Count: 1, Aprec Avg: 72.22%, Failprec Avg: 0.00%
+Course: PHYS634, Instructor: Graham Douglas Kribs, Taught Count: 2, Aprec Avg: 61.62%, Failprec Avg: 0.00%
+Course: PHYS678M, Instructor: Benjamin Jose Aleman, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: PHYS679M, Instructor: Fuding Lin, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: PHYS684, Instructor: Hailin Wang, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: PHYS684, Instructor: Michael G. Raymer, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: PSY199, Instructor: Jeffrey R. Measelle, Taught Count: 1, Aprec Avg: 64.71%, Failprec Avg: 0.00%
+Course: PSY201, Instructor: Margaret Sereno, Taught Count: 4, Aprec Avg: 27.64%, Failprec Avg: 5.72%
+Course: PSY201, Instructor: Jagdeep Bala, Taught Count: 4, Aprec Avg: 61.15%, Failprec Avg: 6.34%
+Course: PSY201, Instructor: Paul R. Dassonville, Taught Count: 3, Aprec Avg: 8.80%, Failprec Avg: 9.60%
+Course: PSY201, Instructor: Dagmar Demircan, Taught Count: 3, Aprec Avg: 26.72%, Failprec Avg: 6.08%
+Course: PSY202, Instructor: Sara Hodges, Taught Count: 2, Aprec Avg: 8.46%, Failprec Avg: 18.96%
+Course: PSY202, Instructor: Jordan Thomas Pennefather, Taught Count: 7, Aprec Avg: 26.60%, Failprec Avg: 5.18%
+Course: PSY202, Instructor: Jeffrey R. Measelle, Taught Count: 4, Aprec Avg: 11.48%, Failprec Avg: 6.27%
+Course: PSY202, Instructor: Azim Fayaz Shariff, Taught Count: 3, Aprec Avg: 35.79%, Failprec Avg: 10.85%
+Course: PSY202, Instructor: Arian Mobasser, Taught Count: 1, Aprec Avg: 70.45%, Failprec Avg: 4.55%
+Course: PSY202, Instructor: Jeffrey Peterson, Taught Count: 2, Aprec Avg: 71.64%, Failprec Avg: 8.10%
+Course: PSY202, Instructor: Robert S. Chavez, Taught Count: 1, Aprec Avg: 16.07%, Failprec Avg: 7.97%
+Course: PSY302, Instructor: Kathryn Iurino, Taught Count: 1, Aprec Avg: 34.72%, Failprec Avg: 15.28%
+Course: PSY302, Instructor: Sean Michael Laurent, Taught Count: 8, Aprec Avg: 19.71%, Failprec Avg: 15.17%
+Course: PSY302, Instructor: Jessica Elizabeth Kosie, Taught Count: 2, Aprec Avg: 29.28%, Failprec Avg: 16.44%
+Course: PSY302, Instructor: Robbie Alice Ross, Taught Count: 7, Aprec Avg: 31.98%, Failprec Avg: 14.62%
+Course: PSY302, Instructor: Jordan Thomas Pennefather, Taught Count: 4, Aprec Avg: 33.23%, Failprec Avg: 11.71%
+Course: PSY302, Instructor: William Miller Schumacher, Taught Count: 1, Aprec Avg: 54.55%, Failprec Avg: 6.82%
+Course: PSY302, Instructor: Jason Michael Wallin, Taught Count: 2, Aprec Avg: 34.14%, Failprec Avg: 12.00%
+Course: PSY302, Instructor: Elif Isbell, Taught Count: 1, Aprec Avg: 36.36%, Failprec Avg: 6.82%
+Course: PSY302, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 29.79%, Failprec Avg: 8.51%
+Course: PSY302, Instructor: Theodore Anthony Bell, Taught Count: 3, Aprec Avg: 23.90%, Failprec Avg: 4.53%
+Course: PSY302, Instructor: Dagmar Demircan, Taught Count: 1, Aprec Avg: 27.93%, Failprec Avg: 0.93%
+Course: PSY303, Instructor: Theodore Anthony Bell, Taught Count: 3, Aprec Avg: 22.14%, Failprec Avg: 6.71%
+Course: PSY303, Instructor: Jason Christopher Isbell, Taught Count: 4, Aprec Avg: 25.04%, Failprec Avg: 8.59%
+Course: PSY303, Instructor: Brianna Clyde Hailey, Taught Count: 1, Aprec Avg: 27.91%, Failprec Avg: 4.65%
+Course: PSY303, Instructor: Pranjal Mehta, Taught Count: 5, Aprec Avg: 23.17%, Failprec Avg: 9.49%
+Course: PSY303, Instructor: Devin Elaine Howington, Taught Count: 1, Aprec Avg: 39.29%, Failprec Avg: 16.07%
+Course: PSY303, Instructor: Scott Allan Reed, Taught Count: 2, Aprec Avg: 17.62%, Failprec Avg: 15.05%
+Course: PSY303, Instructor: Caitlin Marie Fausey, Taught Count: 2, Aprec Avg: 24.56%, Failprec Avg: 10.78%
+Course: PSY303, Instructor: Elif Isbell, Taught Count: 1, Aprec Avg: 14.89%, Failprec Avg: 4.25%
+Course: PSY303, Instructor: Jordan Thomas Pennefather, Taught Count: 1, Aprec Avg: 37.98%, Failprec Avg: 2.53%
+Course: PSY303, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 25.35%, Failprec Avg: 2.82%
+Course: PSY303, Instructor: Jason Michael Wallin, Taught Count: 1, Aprec Avg: 56.90%, Failprec Avg: 3.45%
+Course: PSY303, Instructor: Seyed Pooya Razavi Ghahfarokhi, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.06%
+Course: PSY303, Instructor: Jessica Elizabeth Kosie, Taught Count: 1, Aprec Avg: 76.47%, Failprec Avg: 0.00%
+Course: PSY303, Instructor: Kyle Kamuela Morgan, Taught Count: 2, Aprec Avg: 69.12%, Failprec Avg: 0.06%
+Course: PSY303, Instructor: Bradley Thomas Hughes, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 6.25%
+Course: PSY303, Instructor: Katherine Faith Hagan, Taught Count: 3, Aprec Avg: 70.09%, Failprec Avg: 0.02%
+Course: PSY303, Instructor: Sefora R. Lieber, Taught Count: 1, Aprec Avg: 56.25%, Failprec Avg: 0.00%
+Course: PSY303, Instructor: Alexander Robert Garinther, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: PSY303, Instructor: Kathleen Virginia Casto, Taught Count: 2, Aprec Avg: 29.29%, Failprec Avg: 3.65%
+Course: PSY303, Instructor: Monika Neff Lind, Taught Count: 1, Aprec Avg: 52.94%, Failprec Avg: 0.06%
+Course: PSY303, Instructor: Benjamin Wade Nelson, Taught Count: 1, Aprec Avg: 20.00%, Failprec Avg: 6.67%
+Course: PSY304, Instructor: Paul R. Dassonville, Taught Count: 4, Aprec Avg: 25.14%, Failprec Avg: 9.87%
+Course: PSY304, Instructor: Jennifer Kay Lewis, Taught Count: 2, Aprec Avg: 65.13%, Failprec Avg: 1.19%
+Course: PSY304, Instructor: Jason Christopher Isbell, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 9.52%
+Course: PSY304, Instructor: Scott Allan Reed, Taught Count: 2, Aprec Avg: 11.44%, Failprec Avg: 14.93%
+Course: PSY304, Instructor: Matthew Charles Smear, Taught Count: 4, Aprec Avg: 27.11%, Failprec Avg: 4.04%
+Course: PSY304, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 2, Aprec Avg: 19.95%, Failprec Avg: 9.74%
+Course: PSY304, Instructor: Daryn Richelle Blanc-Goldhammer, Taught Count: 1, Aprec Avg: 53.66%, Failprec Avg: 9.76%
+Course: PSY330, Instructor: Catrin-Claudia Rode, Taught Count: 7, Aprec Avg: 25.15%, Failprec Avg: 6.40%
+Course: PSY330, Instructor: Joseph F. Rodini, Taught Count: 1, Aprec Avg: 72.46%, Failprec Avg: 0.00%
+Course: PSY330, Instructor: Theodore Anthony Bell, Taught Count: 2, Aprec Avg: 36.00%, Failprec Avg: 7.45%
+Course: PSY330, Instructor: Brett Gregory Mercier, Taught Count: 1, Aprec Avg: 61.91%, Failprec Avg: 4.76%
+Course: PSY330, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 81.25%, Failprec Avg: 0.00%
+Course: PSY348, Instructor: Michael Stephen Wehr, Taught Count: 3, Aprec Avg: 43.53%, Failprec Avg: 4.14%
+Course: PSY348, Instructor: Christina M. Karns, Taught Count: 1, Aprec Avg: 13.41%, Failprec Avg: 13.42%
+Course: PSY348, Instructor: Jonathan L. Saunders, Taught Count: 1, Aprec Avg: 61.54%, Failprec Avg: 3.08%
+Course: PSY366, Instructor: Pamela L Jost Birrell, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 9.62%
+Course: PSY366, Instructor: Alicia Yee Ibaraki, Taught Count: 1, Aprec Avg: 81.82%, Failprec Avg: 0.83%
+Course: PSY366, Instructor: Gordon C. N. Hall, Taught Count: 3, Aprec Avg: 21.82%, Failprec Avg: 7.14%
+Course: PSY366, Instructor: Xiaoning Sun, Taught Count: 2, Aprec Avg: 50.55%, Failprec Avg: 2.08%
+Course: PSY366, Instructor: Kathryn Iurino, Taught Count: 1, Aprec Avg: 49.21%, Failprec Avg: 6.35%
+Course: PSY376, Instructor: Amanda Michelle Hampton Wray, Taught Count: 1, Aprec Avg: 3.41%, Failprec Avg: 4.55%
+Course: PSY376, Instructor: Jennifer Claire Ablow, Taught Count: 4, Aprec Avg: 24.64%, Failprec Avg: 6.65%
+Course: PSY376, Instructor: Jessica Elizabeth Kosie, Taught Count: 1, Aprec Avg: 60.66%, Failprec Avg: 4.92%
+Course: PSY376, Instructor: Ryan Jeffrey Giuliano, Taught Count: 2, Aprec Avg: 58.28%, Failprec Avg: 0.00%
+Course: PSY376, Instructor: Arian Mobasser, Taught Count: 1, Aprec Avg: 52.94%, Failprec Avg: 3.92%
+Course: PSY376, Instructor: Jennifer Hope Pfeifer, Taught Count: 1, Aprec Avg: 25.58%, Failprec Avg: 14.73%
+Course: PSY376, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 72.34%, Failprec Avg: 0.00%
+Course: PSY376, Instructor: Xiaoning Sun, Taught Count: 1, Aprec Avg: 37.84%, Failprec Avg: 10.81%
+Course: PSY380, Instructor: Jocelyn Marie Barton, Taught Count: 3, Aprec Avg: 31.29%, Failprec Avg: 5.56%
+Course: PSY380, Instructor: Sean Michael Laurent, Taught Count: 3, Aprec Avg: 9.56%, Failprec Avg: 8.80%
+Course: PSY380, Instructor: Nicole Diane Cummins, Taught Count: 2, Aprec Avg: 62.68%, Failprec Avg: 3.51%
+Course: PSY383, Instructor: Brianna Clyde Hailey, Taught Count: 1, Aprec Avg: 38.71%, Failprec Avg: 3.23%
+Course: PSY383, Instructor: Christina M. Karns, Taught Count: 3, Aprec Avg: 16.17%, Failprec Avg: 6.25%
+Course: PSY383, Instructor: Jagdeep Bala, Taught Count: 1, Aprec Avg: 20.14%, Failprec Avg: 7.64%
+Course: PSY383, Instructor: Brianna Clyde Delker, Taught Count: 1, Aprec Avg: 45.00%, Failprec Avg: 10.00%
+Course: PSY388, Instructor: Sean Michael Laurent, Taught Count: 3, Aprec Avg: 20.59%, Failprec Avg: 2.58%
+Course: PSY388, Instructor: Marina Naomi Rosenthal, Taught Count: 5, Aprec Avg: 56.83%, Failprec Avg: 3.11%
+Course: PSY399, Instructor: Jeffrey R. Measelle, Taught Count: 3, Aprec Avg: 33.22%, Failprec Avg: 0.57%
+Course: PSY399, Instructor: Marjorie Taylor, Taught Count: 2, Aprec Avg: 79.50%, Failprec Avg: 0.00%
+Course: PSY399, Instructor: Gerard Thomas Saucier, Taught Count: 3, Aprec Avg: 20.75%, Failprec Avg: 5.19%
+Course: PSY407, Instructor: Jennifer Claire Ablow, Taught Count: 1, Aprec Avg: 64.00%, Failprec Avg: 0.00%
+Course: PSY407, Instructor: Holly Arrow, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%
+Course: PSY407, Instructor: Amanda Ellis Van Scoyoc, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 8.33%
+Course: PSY407, Instructor: Arian Mobasser, Taught Count: 1, Aprec Avg: 72.22%, Failprec Avg: 0.00%
+Course: PSY407, Instructor: Gerard Thomas Saucier, Taught Count: 1, Aprec Avg: 47.06%, Failprec Avg: 0.00%
+Course: PSY407, Instructor: Lauren V." "ONeil, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 4.17%
+Course: PSY407, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 90.00%, Failprec Avg: 0.10%
+Course: PSY407, Instructor: Robin Marie Hertz, Taught Count: 1, Aprec Avg: 23.53%, Failprec Avg: 0.06%
+Course: PSY410, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 46.43%, Failprec Avg: 0.00%
+Course: PSY410, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 81.82%, Failprec Avg: 0.00%
+Course: PSY410, Instructor: Sarah Helen Donaldson, Taught Count: 2, Aprec Avg: 97.62%, Failprec Avg: 0.00%
+Course: PSY410, Instructor: Theodore Anthony Bell, Taught Count: 1, Aprec Avg: 40.35%, Failprec Avg: 1.79%
+Course: PSY420, Instructor: Robert Mauro, Taught Count: 3, Aprec Avg: 31.21%, Failprec Avg: 3.03%
+Course: PSY433, Instructor: David Ignacio Unsworth, Taught Count: 6, Aprec Avg: 28.71%, Failprec Avg: 1.09%
+Course: PSY433, Instructor: Alexander John Bies, Taught Count: 2, Aprec Avg: 44.12%, Failprec Avg: 0.00%
+Course: PSY433, Instructor: Scott Allan Reed, Taught Count: 1, Aprec Avg: 36.71%, Failprec Avg: 7.59%
+Course: PSY433, Instructor: Matthew Kyle Robison, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 3.12%
+Course: PSY433, Instructor: Brice Alan Kuhl, Taught Count: 2, Aprec Avg: 33.64%, Failprec Avg: 2.58%
+Course: PSY433, Instructor: Jagdeep Bala, Taught Count: 1, Aprec Avg: 31.25%, Failprec Avg: 9.38%
+Course: PSY433, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 24.14%, Failprec Avg: 3.47%
+Course: PSY435, Instructor: Eric Robert Pakulak, Taught Count: 1, Aprec Avg: 10.00%, Failprec Avg: 4.00%
+Course: PSY435, Instructor: Jagdeep Bala, Taught Count: 2, Aprec Avg: 17.34%, Failprec Avg: 9.38%
+Course: PSY435, Instructor: David Ignacio Unsworth, Taught Count: 4, Aprec Avg: 22.37%, Failprec Avg: 1.80%
+Course: PSY435, Instructor: Edward S. Awh, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 2.08%
+Course: PSY435, Instructor: Edward Karl Vogel, Taught Count: 1, Aprec Avg: 30.51%, Failprec Avg: 0.00%
+Course: PSY435, Instructor: Jason Bradley Hubbard, Taught Count: 1, Aprec Avg: 77.78%, Failprec Avg: 3.70%
+Course: PSY436, Instructor: Scott Allan Reed, Taught Count: 3, Aprec Avg: 28.54%, Failprec Avg: 1.63%
+Course: PSY436, Instructor: Robert Mauro, Taught Count: 2, Aprec Avg: 28.09%, Failprec Avg: 8.46%
+Course: PSY438, Instructor: Jagdeep Bala, Taught Count: 2, Aprec Avg: 29.02%, Failprec Avg: 8.11%
+Course: PSY438, Instructor: Margaret Sereno, Taught Count: 3, Aprec Avg: 32.64%, Failprec Avg: 2.75%
+Course: PSY438, Instructor: Alexander Michael Khounlavouth, Taught Count: 1, Aprec Avg: 54.29%, Failprec Avg: 0.00%
+Course: PSY438, Instructor: Alexander John Bies, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 4.76%
+Course: PSY438, Instructor: Scott Allan Reed, Taught Count: 1, Aprec Avg: 9.62%, Failprec Avg: 11.54%
+Course: PSY438, Instructor: Brice Alan Kuhl, Taught Count: 2, Aprec Avg: 29.18%, Failprec Avg: 2.70%
+Course: PSY440, Instructor: Eric Robert Pakulak, Taught Count: 1, Aprec Avg: 31.11%, Failprec Avg: 8.89%
+Course: PSY445, Instructor: Michael Stephen Wehr, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%
+Course: PSY449, Instructor: Helen J. Neville, Taught Count: 2, Aprec Avg: 36.91%, Failprec Avg: 2.38%
+Course: PSY449, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 0.00%
+Course: PSY449, Instructor: Christina M. Karns, Taught Count: 1, Aprec Avg: 35.48%, Failprec Avg: 0.00%
+Course: PSY450, Instructor: Jagdeep Bala, Taught Count: 4, Aprec Avg: 30.73%, Failprec Avg: 4.97%
+Course: PSY450, Instructor: Kathryn Samantha Gilliam, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 0.00%
+Course: PSY450, Instructor: Kathryn Gilliam Beauchamp, Taught Count: 2, Aprec Avg: 36.67%, Failprec Avg: 0.00%
+Course: PSY450, Instructor: Theodore Anthony Bell, Taught Count: 1, Aprec Avg: 24.32%, Failprec Avg: 2.70%
+Course: PSY456, Instructor: Elliot T. Berkman, Taught Count: 3, Aprec Avg: 25.95%, Failprec Avg: 6.18%
+Course: PSY456, Instructor: Jordan Thomas Pennefather, Taught Count: 4, Aprec Avg: 34.87%, Failprec Avg: 2.18%
+Course: PSY456, Instructor: Devin Elaine Howington, Taught Count: 3, Aprec Avg: 43.57%, Failprec Avg: 3.78%
+Course: PSY456, Instructor: Arielle Shain Morganstern, Taught Count: 1, Aprec Avg: 42.31%, Failprec Avg: 0.00%
+Course: PSY457, Instructor: Holly Arrow, Taught Count: 4, Aprec Avg: 29.31%, Failprec Avg: 0.97%
+Course: PSY458, Instructor: Catrin-Claudia Rode, Taught Count: 2, Aprec Avg: 38.67%, Failprec Avg: 7.92%
+Course: PSY458, Instructor: Marcus William Mayorga, Taught Count: 1, Aprec Avg: 33.33%, Failprec Avg: 2.38%
+Course: PSY459, Instructor: Gerard Thomas Saucier, Taught Count: 4, Aprec Avg: 27.65%, Failprec Avg: 1.55%
+Course: PSY459, Instructor: Jordan Thomas Pennefather, Taught Count: 2, Aprec Avg: 28.91%, Failprec Avg: 4.88%
+Course: PSY459, Instructor: Robin Marie Hertz, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 4.17%
+Course: PSY461, Instructor: Candice Michelle Mottweiler, Taught Count: 1, Aprec Avg: 74.07%, Failprec Avg: 7.41%
+Course: PSY468, Instructor: Sanjay Srivastava, Taught Count: 3, Aprec Avg: 17.77%, Failprec Avg: 5.96%
+Course: PSY468, Instructor: Jordan Samuel Miller-Ziegler, Taught Count: 2, Aprec Avg: 40.14%, Failprec Avg: 4.70%
+Course: PSY468, Instructor: Arielle Shain Morganstern, Taught Count: 1, Aprec Avg: 57.90%, Failprec Avg: 0.00%
+Course: PSY468, Instructor: Rebecca Diane Calcott, Taught Count: 1, Aprec Avg: 20.41%, Failprec Avg: 8.16%
+Course: PSY468, Instructor: Bradley Thomas Hughes, Taught Count: 1, Aprec Avg: 18.37%, Failprec Avg: 2.06%
+Course: PSY469, Instructor: Pamela L Jost Birrell, Taught Count: 1, Aprec Avg: 27.78%, Failprec Avg: 5.56%
+Course: PSY469, Instructor: Jocelyn Marie Barton, Taught Count: 5, Aprec Avg: 23.72%, Failprec Avg: 7.43%
+Course: PSY469, Instructor: Maureen Zalewski Regnier, Taught Count: 2, Aprec Avg: 13.87%, Failprec Avg: 3.88%
+Course: PSY469, Instructor: Nicholas Brian Allen, Taught Count: 1, Aprec Avg: 38.27%, Failprec Avg: 3.70%
+Course: PSY469, Instructor: Robin Marie Hertz, Taught Count: 1, Aprec Avg: 10.81%, Failprec Avg: 0.00%
+Course: PSY469, Instructor: Dorianne Brooke Wright, Taught Count: 1, Aprec Avg: 38.89%, Failprec Avg: 2.78%
+Course: PSY471, Instructor: Jordan Thomas Pennefather, Taught Count: 2, Aprec Avg: 24.09%, Failprec Avg: 3.45%
+Course: PSY471, Instructor: Gerard Thomas Saucier, Taught Count: 2, Aprec Avg: 20.49%, Failprec Avg: 2.70%
+Course: PSY472, Instructor: Jennifer Joy Freyd, Taught Count: 3, Aprec Avg: 43.28%, Failprec Avg: 2.54%
+Course: PSY472, Instructor: Pamela L Jost Birrell, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%
+Course: PSY472, Instructor: Marina Naomi Rosenthal, Taught Count: 2, Aprec Avg: 64.83%, Failprec Avg: 3.33%
+Course: PSY472, Instructor: Jennifer Kay Lewis, Taught Count: 1, Aprec Avg: 54.90%, Failprec Avg: 1.96%
+Course: PSY472, Instructor: Robin Marie Hertz, Taught Count: 1, Aprec Avg: 77.08%, Failprec Avg: 0.00%
+Course: PSY473, Instructor: Tiffany Brook Brown, Taught Count: 2, Aprec Avg: 30.91%, Failprec Avg: 0.00%
+Course: PSY473, Instructor: Kristen Margaret Reinhardt, Taught Count: 4, Aprec Avg: 65.27%, Failprec Avg: 1.50%
+Course: PSY473, Instructor: Crystal Marie Dehle, Taught Count: 6, Aprec Avg: 35.85%, Failprec Avg: 5.47%
+Course: PSY475, Instructor: Elif Isbell, Taught Count: 2, Aprec Avg: 57.07%, Failprec Avg: 2.33%
+Course: PSY475, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 13.33%, Failprec Avg: 0.00%
+Course: PSY475, Instructor: Caitlin Marie Fausey, Taught Count: 4, Aprec Avg: 32.03%, Failprec Avg: 4.72%
+Course: PSY475, Instructor: Robbie Alice Ross, Taught Count: 2, Aprec Avg: 71.97%, Failprec Avg: 1.51%
+Course: PSY475, Instructor: Eric Robert Pakulak, Taught Count: 2, Aprec Avg: 15.45%, Failprec Avg: 1.78%
+Course: PSY476, Instructor: Dare Baldwin, Taught Count: 2, Aprec Avg: 34.64%, Failprec Avg: 0.71%
+Course: PSY478, Instructor: Jennifer Claire Ablow, Taught Count: 1, Aprec Avg: 28.57%, Failprec Avg: 7.14%
+Course: PSY478, Instructor: Jennifer Hope Pfeifer, Taught Count: 1, Aprec Avg: 15.79%, Failprec Avg: 1.75%
+Course: PSY478, Instructor: Jeffrey R. Measelle, Taught Count: 1, Aprec Avg: 22.92%, Failprec Avg: 2.08%
+Course: PSY478, Instructor: Elif Isbell, Taught Count: 2, Aprec Avg: 36.49%, Failprec Avg: 0.83%
+Course: PSY480, Instructor: Jeffrey R. Measelle, Taught Count: 2, Aprec Avg: 32.11%, Failprec Avg: 0.00%
+Course: PSY480, Instructor: Christina Marie Gamache Martin, Taught Count: 1, Aprec Avg: 74.36%, Failprec Avg: 0.00%
+Course: PSY480, Instructor: Heidemarie Kaiser Laurent, Taught Count: 1, Aprec Avg: 8.57%, Failprec Avg: 8.57%
+Course: PSY480, Instructor: Ariel Madeline Carter-Rodriguez, Taught Count: 1, Aprec Avg: 67.74%, Failprec Avg: 0.00%
+Course: PSY480, Instructor: Jennifer Claire Ablow, Taught Count: 1, Aprec Avg: 41.30%, Failprec Avg: 4.35%
+Course: PSY611, Instructor: Louis Moses, Taught Count: 3, Aprec Avg: 71.18%, Failprec Avg: 1.33%
+Course: PSY612, Instructor: Robert Mauro, Taught Count: 4, Aprec Avg: 62.86%, Failprec Avg: 0.89%
+Course: PSY613, Instructor: Elliot T. Berkman, Taught Count: 4, Aprec Avg: 84.40%, Failprec Avg: 0.00%
+Course: BI432, Instructor: Jeffrey Kyle Stone, Taught Count: 1, Aprec Avg: 30.00%, Failprec Avg: 5.05%
+Course: BI620, Instructor: Diana Elizabeth Libuda, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 0.00%
+Course: CH531, Instructor: David C. Johnson, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.09%
+Course: CH681, Instructor: Kurt Allan Langworthy, Taught Count: 1, Aprec Avg: 27.27%, Failprec Avg: 0.00%
+Course: CH683, Instructor: Stephen Lee Golledge, Taught Count: 1, Aprec Avg: 72.73%, Failprec Avg: 0.00%
+Course: CHN204, Instructor: Fengjun Mao, Taught Count: 1, Aprec Avg: 58.33%, Failprec Avg: 0.00%
+Course: CHN436, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 68.75%, Failprec Avg: 0.00%
+Course: CHN445, Instructor: Weijun Chen, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 0.00%
+Course: CIS322, Instructor: Michal Terry Young, Taught Count: 1, Aprec Avg: 36.84%, Failprec Avg: 5.32%
+Course: CIS322, Instructor: Ramakrishnan Durairajan, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 16.12%
+Course: HPHY621, Instructor: Li-Shan Chou, Taught Count: 1, Aprec Avg: 46.15%, Failprec Avg: 0.00%
+Course: HPHY631, Instructor: Brad William Wilkins, Taught Count: 1, Aprec Avg: 64.41%, Failprec Avg: 0.00%
+Course: MATH70, Instructor: Tammy Marie Nezol, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH95, Instructor: Elina Yurevna Kleshcheva, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH95, Instructor: Tammy Marie Nezol, Taught Count: 3, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH95, Instructor: Kristen Lynn Henderson, Taught Count: 2, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH95, Instructor: Kai Shyang Wang, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH199, Instructor: Dev Prakash Sinha, Taught Count: 1, Aprec Avg: 11.11%, Failprec Avg: 0.11%
+Course: MATH199, Instructor: Tricia Hendrickson Bevans, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%
+Course: MATH316, Instructor: Yuan Xu, Taught Count: 1, Aprec Avg: 27.27%, Failprec Avg: 18.24%
+Course: MATH316, Instructor: Benjamin Seth Elias, Taught Count: 1, Aprec Avg: 14.29%, Failprec Avg: 11.63%
+Course: MATH316, Instructor: Shabnam Akhtari, Taught Count: 1, Aprec Avg: 34.38%, Failprec Avg: 12.62%
+Course: MATH421M, Instructor: James Isenberg, Taught Count: 1, Aprec Avg: 43.48%, Failprec Avg: 0.04%
+Course: MATH513, Instructor: Huaxin Lin, Taught Count: 1, Aprec Avg: 54.55%, Failprec Avg: 0.00%
+Course: PHYS181, Instructor: Michael G. Raymer, Taught Count: 1, Aprec Avg: 36.84%, Failprec Avg: 0.05%
+Course: PHYS581, Instructor: Fuding Lin, Taught Count: 1, Aprec Avg: 31.03%, Failprec Avg: 0.00%
+Course: PSY301, Instructor: Theodore Anthony Bell, Taught Count: 1, Aprec Avg: 44.77%, Failprec Avg: 0.85%
+Course: PSY301, Instructor: Nicole Maria Dudukovic Kuhl, Taught Count: 1, Aprec Avg: 28.86%, Failprec Avg: 3.28%
+Course: PSY301, Instructor: Christina M. Karns, Taught Count: 1, Aprec Avg: 25.62%, Failprec Avg: 1.91%
+Course: PSY305, Instructor: Jagdeep Bala, Taught Count: 2, Aprec Avg: 23.74%, Failprec Avg: 8.32%
+Course: PSY305, Instructor: David Ignacio Unsworth, Taught Count: 1, Aprec Avg: 28.40%, Failprec Avg: 2.38%
+Course: PSY306, Instructor: Jordan Thomas Pennefather, Taught Count: 3, Aprec Avg: 29.39%, Failprec Avg: 2.24%
+Course: PSY308, Instructor: Christina M. Karns, Taught Count: 1, Aprec Avg: 27.03%, Failprec Avg: 3.40%
+Course: PSY308, Instructor: Dare Baldwin, Taught Count: 1, Aprec Avg: 18.31%, Failprec Avg: 2.82%
+Course: PSY308, Instructor: Kathryn Leeann Mills, Taught Count: 1, Aprec Avg: 61.69%, Failprec Avg: 2.62%
+Course: PSY309, Instructor: Gordon C. N. Hall, Taught Count: 1, Aprec Avg: 47.06%, Failprec Avg: 2.94%
+Course: PSY309, Instructor: Mason Fries, Taught Count: 1, Aprec Avg: 33.99%, Failprec Avg: 0.65%
+Course: PSY412, Instructor: Jordan Thomas Pennefather, Taught Count: 1, Aprec Avg: 73.68%, Failprec Avg: 0.00%
+Course: PSY610, Instructor: Sanjay Srivastava, Taught Count: 1, Aprec Avg: 81.25%, Failprec Avg: 0.00%
+Course: PSY610, Instructor: Michael Stephen Wehr, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.00%
+Course: PSY610, Instructor: Elliot T. Berkman, Taught Count: 1, Aprec Avg: 83.33%, Failprec Avg: 0.00%
+Course: PSY610, Instructor: Dagmar Demircan, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 0.00%
+Course: BI464, Instructor: William Emmons Bradshaw, Taught Count: 1, Aprec Avg: 58.33%, Failprec Avg: 0.00%
+Course: CH520, Instructor: Darren W. Johnson, Taught Count: 1, Aprec Avg: 57.14%, Failprec Avg: 0.00%
+Course: CHN437, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 78.57%, Failprec Avg: 0.00%
+Course: CIS199, Instructor: David A. Wilkins, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 0.00%
+Course: CIS413, Instructor: Andrzej Proskurowski, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 0.00%
+Course: CIS431, Instructor: Allen Malony, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%
+Course: CIS610, Instructor: Dejing Dou, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 0.00%
+Course: HPHY112, Instructor: Robin M. Hopkins, Taught Count: 1, Aprec Avg: 73.97%, Failprec Avg: 0.00%
+Course: HPHY375, Instructor: Philip D. Matern, Taught Count: 1, Aprec Avg: 39.53%, Failprec Avg: 0.00%
+Course: HPHY610, Instructor: Shannon Michelle Pomeroy, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%
+Course: MATH347, Instructor: Shabnam Akhtari, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 3.40%
+Course: MATH410, Instructor: David Asher Levin, Taught Count: 1, Aprec Avg: 22.73%, Failprec Avg: 0.18%
+Course: MATH410, Instructor: David Christopher Steinberg, Taught Count: 1, Aprec Avg: 47.62%, Failprec Avg: 4.76%
+Course: MATH410, Instructor: Peter Lochhead Ralph, Taught Count: 1, Aprec Avg: 56.52%, Failprec Avg: 0.04%
+Course: MATH514, Instructor: Huaxin Lin, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.14%
+Course: MATH532, Instructor: Nicholas J. Proudfoot, Taught Count: 1, Aprec Avg: 45.45%, Failprec Avg: 0.09%
+Course: PSY307, Instructor: Jordan Thomas Pennefather, Taught Count: 1, Aprec Avg: 23.87%, Failprec Avg: 2.58%
+Course: PSY307, Instructor: Gerard Thomas Saucier, Taught Count: 1, Aprec Avg: 25.87%, Failprec Avg: 0.71%
+Course: BI160, Instructor: Santiago Jaramillo, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 4.17%
+Course: CHN206, Instructor: Fengjun Mao, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%
+Course: CHN380, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 3.61%
+Course: CHN482, Instructor: Zhuo Jing-Schmidt, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 6.25%
+Course: CIS473, Instructor: Daniel Baruch Lowd, Taught Count: 1, Aprec Avg: 20.83%, Failprec Avg: 0.08%
+Course: HPHY406, Instructor: Sierra Dawson, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%
+Course: HPHY472, Instructor: Kimber Marie Mattox, Taught Count: 1, Aprec Avg: 73.68%, Failprec Avg: 0.00%
+Course: MATH317, Instructor: Benjamin Seth Elias, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 10.00%
+Course: MATH348, Instructor: Shabnam Akhtari, Taught Count: 1, Aprec Avg: 52.94%, Failprec Avg: 11.82%
+Course: MATH397, Instructor: Hayden Michael Harker, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.20%
+Course: MATH433, Instructor: Peng Lu, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 0.17%
+Course: MATH441, Instructor: Shida Wang, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 0.08%
+Course: MATH515, Instructor: Peter B. Gilkey, Taught Count: 1, Aprec Avg: 46.15%, Failprec Avg: 0.15%
+Course: MATH649, Instructor: Victor Valentinovich Ostrik, Taught Count: 1, Aprec Avg: 81.25%, Failprec Avg: 0.00%
+Course: PHYS422, Instructor: Eric Isaac Corwin, Taught Count: 1, Aprec Avg: 31.25%, Failprec Avg: 0.00%
+Course: PHYS633, Instructor: Spencer Chang, Taught Count: 1, Aprec Avg: 83.33%, Failprec Avg: 0.00%
+Course: PSY479, Instructor: Jennifer Claire Ablow, Taught Count: 1, Aprec Avg: 22.73%, Failprec Avg: 0.00%
