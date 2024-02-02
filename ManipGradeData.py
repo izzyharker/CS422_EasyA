@@ -73,20 +73,23 @@ def filter_by_course(data, course):
             taught_count = int(parts[2].split(': ')[1].strip())
             aprec_avg = float(parts[3].split(': ')[1].strip().rstrip('%').strip())
             failprec_avg = float(parts[4].split(': ')[1].strip().rstrip('%').strip())
+            faculty_status = int(parts[5].split(': ')[1].strip())
 
             # Error case: If instructor is not present...
             if instructor not in filtered_data:
                 # Default to 0
-                filtered_data[instructor] = {'Total Classes': 0, 'Aprec Sum': 0, 'Failprec Sum': 0}
+                filtered_data[instructor] = {'Total Classes': 0, 'Aprec Sum': 0, 'Failprec Sum': 0, 'Faculty Status': 0}
 
             # Iterate
             filtered_data[instructor]['Total Classes'] += taught_count
             filtered_data[instructor]['Aprec Sum'] += aprec_avg * taught_count
             filtered_data[instructor]['Failprec Sum'] += failprec_avg * taught_count
+            filtered_data[instructor]['Faculty Status'] = faculty_status
 
     # Average out the aprec_avg and failprec_avg
     for instructor in filtered_data:
         total_taught = filtered_data[instructor]['Total Classes']
+        faculty_status = filtered_data[instructor]['Faculty Status']
         filtered_data[instructor]['Aprec Avg'] = filtered_data[instructor]['Aprec Sum'] / total_taught if total_taught > 0 else 0
         filtered_data[instructor]['Failprec Avg'] = filtered_data[instructor]['Failprec Sum'] / total_taught if total_taught > 0 else 0
 
@@ -115,20 +118,23 @@ def filter_by_department(data, department, level=None):
                 taught_count = int(parts[2].split(': ')[1].strip())
                 aprec_avg = float(parts[3].split(':')[1].strip().rstrip('%').strip())
                 failprec_avg = float(parts[4].split(':')[1].strip().rstrip('%').strip())
+                faculty_status = int(parts[5].split(': ')[1].strip())
 
                 # Error case: course is not included in filtered_data...
                 if instructor not in filtered_data:
                     # Default to 0
-                    filtered_data[instructor] = {'Total Classes': 0, 'Aprec Sum': 0, 'Failprec Sum': 0, 'Classes': []}
+                    filtered_data[instructor] = {'Total Classes': 0, 'Aprec Sum': 0, 'Failprec Sum': 0, 'Faculty Status': 0}
 
                 filtered_data[instructor]['Total Classes'] += taught_count
                 filtered_data[instructor]['Aprec Sum'] += aprec_avg * taught_count
                 filtered_data[instructor]['Failprec Sum'] += failprec_avg * taught_count
-                filtered_data[instructor]['Classes'].append(course_with_code)
+                filtered_data[instructor]['Faculty Status'] = faculty_status
+                #filtered_data[instructor]['Classes'].append(course_with_code)
 
     # Iterate through instructors
     for instructor in filtered_data:
         total_taught = filtered_data[instructor]['Total Classes']
+        faculty_status = filtered_data[instructor]['Faculty Status']
         filtered_data[instructor]['Aprec Avg'] = filtered_data[instructor]['Aprec Sum'] / total_taught if total_taught > 0 else 0
         filtered_data[instructor]['Failprec Avg'] = filtered_data[instructor]['Failprec Sum'] / total_taught if total_taught > 0 else 0
         del filtered_data[instructor]['Aprec Sum'], filtered_data[instructor]['Failprec Sum']
@@ -137,19 +143,24 @@ def filter_by_department(data, department, level=None):
     return filtered_data
 
 
+"""
+Need additional function which shows all courses in a specified department's specified level
+"""
+
+
 def display_instructor_data(data, course):
     # Displays data for course filter
     print(f"Data for Course: {course}")
     # Iterates on instructions
     for instructor, info in data.items():
         # Data being displayed
-        print(f"\tInstructor: {instructor}, Total Taught Count: {info['Total Classes']}, Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%")
+        print(f"\tInstructor: {instructor}, Total Taught Count: {info['Total Classes']}, Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%, Faculty Status: {info['Faculty Status']}")
 
 
 def display_data(data):
     # Displays data for non-course filter
     for instructor, info in data.items():
-        print(f"Instructor: {instructor}, Total Taught Count: {info['Total Classes']}, Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%")
+        print(f"Instructor: {instructor}, Total Taught Count: {info['Total Classes']}, Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%, Faculty Status: {info['Faculty Status']}")
 
 
 def write_to_file(filename, data):
@@ -157,7 +168,7 @@ def write_to_file(filename, data):
     with open(filename, 'w') as file:
         for instructor, info in data.items():
             file.write(f"Instructor: {instructor}, Total Classes: {info['Total Classes']}, ")
-            file.write(f"Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%\n")
+            file.write(f"Aprec Avg: {info['Aprec Avg']}%, Failprec Avg: {info['Failprec Avg']}%, Faculty Status: {info['Faculty Status']}\n")
 
 
 def main():
@@ -186,7 +197,7 @@ def main():
     # Level filter and save to file
     elif choice == 'level':
         department = input("Enter a department (e.g., 'BI'): ")
-        level = input("Enter the course level (e.g., '1l' for 100-level courses): ")
+        level = input("Enter the course level (e.g., '1' for 100-level courses): ")
         level_data = filter_by_department(average_grades, department, level)
         output_filename = f"level_{department}{level}.txt"
         write_to_file(output_filename, level_data)
@@ -195,6 +206,10 @@ def main():
     # Error
     else:
         print("Invalid.")
+
+    """
+    Add functionality to search for existing files and not duplicate those which have already been created
+    """
 
 
 if __name__ == "__main__":
