@@ -72,4 +72,4 @@ for dept in dept_list:
 
 print(faculty_names)
 
-write_to_txt(faculty_names, 'faculty_names.txt')
+write_to_txt(faculty_names, 'faculty_names.txt') from
