@@ -239,7 +239,7 @@ def applyFilter(average_grades, filter_options: dict):
     elif filter_type == "level":
         try:
             course = filter_options["COURSE"]
-            if filter_options["SHOW_INSTR_CLASSES_TAUGHT"]:
+            if filter_options["SHOW_INSTR"]:
                 # if true, filter by instructor
                 filter_data = filter_by_department(average_grades, department, course[0])
             else:
