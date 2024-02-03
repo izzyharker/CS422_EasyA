@@ -26,8 +26,11 @@ SHOW_INSTR: True/False
 
 ### Additional information
 TYPE, DEPT, REG_INSTR, APREC_YES are always used in the filtering and correspond to buttons
+
 COURSE is used with filtering by class and by level, but not by overall department
+
 SHOW_INSTR_CLASSES_TAUGHT adds the number of classes an instructor teaches to the x-axis label of the graph
+
 SHOW_INSTR is only used with filtering by level, if true then the graph sorts by instructor, otherwise the program filters by specific class.
 
 If necessary you can modify these, but this minimal necessary information as far as I can tell in terms of what is needed by the filter to produce all the graphs that we need to produce. I'm happy to explain more if you need.
