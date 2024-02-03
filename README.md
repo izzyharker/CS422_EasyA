@@ -7,14 +7,21 @@ test2
 ## Filtering dictionary structure
 Filtering takes a dictionary with the following key/value pairs.
 required:
+
 TYPE: department, level, course
+
 DEPT: valid department code
+
 REG_INSTR: 0 if False, 1 if True
+
 APREC_YES: True/False
 
 optional/situational
+
 COURSE: 3-digit course code
+
 SHOW_INSTR_CLASSES_TAUGHT: True/False
+
 SHOW_INSTR: True/False
 
 ### Additional information
