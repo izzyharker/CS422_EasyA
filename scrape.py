@@ -1,17 +1,16 @@
 # web scraper WIP for Easy A project, by Sequoia
 import requests
 from bs4 import BeautifulSoup
-import csv
-import time
 
 
-def write_to_csv(faculty_names, file_name):
-    with open(file_name, 'w', newline='', encoding='utf-8-sig') as file:
-        # write names to the csv, replaces any existing files
-        # this also accounts for special characters recording correctly in excel, e.g., "'"
-        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+
+def write_to_txt(faculty_names, file_name):
+    with open(file_name, 'w', encoding='utf-8') as file:
+        # write names to txt file, each name on a new line
         for name in faculty_names:
-            writer.writerow([name])  # each name is written to a new row
+            file.write(f"{name}\n")  # adding a newline character after each name
+
 
 
 def scrape_faculty_names(base_url, department=''):
@@ -61,8 +60,8 @@ for dept in dept_list:
     print(dept)
     faculty_names.append(dept)
     faculty_names += scrape_faculty_names(base_url, dept)
-    time.sleep(2)
+
 
 print(faculty_names)
 
-write_to_csv(faculty_names, 'faculty_names.csv')
+write_to_txt(faculty_names, 'faculty_names.txt')

@@ -1,0 +1,384 @@
+biology/
+Barkan, Alice
+Bohannan, Brendan J. M.
+Bowerman, Bruce A.
+Bradshaw, William E.
+Bridgham, Scott D.
+Carrier, Mark C.
+Conery, John S.
+Cresko, William A.
+Dickman, Alan
+Doe, Chris Q.
+Eisen, Judith S.
+Emlet, Richard B.
+Green, Jessica L.
+Guillemin, Karen J.
+Herman, Victoria
+Hodder, Janet
+Hulslander, Cristin L.
+Johnson, Eric A.
+Kelly, Alan J.
+Lockery, Shawn R.
+Lombardi, V. Patteson
+Maslakova, Svetlana
+Neill, Cristopher M.
+O’Day, Peter M.
+Phillips, Patrick C.
+Postlethwait, John H.
+Roberts, William
+Roy, Bitty A.
+Schlenoff, Debbie
+Selker, Eric
+Selker, Jeanne M.
+Shanks, Alan
+Jr., George F. Sprague
+Sprague, Karen U.
+Stankunas, Kryn
+Stiefbold, Carl A.
+Streisfeld, Matthew A.
+Takahashi, Terry
+Thornton, Joseph W.
+Tublitz, Nathan J.
+Washbourne, Philip E.
+Weeks, Janis C.
+Westerfield, Monte
+Wetherwax, Peter B.
+Wood, A. Michelle
+Young, Craig M.
+Zong, Hui
+Rumrill, Steven S.
+Wagner, David H.
+Bajer, Andrew S.
+Jr., Howard T. Bonnett
+Capaldi, Roderick A.
+Carroll, George C.
+Castenholz, Richard W.
+Kimmel, Charles B.
+Munz, Frederick W.
+Rudy, Paul P.
+Schabtach, Eric
+Shapiro, Lynda P.
+Stahl, Franklin W.
+Terwilliger, Nora B.
+Udovic, Daniel
+Wessells, Norman K.
+Weston, James A.
+Wisner, Herbert P.
+chemistry/
+Berglund, Andy
+Boettcher, Shannon W.
+Cina, Jeffrey A.
+Rose, Victoria J. De
+Doxsee, Kenneth M.
+Engelking, Paul C.
+Exton, Deborah B.
+Guenza, Marina G.
+Haack, Julie A.
+Haley, Michael M.
+Hawley, Diane K.
+Johnson, Darren W.
+Johnson, David C.
+Kellman, Michael E.
+Koscho, Michael
+Marcus, Andrew H.
+Nazin, George V.
+Nolen, Brad J.
+Page, Catherine J.
+Pluth, Michael D.
+Prehoda, Kenneth E.
+Richmond, Geraldine L.
+Stevens, Tom H.
+Sullivan, David R. "Randy"
+Tyler, David R.
+Williams, Gregory M.
+Hardwick, John
+Barnhard, Ralph J.
+Branchaud, Bruce P.
+Dahlquist, Frederick W.
+Dyke, Thomas R.
+Griffith, O. Hayes
+Herrick, David R.
+Keana, John F. W.
+Long, James W.
+Mazo, Robert M.
+Schellman, John A.
+Hippel, Peter H. von
+Jr., Raymond G. Wolfe
+computerandinfoscience/
+Ariola, Zena M.
+Childs, Hank
+Dou, Dejing
+Faulk, Stuart
+Fickas, Stephen F.
+Hennessy, Kathleen Freeman
+Hennessy, Michael
+Hornof, Anthony J.
+Li, Jun
+Lowd, Daniel
+Malony, Allen D.
+Proskurowski, Andrzej
+Rejaie, Reza
+Wills, Eric D.
+Wilson, Christopher B.
+Young, Michal
+Douglas, Sarah A.
+Farley, Arthur M.
+Lo, Virginia M.
+Luks, Eugene M.
+Stevens, Kent A.
+Stolet, Jeffrey
+Thornton, Joseph W.
+Tucker, Don M.
+generalscience/
+geologicalsciences/
+Bindeman, Ilya N.
+Cashman, Katharine V.
+Dorsey, Rebecca J.
+Toomey, Emilie Hooft
+Humphreys, Eugene D.
+Jin, Qusheng
+Johnston, A. Dana
+Miller, Marli B.
+Reed, Mark H.
+Rempel, Alan W.
+Retallack, Gregory J.
+Roering, Joshua J.
+Sutherland, David A.
+Toomey, Douglas R.
+Wallace, Paul J.
+Watkins, James M.
+Weldon, Ray J.
+Krinsley, David
+Logan, John M.
+Donovan, John
+Fletcher, Dennis K.
+Palandri, James
+Boggs, Sam
+Kays, M. Allan
+McBirney, Alexander R.
+Orr, William N.
+Rice, Jack M.
+Savage, Norman M.
+Waff, Harve S.
+Weill, Daniel
+humanphysiology/
+Chou, Li-Shan
+Christie, Anita
+Dawson, Sierra
+Dreyer, Hans
+Gilbert, Jeffrey
+Golden, Grace
+Hahn, Michael
+Halliwill, John
+Karduna, Andrew
+Lovering, Andrew
+Minson, Christopher T.
+Runyeon, Jon
+Brandon, John
+Brown, Richard L.
+Chang, Chien-Chi
+Chesnutt, Mark S.
+Colasurdo, Michael
+Collis, Dennis
+Fish, Mathews
+Fitzpatrick, Daniel
+Gladstone, Igor
+Goodman, Randall
+Grall, Sarah
+Harding, Aaron
+Hawn, Jerold
+James, Stanley L.
+Jewett, Brian
+Jones, Donald C.
+Kaplan, Paul
+Katz, Vern
+Kosek, Peter
+Lantz, Brett (Brick)
+Lau, Samuel
+Lin, Victor
+Melton, John
+Nichols, Brian
+Padgett, Richard
+Robertson, Rick
+Shumway-Cook, Anne
+Singer, Kenneth M.
+Terrell, Kimberly
+Osternig, Louis R.
+Troxel, Richard K.
+Woollacott, Marjorie
+mathematics/
+Akhtari, Shabnam
+Berenstein, Arkadiy D.
+Botvinnik, Boris
+Bownik, Marcin
+Brundan, Jonathan
+Dugger, Daniel K.
+Gilkey, Peter B.
+Harker, Hayden
+He, Weiyong
+Hervert, Fred
+Isenberg, James A.
+Kleshchev, Alexander S.
+Levin, David A.
+Lin, Huaxin
+Lu, Peng
+Nganou, Jean B.
+Ostrik, Victor V.
+Phillips, N. Christopher
+Polishchuk, Alexander
+Price, Michael R.
+Proudfoot, Nicholas J.
+Sadofsky, Hal
+Shelton, Brad S.
+Sinclair, Christopher D.
+Sinha, Dev P.
+Siudeja, Bartlomiej A.
+Tingey, Craig
+Vaintrob, Arkady
+Wang, Hao
+Warren, Micah
+Xu, Yuan
+Young, Benjamin
+Yuzvinsky, Sergey
+Solovay, Robert M.
+Anderson, Frank W.
+Andrews, Fred C.
+Barnes, Bruce A.
+Barrar, Richard B.
+Beelman, Glenn T.
+Curtis, Charles W.
+Dyer, Micheal N.
+Freeman, Robert S.
+Kantor, William M.
+Koch, Richard M.
+Leahy, John V.
+Libeskind, Shlomo
+Palmer, Theodore W.
+Ross, Kenneth A.
+Seitz, Gary M.
+Sieradski, Allan J.
+Thomas, Stuart
+Truax, Donald R.
+Vitulli, Marie A.
+Walter, Marion I.
+Jr., Lewis E. Ward
+Wolfe, Jerry M.
+Wright, Charles R. B.
+neuroscience/
+Awh, Edward
+Dassonville, Paul
+Doe, Chris Q.
+Eisen, Judith S.
+Kentros, Clifford
+Kimmel, Charles B.
+Lockery, Shawn R.
+O’Day, Peter M.
+Neill, Cristopher
+Postlethwait, John H.
+Roberts, William
+Takahashi, Terry
+Vogel, Edward
+Weeks, Janis C.
+Wehr, Michael
+Westerfield, Monte
+Woollacott, Marjorie
+physics/
+Belitz, Dietrich
+Bothun, Gregory D.
+Brau, James E.
+Chang, Spencer
+Corwin, Eric
+Csonka, Paul L.
+Deshpande, Nilendra G.
+Deutsch, Miriam
+Donnelly, Russell J.
+Fisher, R. Scott
+Frey, Raymond E.
+Gregory, Stephen
+Haydock, Roger
+Hsu, Stephen D. H.
+Imamura, James N.
+Jenkins, Timothy
+Kevan, Stephen D.
+Kribs, Graham
+Livelybrooks, Dean W.
+Majewski, Stephanie
+Matthews, Brian W.
+McMorran, Benjamin
+Micklavzina, Stanley J.
+Nockel, Jens
+Parthasarathy, Raghuveer
+Raymer, Michael G.
+Remington, Stephen J.
+Schombert, James M.
+Soper, Davison E.
+Steck, Daniel
+Strom, David M.
+Taylor, Richard P.
+Toner, John J.
+Torrence, Eric
+Enk, Steven J. van
+Wang, Hailin
+Schofield, Robert
+Sinev, Nikolai
+Vignola, Frank
+Crasemann, Bernd
+Girardeau, Marvin D.
+Hwa, Rudolph C.
+Lefevre, Harlan
+Jr., Joel W. McClure
+McDaniels, David K.
+Moseley, John T.
+Overley, Jack C.
+Park, Kwangjai
+Rayfield, George W.
+Sokoloff, David R.
+Zimmerman, Robert L.
+psychology/
+Ablow, Jennifer
+Allen, Nicholas
+Arrow, Holly
+Awh, Edward
+Baldwin, Dare A.
+Berkman, Elliot
+Dassonville, Paul
+Espy, Kimberly Andrews
+Fisher, Philip A.
+Freyd, Jennifer J.
+Hall, Gordon C. Nagayama
+Hodges, Sara D.
+Kentros, Clifford
+Laurent, Heidemarie K.
+Mauro, Robert
+Mayr, Ulrich
+Measelle, Jeffrey
+Mehta, Pranjal
+Moses, Louis J.
+Neville, Helen
+Pfeifer, Jennifer
+Saucier, Gerard
+Sereno, Margaret E.
+Shariff, Azim
+Slovic, Paul
+Srivastava, Sanjay
+Taylor, Marjorie
+Tucker, Don M.
+Unsworth, Nash
+Vogel, Edward
+Wehr, Michael
+Goldberg, Lewis R.
+Gordon-Lickey, Barbara
+Gordon-Lickey, Marvin
+Hintzman, Douglas L.
+Hyman, Ray
+Keutzer, Carolin
+Kimble, Daniel P.
+Lewinsohn, Peter M.
+Lichtenstein, Edward
+Littman, Richard A.
+Marrocco, Richard
+Posner, Michael I.
+Rothbart, Mary K.
+Rothbart, Myron
+Sundberg, Norman D.
+Weiss, Robert L.
