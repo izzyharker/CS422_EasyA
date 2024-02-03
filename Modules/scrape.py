@@ -3,8 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
-
 def write_to_txt(faculty_names, file_name):
     with open(file_name, 'w', encoding='utf-8') as file:
         # write names to txt file, each name on a new line
