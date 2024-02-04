@@ -8,7 +8,7 @@ notes: still need to actually generate graphs as frames or images
 
 import tkinter as tk
 from tkinter import ttk
-from data import  aprec_yes, years, courses, class_levels, filters, class_data
+from data import  aprec_yes, courses, class_levels, filters
 from GenerateGraph import *
 from sys import platform as sys_pf
 
@@ -37,14 +37,16 @@ class App(tk.Tk):
         self.mainloop()
         
 
-class SideFrame(tk.Frame):
+class SideFrame(ttk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
-        ttk.Label(self, background = '#024959').pack(expand = True, fill = 'both')
+        tk.Frame(self, background='#024959').pack(expand = True, fill = 'both')
+
+
         self.place(x=0, y = 0, relwidth = 0.3, relheight = 1)
         self.menu = self
         self.buttonCtr = 0
-        self.height = 160
+        self.height = 165
         self.shift = 0
         self.filters = self.GenFilter(self.shift)
 
@@ -85,10 +87,13 @@ class SideFrame(tk.Frame):
 
        # Add Graph Button 
         self.button = tk.Button(self.menu, text="Add Graph", command=lambda: self.on_press_increment())
-        self.button.place(x = 25, y = 85 + shift, relwidth = 0.2, relheight = 0.05 )
-    
+        self.button.place(x = 25, y = 85 + shift, relwidth = 0.3, relheight = 0.03 )
+        self.button.config(bg = '#024959') 
+
         self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox))
-        self.submit_button.place(x = 25, y = 125 + shift, relwidth = 0.2, relheight = 0.05 )
+        self.submit_button.config(bg = '#024959') 
+
+        self.submit_button.place(x = 25, y = 115 + shift, relwidth = 0.3, relheight = 0.03 )
 
     def Label(self, parent, text, color, font, x, y):
         # Abstracted Tkinter Label
@@ -98,7 +103,8 @@ class SideFrame(tk.Frame):
         # Abstracted Tkinter Dropdown menu
         self.var = tk.StringVar(parent)
         self.var.set("")
-        self.dd = tk.OptionMenu(parent, self.var, *options) 
+        self.dd = tk.OptionMenu(parent, self.var, *options)
+        self.dd.config(bg = '#024959') 
         self.var.set(self.var.get() if self.var.get() else set)
         self.dd.place(x=x, y=y, relwidth = 0.3, relheight=0.05)
         return self.dd, self.var
@@ -107,6 +113,7 @@ class SideFrame(tk.Frame):
         # Tkinter Checkbox
         self.checked = tk.IntVar()
         self.CB = tk.Checkbutton(parent, variable = self.checked, onvalue = True, offvalue = False, height = 1, width = 2, highlightcolor = 'gray', background = '#024959') 
+        self.CB.config(bg = '#024959') 
         self.CB.place(x=x, y = y, relwidth = 0.1, relheight = 0.05)
         return self.CB, self.checked
     
