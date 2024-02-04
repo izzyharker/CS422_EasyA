@@ -22,6 +22,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+filters = {"Department", "Level", "Class"}
+class_levels = [100, 200, 300, 400, 500, 600]
+aprec_yes = {"Percent A's": True, "Percent D/F's": False}
+courses = ["BI", "CH", "CIS", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
+
 class App(tk.Tk):
     def __init__(self, title):
         super().__init__(title)
@@ -184,22 +189,22 @@ class GraphFrame(ttk.Frame):
         # 3 4
         g1 = tk.Frame(self, background='red')
         g1.place(x=0, y= 0, relheight=1, relwidth=1)
-        self.fig1 = self.gen_graph(class_data)
+        #self.fig1 = self.gen_graph(class_data)
         self.c1 = self.gen_canvas(g1, self.fig1[0],0,0)
 
         g2 = tk.Frame(self, background='green')
         g2.place(x=420, y= 0, relheight=1, relwidth=1)
-        self.fig2 = self.gen_graph(class_data)
+        #self.fig2 = self.gen_graph(class_data)
         self.c2 = self.gen_canvas(g2, self.fig2[0], 0,0)
 
         g3 = tk.Frame(self, background='yellow')
         g3.place(x=0, y= 350, relheight=1, relwidth=1)
-        self.fig3 = self.gen_graph(class_data)
+        #self.fig3 = self.gen_graph(class_data)
         self.c3 = self.gen_canvas(g3, self.fig3[0], 0,0)
 
         g4 = tk.Frame(self, background='purple')
         g4.place(x=420, y= 350, relheight=1, relwidth=1)
-        self.fig4 = self.gen_graph(class_data)
+        #self.fig4 = self.gen_graph(class_data)
         self.c4 = self.gen_canvas(g4, self.fig4[0], 0,0)
     
     def gen_canvas(self, parent, fig, x, y):
