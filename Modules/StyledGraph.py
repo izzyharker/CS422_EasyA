@@ -1,6 +1,6 @@
 """
 Author: Izzy Harker
-Date: 1/14/24
+Date Updated: 2/3/24
 Description: Contains class definition and methods for generating a stylized graph displaying grade data.
 """
 import matplotlib.pyplot as plt

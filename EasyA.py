@@ -3,16 +3,38 @@ from Modules.UI_loop import UI
 from Modules.StyledGraph import GenerateGraph
 
 def main():
-    # load data
-    averages = loadData("Data/gradedata.js")
+    start_mode = input("Start program? (type 'y' to start, 'u' to update data, 'n' to exit): ")
 
-    # start UI loop
-    # UI(averages)
-    filt = {"TYPE": "level", "DEPT": "MATH", "COURSE": "400", "REG_INSTR": 0, "APREC_YES": True, "SHOW_INSTR": True, "SHOW_INSTR_CLASSES_TAUGHT": False}
+    if start_mode == 'y':
+        # load data
+        file_path_to_data = open("Data/PathToDataFile", "r")
+        path_to_data = file_path_to_data.readline()
+        file_path_to_data.close()
 
-    fig = GenerateGraph(averages, filt)
+        try: 
+            averages = loadData(path_to_data)
+        except FileNotFoundError:
+            # if file not found, default is gradedata.js
+            return
 
-    fig.savefig(fname="test.png", dpi=300, format="png")
+        # start UI loop
+        # UI(averages)
+        filt = {"TYPE": "level", "DEPT": "MATH", "COURSE": "400", "REG_INSTR": 0, "APREC_YES": True, "SHOW_INSTR": True, "SHOW_INSTR_CLASSES_TAUGHT": False}
+
+        fig = GenerateGraph(averages, filt)
+
+        fig.savefig(fname="test.png", dpi=300, format="png")
+
+    elif start_mode == 'u':
+        new_path = input("Please enter the filepath to the new data: ")
+
+        file_path_to_data = open("Data/PathToDataFile", "w")
+
+        if new_path == "reset":
+            file_path_to_data.write("Data/gradedata.js")
+        else:
+            file_path_to_data.write(new_path)
+        file_path_to_data.close()
 
     return 0
 

@@ -1,7 +1,33 @@
-# CS422_EasyA
-First group project for CS 422 (EasyA).
-Test
-test2
+# EasyA
+CS 422, Winter 2024, Group Project 1. Written by Izzy Harker, Carter Young, Jose Renteria, and Sequoia Anichini.
+
+## Installation
+### Requirements
+This program runs on Python 3.9>=. If you do not have python installed on your machine, please do that first.
+
+### Dependencies
+Required libraries can all be installed using `pip`. The required libraries are: `matplotlib, requests, tkinter, requests, bs4 (BeautifulSoup)`. 
+
+### Usage
+To run this program, either download the files or `git clone` the repository. Once you `cd` into the main directory, run the program on the command line by running 
+```
+python EasyA.py
+```
+
+You will be prompted to enter 'y', 'u', or 'n'. Entering 'y' will start the program. 
+
+## Admin
+This program also contains functionality for the admin to "upload" new data. To use this function, run 
+```
+python EasyA.py
+```
+
+Enter 'u' when prompted the first time. You will then be prompted to enter the path to the new data file. This will replace the old data and the new data will be used the next time the program is started.
+
+## Notes
+If new data is entered and the filepath is invalid, or the file is not found, then the program will abort. 
+
+If you would like to reset the program to use the old data file, run the program to update data (see "System Admin") and when prompted to enter a path to the data file, enter `reset` instead.
 
 # Frontend information for Jose
 ## Filtering dictionary structure

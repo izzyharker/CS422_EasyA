@@ -1,6 +1,6 @@
 """
 Author: Izzy Harker, Carter Young
-Date: 1/21/24
+Date Updated: 2/3/24
 Description: Contains a class which reads data from the gradedata.txt file into a dictionary
 
 Notes: 

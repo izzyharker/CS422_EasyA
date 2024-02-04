@@ -51,3 +51,6 @@ def UI(averages):
     submit_button = gen_button(side_frame, "Submit", lambda: GenerateGraph(averages, send_obj(year_menu, class_menu, user_input, check_instructors)))
 
     root.mainloop()
+
+if __name__ == "__main__":
+    UI()

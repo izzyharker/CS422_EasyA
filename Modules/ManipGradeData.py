@@ -1,6 +1,6 @@
 """
-Author: Carter Young
-Date: 1/30/24
+Author: Carter Young, Izzy Harker
+Date Updated: 2/3/24
 Description: Reads in average_grades.txt and filters them according to the project description:
 1. Department level:
     Function: User specifies a natural science department, and the average_grades.txt is filtered to show %As,
