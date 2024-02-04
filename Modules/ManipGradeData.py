@@ -220,22 +220,28 @@ def applyFilter(average_grades, filter_options: dict):
     # if course code is single-digit, then filter by level
     department = filter_options["DEPT"].upper()
 
+    # set faculty_only True or False
     if filter_options["REG_INSTR"] == 0:
         faculty_only = False
     else:
         faculty_only = True
 
-    instr_on_x_axis = True
-
+    # iterate through sort types
+    # filter by department
     if filter_type == "department":
         filter_data = filter_by_department(average_grades, department)
-        # do something with this
+
+    # filter by class
+    # if COURSE field is empty for some reason, this filters by department instead
     elif filter_type == "class":
         try:
             course = filter_options["COURSE"]
         except KeyError:
+            print("ERROR: Course data not found. Filtering by department...")
             filter_data = filter_by_department(average_grades, department)
         filter_data = filter_by_course(average_grades, course)
+
+    # filter by level
     elif filter_type == "level":
         try:
             course = filter_options["COURSE"]
@@ -244,24 +250,27 @@ def applyFilter(average_grades, filter_options: dict):
                 filter_data = filter_by_department(average_grades, department, course[0])
             else:
                 # else filter by class options
-                # this is a new function
                 filter_data = filter_by_department_classes(average_grades, department, course[0])
         except KeyError:
             # if unspecified, default behavior is to show instructor names
             filter_data = filter_by_department(average_grades, department, course[0])
 
     # if filtering by faculty only, delete non-faculty instructors
-    if faculty_only and instr_on_x_axis:
+    if faculty_only:
         for instr, info in filter_data.items():
             if info["Faculty Status"] == 0:
                 filter_data.pop(instr)
             else:
                 filter_data[instr].pop("Faculty Status")
 
+    # returns the filtered data, possible cut down to faculty only.
     return filter_data
     
 
 def main():
+    """
+    main function for testing the filter functions and levels. [deprecated]
+    """
     filename = "average_grades.txt"
     with open(filename, 'r') as file:
         average_grades = file.readlines()
@@ -298,16 +307,6 @@ def main():
     else:
         print("Invalid.")
 
-    """
-    Add functionality to search for existing files and not duplicate those which have already been created
-    """
-
 
 # if __name__ == "__main__":
-#     average_grades = loadData("media/gradedata.js")
-#     filter_options = {"TYPE": "department", "DEPT": "MATH", "REG_INSTR": 0}
-
-#     filter_data = applyFilter(average_grades, filter_options)
-#     print(filter_data)
-
-#     # main()
+#     main()

@@ -1,14 +1,15 @@
 """
 Author: Izzy Harker, Carter Young
 Date Updated: 2/3/24
-Description: Contains a class which reads data from the gradedata.txt file into a dictionary
+Description: Contains a class which loads data from the gradedata.txt file into a dictionary and processes it for filtering.
 
 Notes: 
-- now works with original gradedata.js file
-- breaks on keyword "function" keyword to indicate end of data (or EOF)
+- breaks on keyword "function" keyword in addition to EOF to indicate end of data
+- works with the original gradedata.js file or any similarly formatted json-esque file.
 """
 
 class readGradeData():
+    # static class elements
     # Define elements to remove
     elements_to_remove = ["crn", "bprec", "cprec", "dprec", "fprec"]
 
@@ -16,13 +17,13 @@ class readGradeData():
     majors_to_keep = ["BI", "CH", "CIS", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
 
     def __init__(self, filepath):
+        """
+        Defines filepath and initializes data. Calls read_data
+        """
         self.filepath = filepath
         self.data = {}
 
         self.read_data()
-
-    def get_data(self):
-        return self.data
 
     def read_data(self):
         # open file and read lines
@@ -49,7 +50,7 @@ class readGradeData():
             for token in current_line.split(":"):
                 current_line_data.append(token.replace("'", "").strip())
 
-            # if no : found and we are between class codes
+            # if no : found and we are between class codes, setup the new class in the dict
             if len(current_line_data) == 1:
                 if current_key != "":
                     for char in current_line_data[0]:
@@ -60,9 +61,9 @@ class readGradeData():
                             crn_index += 1
                         elif char == "]":
                             current_key = ""
-            # otherwise, we have a data entry!
+            # otherwise, we have a data entry for the current class
             elif len(current_line_data) == 2:
-                # if we find a new class code, process it
+                # if we find a new class code and don't currently have a class code, setup the new class
                 if current_key == "":
                     current_key = current_line_data[0]
                     crn_index = 0
@@ -78,25 +79,6 @@ class readGradeData():
                 else:
                     self.data[current_key][crn_index - 1][current_line_data[0]] = current_line_data[1]
 
-    def reformatForTermPrio(self):
-        """
-        Reformats data dictionary to have term as the top level
-        
-        Returns:
-            Reformatted dictionary
-        """
-        reformatted_data = {}
-        for classid, sections in self.data.items():
-            for section in sections:
-                term = section["TERM_DESC"]
-                section.pop("TERM_DESC")
-                if term not in reformatted_data.keys():
-                    reformatted_data[term] = {}
-                
-                reformatted_data[term][classid] = section
-        
-        return reformatted_data
-
     def filter_by_majors(self, majors_to_keep):
         """Filters data to include only specified majors
 
@@ -106,20 +88,24 @@ class readGradeData():
             Returns:
             Filtered class data
         """
+        # initialize empty dict
         filtered_data = {}
+        
+        # iterate over the complete data set
         for key in self.data:
+            # if the key is contained in the list of majors, added it to the filtered_data 
             if any(key.startswith(major) for major in majors_to_keep):
                 filtered_data[key] = self.data[key]
+        # set self.data to be equal to filtered_data
         self.data = filtered_data
 
     def save_data_to_file(self, data, filename):
         """
-        Saves data to a file
+        Saves data to a file. [deprecated]
 
         Args:
             data (dict): data to be saved
             filename(str): where we are saving
-
         """
         with open(filename, 'w') as file:
             for key, value in data.items():
@@ -144,16 +130,20 @@ class readGradeData():
 
     def store_aprec_as_percent(self):
         """ Converts 'aprec' values from numeric strings to percentage strings for graphing ease. """
+        # iterate over the keys 
         for key in self.data:
             for section in self.data[key]:
+                # convert the values to % form
                 if 'aprec' in section:
                     # Just add %
                     section['aprec'] = f"{section['aprec']}%"
 
     def calculate_failprec(self):
         """ Calculates 'failprec' as sum of 'dprec' and 'fprec' for each section. """
+        # iterate over the keys
         for key in self.data:
             for section in self.data[key]:
+                # combine and convert the fail percentage (D/F) to %
                 dprec = float(section.get('dprec', '0'))  # Convert to float, default to 0 if not there
                 fprec = float(section.get('fprec', '0'))  # Convert to float, default to 0 if not present
                 section['failprec'] = f"{dprec + fprec:.2f}%"
@@ -163,6 +153,7 @@ class readGradeData():
         for key in self.data:
             for section in self.data[key]:
                 if 'instructor' in section:
+                    # reformat the instructor name to match the web scrape
                     name_parts = section['instructor'].split(', ')
                     if len(name_parts) == 2:
                         last_name, first_middle_name = name_parts
@@ -170,7 +161,15 @@ class readGradeData():
 
 
     def include_faculty_status(self, faculty_names):
-        """ This function integrates faculty identification into the work flow by comparing loaded data to scrape. """
+        """ This function integrates faculty identification into the work flow by comparing loaded data to scrape. Directly edits the self.data object
+        
+        Args:
+            faculty_names (list[tuple]): contains (first name, last name) of the faculty, taken from the web scrape
+
+        Returns:
+            None
+        """
+        # iterate over the keys
         for key in self.data:
             for section in self.data[key]:
                 # Our key is instructor name
@@ -187,14 +186,25 @@ class readGradeData():
 
                     first_name = first_middle_name.split() if ',' in section['instructor'] else first_name
                     # Check against faculty status and assign
-                    # 1 for regular faculty, 0 otw
+                    # 1 for regular faculty, 0 otherwise
                     section['faculty_status'] = 1 if (first_name, last_name) in faculty_names else 0
 
     def attach_faculty_status(self, averages):
-        """ Attaches faculty status to each instructor's averages. """
+        """ Attaches faculty status to each instructor's averages. 
+        
+        Args:
+            averages (dict): dict containing the averaged data values per course and instructor    
+
+        Returns: 
+            None
+        """
+        # iterate over the courses/sections in self.data
         for course, sections in self.data.items():
             for section in sections:
+                # check if the instructor exists
                 instructor = section.get('instructor', 'Unknown Instructor')
+
+                # default faculty status to 0 if it doesn't already exist
                 faculty_status = section.get('faculty_status', 0)  # Def to 0
                 # Update matching record in averages with faculty status
                 if (course, instructor) in averages:
@@ -235,12 +245,27 @@ class readGradeData():
 
         return averages
     
-def convert_data_to_common_format(averages):
-    """Converts data to format used by filtering methods"""
+def convert_data_to_common_format(averages: dict):
+    """Converts data to format used by filtering methods. This is the same as the format output to the average_grades.txt file
+    
+    Args:
+        averages (dict): contains the average grade data.
+
+    Returns:
+        data (list): Reformatted version of averages
+    """
+    
+    # initialize to empty list
     data = []
+
+    # iterate over the information in averages and save each as a line
     for (course, instructor), scores in averages.items():
         line = f"Course: {course}, Instructor: {instructor}, Taught Count: {scores['teaching_count']}, Aprec Avg: {scores['aprec_avg']:.2f}%, Failprec Avg: {scores['failprec_avg']:.2f}%, Faculty Status: {scores['faculty_status']}"
+        
+        # append each line to the data
         data.append(line)
+
+    # return the reformatted data object
     return data
 
 def save_averages_to_file(averages, filename):
@@ -267,6 +292,12 @@ def read_and_normalize_faculty_names(filename):
         return faculty_names
 
 def loadData(filename: str):
+    """
+    Given a filename, loads the data from the filename into a dictionary. Performs preliminary processing to average the grades, remove unnecessary elements, and cross-check instructor data. Writes the final data to a Data/average_grades.txt for later use.
+
+    Args: 
+        filename (str): the name of the data file. If the file cannot be found in a relative repository, this should be the absolute local path to the data file.
+    """
     # load data
     try:
         grade_data_container = readGradeData(filename)
@@ -287,16 +318,14 @@ def loadData(filename: str):
     # filter non-natural science majors
     grade_data_container.filter_by_majors(readGradeData.majors_to_keep)
 
+    # cross-examine faculty names with the scrape results
     faculty_names = read_and_normalize_faculty_names("Data/faculty_names.csv")
 
+    # add faculty status to each instructor
     grade_data_container.include_faculty_status(faculty_names)
 
     # calculate average scores
     average_scores = grade_data_container.calculate_avg()
-    averages = convert_data_to_common_format(average_scores)
-    save_averages_to_file(average_scores, "average_grades.txt")
-    return averages
 
-# avg = loadData("media/gradedata.js")
-
-# print(avg)
+    # save average grades to a file for later filtering
+    save_averages_to_file(average_scores, "Data/average_grades.txt")

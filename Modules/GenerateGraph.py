@@ -9,14 +9,16 @@ def GenerateGraph(filter):
         'regular_instructors': checkbox[1].get()
     }
     """
-    # apply filter to data
+    # read data from file
     averages = read_average_grades("Data/average_grades.txt")
 
+    # apply filter to data
     filtered_data = applyFilter(averages, filter)
 
     # print(filtered_data)
 
     # manipulate labels, if applicable
+    # if the keys used below aren't included in a specific filter, they default to True, False respectively
     try:
         if filter["SHOW_INSTR"]:
             try:
@@ -37,7 +39,8 @@ def GenerateGraph(filter):
     else:
         title = ""
 
-    # isolate the parts of data that we want
+    # isolate the %A, %D/F depending on the filter status, and reorganize the data for graphing
+    # this also sorts the data in descending order
     if filter["APREC_YES"]:
         # if true, graph aprec
         data = sorted([(info["Aprec Avg"], label) for label, info in filtered_data.items()], reverse=True)
@@ -45,11 +48,15 @@ def GenerateGraph(filter):
         # graph failprec
         data = sorted([(info["Failprec Avg"], label) for label, info in filtered_data.items()], reverse=True)
 
-    # if there are too many data entries, including all of them will be too much for the graph, so only show top 10
+    # if there are too many data entries, including all of them will make them appear too small, so only show top 12
     if len(data) > 12:
         data = data[:12]
 
+    # create a graph object with the appropriate title
     graph = StyledGraph(title = title)
 
+    # generate the graph
     fig = graph.graph(data, filter["APREC_YES"])
+
+    # return the fig
     return fig

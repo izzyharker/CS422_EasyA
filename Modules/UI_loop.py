@@ -6,10 +6,9 @@ README: Main container for all UI components that get generated. Components are 
 notes: If you want to see the functions, see ui.py
 """
 
-from data import class_data, years, courses
-from ui import *
-from StyledGraph import GenerateGraph
-
+from Modules.data import class_data, years, courses
+from Modules.ui import *
+from Modules.GenerateGraph import GenerateGraph
 
 def UI(*averages):
 
