@@ -8,7 +8,6 @@ notes: still need to actually generate graphs as frames or images
 
 import tkinter as tk
 from tkinter import ttk
-from data import  aprec_yes, courses, class_levels, filters
 from GenerateGraph import *
 from sys import platform as sys_pf
 
