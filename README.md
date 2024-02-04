@@ -59,64 +59,23 @@ The modules are all contained in the `Modules/` directory.
 
 `ui.py` is the module for rendering all functional components of the user interface. It contains three classes, `App`, `SideFrame`, and `GraphFrame`. App is where all of the components are called and placed according to how they will show up on the interface. The main application is split into two frames, one for the menu options and one for the actual graphing display grid. This is why it is split up into `SideFrame`, and `GraphFrame`. These frames are utilized to act as 'parents' or root components of the subcomponents housed within them, in order to more efficiently utilize relative positioning as well as an overall consistent layout.
 
-
 `UI_loop.py` is the main container for all UI components rendered from the `ui.py` module. It simply runs the main loop by calling a function that invokes the application by calling `App()` and returning it. Think of this is the controller for the components that show up.
 
 ### Data/
 The `Data/` directory should contain three files on start. These are `gradedata.js`, `PathToGradeData`, and `faculty_names.txt`. These are all used by the `loadData` function in order to locate, read, and process the raw data. 
 
-# Frontend information for Jose
-## Filtering dictionary structure
-Filtering takes a dictionary with the following key/value pairs.
-required:
-
-TYPE: department, level, course
-
-DEPT: valid department code
-
-REG_INSTR: 0 if False, 1 if True
-
-APREC_YES: True/False
-
-optional/situational
-
-COURSE: 3-digit course code
-
-SHOW_INSTR_CLASSES_TAUGHT: True/False
-
-SHOW_INSTR: True/False
-
-### Additional information
-TYPE, DEPT, REG_INSTR, APREC_YES are always used in the filtering and correspond to buttons
-
-COURSE is used with filtering by class and by level, but not by overall department
-
-SHOW_INSTR_CLASSES_TAUGHT adds the number of classes an instructor teaches to the x-axis label of the graph
-
-SHOW_INSTR is only used with filtering by level, if true then the graph sorts by instructor, otherwise the program filters by specific class.
-
-If necessary you can modify these, but this minimal necessary information as far as I can tell in terms of what is needed by the filter to produce all the graphs that we need to produce. I'm happy to explain more if you need.
-
-## Frontend connections
-Right now, I have the graphing function return the fig - if it's easier to have it write to an image file let me know and I can change it. I'll leave the rest of the frontend up to you, I changed your main.py file -> UI_loop.py and put it in Modules/. 
-
-Let me know if any of that is confusing or if you want me to change anything.
-
--Izzy
-
-
-## Overview of the scrape.py Module
+# Overview of the scrape.py Module
 Our web scraper is scrape.py by Sequoia A. It automatically extracts faculty names from the UO course catalog page.
 It leverages the requests library to fetch webpages and BeautifulSoup from bs4 for parsing HTML content.
 
-### Key Features
+## Key Features
 Scraping Faculty Names: It fetches webpages from the Wayback -> UO course catalog URL, appended with department paths, to make the list of faculty names.
 
 Formatting Names: Names are formatted in a "lastname, firstname" convention, which is best suited for data resolution needs.
 
 File Output: Formatted names are written into faculty_names.txt, replacing the previous file, with each execution.
 
-### Usage
+## Usage
 Initial Setup: Requires installation of Python3, requests and bs4 python libraries.
 
 Execution: Users can specify the base URL of the faculty directory and a list of departmental paths to scrape faculty names.
