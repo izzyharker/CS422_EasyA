@@ -254,6 +254,8 @@ def applyFilter(average_grades, filter_options: dict):
         except KeyError:
             # if unspecified, default behavior is to show instructor names
             filter_data = filter_by_department(average_grades, department, course[0])
+    else:
+        filter_data = {}
 
     # if filtering by faculty only, delete non-faculty instructors
     if faculty_only:

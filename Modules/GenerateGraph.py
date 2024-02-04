@@ -17,12 +17,12 @@ def GenerateGraph(filter):
 
     average_grades_file.close()
 
-    print(averages)
+    # print(averages)
 
     # apply filter to data
     filtered_data = applyFilter(averages, filter)
 
-    print(filtered_data)
+    # print(filtered_data)
 
     # manipulate labels, if applicable
     # if the keys used below aren't included in a specific filter, they default to True, False respectively
