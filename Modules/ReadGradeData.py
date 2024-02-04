@@ -294,6 +294,7 @@ def loadData(filename: str):
     # calculate average scores
     average_scores = grade_data_container.calculate_avg()
     averages = convert_data_to_common_format(average_scores)
+    save_averages_to_file(average_scores, "average_grades.txt")
     return averages
 
 # avg = loadData("media/gradedata.js")

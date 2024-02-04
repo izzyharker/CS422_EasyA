@@ -1,6 +1,6 @@
 from Modules.ReadGradeData import loadData
 from Modules.UI_loop import UI
-from Modules.StyledGraph import GenerateGraph
+from Modules.GenerateGraph import GenerateGraph
 
 def main():
     start_mode = input("Start program? (type 'y' to start, 'u' to update data, 'n' to exit): ")
@@ -12,16 +12,16 @@ def main():
         file_path_to_data.close()
 
         try: 
-            averages = loadData(path_to_data)
+            loadData(path_to_data)
         except FileNotFoundError:
-            # if file not found, default is gradedata.js
+            # if file not found, exit
             return
 
         # start UI loop
         # UI(averages)
         filt = {"TYPE": "level", "DEPT": "MATH", "COURSE": "400", "REG_INSTR": 0, "APREC_YES": True, "SHOW_INSTR": True, "SHOW_INSTR_CLASSES_TAUGHT": False}
 
-        fig = GenerateGraph(averages, filt)
+        fig = GenerateGraph(filt)
 
         fig.savefig(fname="test.png", dpi=300, format="png")
 

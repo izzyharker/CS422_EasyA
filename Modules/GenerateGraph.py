@@ -1,7 +1,7 @@
-from Modules.ManipGradeData import applyFilter
+from Modules.ManipGradeData import applyFilter, read_average_grades
 from Modules.StyledGraph import StyledGraph
 
-def GenerateGraph(averages, filter):
+def GenerateGraph(filter):
     """
     filter in this format (TERM_DESC is optional): {
         'TERM_DESC': year[1].get(),
@@ -10,6 +10,8 @@ def GenerateGraph(averages, filter):
     }
     """
     # apply filter to data
+    averages = read_average_grades("Data/average_grades.txt")
+
     filtered_data = applyFilter(averages, filter)
 
     # print(filtered_data)
