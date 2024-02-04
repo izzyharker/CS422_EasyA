@@ -57,9 +57,10 @@ The modules are all contained in the `Modules/` directory.
 
 `StyledGraph.py` contains the graphing class `StyledGraph` for producing formatted bar charts, as well as the top-level graphing function `GenerateGraph`. This function is called from the frontent and takes average_grades alongside a filter, calling the filtering module to get filtered data and using the filtered data to graph using a `StyledGraph` object. The `Matplotlib.pyplot.fig` produced by the `StyledGraph.graph` function is returned to the frontend so that it can be drawn on screen. 
 
-`ui.py`... (TODO)
+`ui.py` is the module for rendering all functional components of the user interface. It contains three classes, `App`, `SideFrame`, and `GraphFrame`. App is where all of the components are called and placed according to how they will show up on the interface. The main application is split into two frames, one for the menu options and one for the actual graphing display grid. This is why it is split up into `SideFrame`, and `GraphFrame`. These frames are utilized to act as 'parents' or root components of the subcomponents housed within them, in order to more efficiently utilize relative positioning as well as an overall consistent layout.
 
-`UI_loop.py`... (TODO)
+
+`UI_loop.py` is the main container for all UI components rendered from the `ui.py` module. It simply runs the main loop by calling a function that invokes the application by calling `App()` and returning it. Think of this is the controller for the components that show up.
 
 ### Data/
 The `Data/` directory should contain three files on start. These are `gradedata.js`, `PathToGradeData`, and `faculty_names.txt`. These are all used by the `loadData` function in order to locate, read, and process the raw data. 
