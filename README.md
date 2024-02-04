@@ -41,3 +41,23 @@ Right now, I have the graphing function return the fig - if it's easier to have 
 Let me know if any of that is confusing or if you want me to change anything.
 
 -Izzy
+
+
+## Overview of the scrape.py Module
+Our web scraper is scrape.py by Sequoia A. It automatically extracts faculty names from the UO course catalog page.
+It leverages the requests library to fetch webpages and BeautifulSoup from bs4 for parsing HTML content.
+
+### Key Features
+Scraping Faculty Names: It fetches webpages from the Wayback -> UO course catalog URL, appended with department paths, to make the list of faculty names.
+
+Formatting Names: Names are formatted in a "lastname, firstname" convention, which is best suited for data resolution needs.
+
+File Output: Formatted names are written into faculty_names.txt, replacing the previous file, with each execution.
+
+### Usage
+Initial Setup: Requires installation of Python3, requests and bs4 python libraries.
+
+Execution: Users can specify the base URL of the faculty directory and a list of departmental paths to scrape faculty names.
+To run, execute in an IDE that's compatible with Python, or type 'python scrape.py' in a terminal
+
+Output: The script outputs a text file named faculty_names.txt, containing the formatted names of faculty members, organized by department.
