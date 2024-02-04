@@ -21,6 +21,7 @@ class readGradeData():
         Defines filepath and initializes data. Calls read_data
         """
         self.filepath = filepath
+
         self.data = {}
 
         self.read_data()
@@ -270,9 +271,9 @@ def convert_data_to_common_format(averages: dict):
 
 def save_averages_to_file(averages, filename):
     """ Save averages to text file """
-    with open(filename, 'w') as file:
+    with open(filename, 'w+') as file:
         for (course, instructor), scores in averages.items():
-            line = f"Course: {course}, Instructor: {instructor}, Taught Count: {scores['teaching_count']}, Aprec Avg: {scores['aprec_avg']:.2f}%, Failprec Avg: {scores['failprec_avg']:.2f}%, Faculty Status: {scores['faculty_status']}"
+            line = f"Course: {course}, Instructor: {instructor}, Taught Count: {scores['teaching_count']}, Aprec Avg: {scores['aprec_avg']:.2f}%, Failprec Avg: {scores['failprec_avg']:.2f}%, Faculty Status: {scores['faculty_status']}\n"
             file.write(line)
 
 def read_and_normalize_faculty_names(filename):
@@ -319,7 +320,7 @@ def loadData(filename: str):
     grade_data_container.filter_by_majors(readGradeData.majors_to_keep)
 
     # cross-examine faculty names with the scrape results
-    faculty_names = read_and_normalize_faculty_names("Data/faculty_names.csv")
+    faculty_names = read_and_normalize_faculty_names("Data/faculty_names.txt")
 
     # add faculty status to each instructor
     grade_data_container.include_faculty_status(faculty_names)

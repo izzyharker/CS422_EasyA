@@ -3,19 +3,26 @@ from Modules.StyledGraph import StyledGraph
 
 def GenerateGraph(filter):
     """
-    filter in this format (TERM_DESC is optional): {
-        'TERM_DESC': year[1].get(),
-        'COURSE_CODE': f'{course[1].get()}{txt[1].get()}',
-        'regular_instructors': checkbox[1].get()
-    }
+    Accepts a filter and produces a graph.
+
+    Args: 
+        filter (dict): Contains the filter parameters
+
+    Returns:
+        fig (matplotlib.pyplot.fig): Graph
     """
     # read data from file
-    averages = read_average_grades("Data/average_grades.txt")
+    average_grades_file = open("Data/average_grades.txt")
+    averages = average_grades_file.readlines()
+
+    average_grades_file.close()
+
+    print(averages)
 
     # apply filter to data
     filtered_data = applyFilter(averages, filter)
 
-    # print(filtered_data)
+    print(filtered_data)
 
     # manipulate labels, if applicable
     # if the keys used below aren't included in a specific filter, they default to True, False respectively

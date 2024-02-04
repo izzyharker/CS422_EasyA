@@ -9,12 +9,16 @@ def main():
         # load data
         file_path_to_data = open("Data/PathToDataFile", "r")
         path_to_data = file_path_to_data.readline()
+        path_to_data.strip()
         file_path_to_data.close()
+
+        print(path_to_data)
 
         try: 
             loadData(path_to_data)
         except FileNotFoundError:
             # if file not found, exit
+            print("ERROR: Data file not found")
             return
 
         # start UI loop
