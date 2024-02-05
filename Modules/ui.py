@@ -49,20 +49,35 @@ class SideFrame(ttk.Frame):
 
         self.place(x=0, y = 0, relwidth = 0.3, relheight = 1)
         self.menu = self
-        self.buttonCtr = 0
-        self.height = 165
+        self.buttonCtr = 1
+        self.height = 182
         self.shift = 0
-        self.filters = self.GenFilter(self.shift)
+        self.filters = self.GenFilter(self.shift, self.buttonCtr)
 
 
     def on_press_increment(self):
         self.buttonCtr += 1
         if(self.buttonCtr <= 4):
             self.shift += (self.height)
-        print(self.buttonCtr, self.shift)
-        return self.GenFilter(self.shift)
+            print(self.buttonCtr, self.shift)
+            return self.GenFilter(self.shift, self.buttonCtr)
 
-    def GenFilter(self, shift):
+
+        elif(self.buttonCtr >= 4):
+            self.buttonCtr = 4
+            print(self.buttonCtr, self.shift)
+
+            return None
+        
+    
+    def on_press_decrement(self, index):
+        index = self.buttonCtr
+        if(self.buttonCtr >= 1):
+            self.buttonCtr -= 1
+        print(self.buttonCtr)
+        return self.buttonCtr
+
+    def GenFilter(self, shift, i):
         # Department DropDown Menu
         # self.dept_label = self.menu.Label(self.menu, "Select Dept", "White", 25, 25 , 0 + shift)
         self.dept_dd = self.menu.DropDown(self.menu, "Select Dept", courses, 25, 45 + shift)
@@ -75,8 +90,8 @@ class SideFrame(ttk.Frame):
         #self.select_dd = self.menu.DropDown(self.menu, "Select Level", class_levels, 25, 80 + shift)
         # self.select_dd[0].config(state='disabled')
         # Input box for classes
-        self.entry_label = self.menu.Label(self.menu, "Enter Class Code:", "White", 150, 150, 35 + shift)
-        self.class_entry = self.menu.EntryBox(self, self.menu, 290, 42 + shift)
+        self.entry_label = self.menu.Label(self.menu, "Enter Class Code:", "White", 150, 150, 40 + shift)
+        self.class_entry = self.menu.EntryBox(self, self.menu, 290, 47 + shift)
         self.class_entry[0].config(state='disabled')
         # Easy A vs Just Pass
         self.avpass_dd = self.menu.DropDown(self.menu, "Percent A's",aprec_yes, 180, 10 + shift)
@@ -92,12 +107,12 @@ class SideFrame(ttk.Frame):
        # Add Graph Button 
         self.button = tk.Button(self.menu, text="Add Graph", command=lambda: self.on_press_increment())
         self.button.place(x = 25, y = 85 + shift, relwidth = 0.3, relheight = 0.03 )
-        self.button.config(bg = '#024959') 
 
         self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox))
-        self.submit_button.config(bg = '#024959') 
 
-        self.submit_button.place(x = 25, y = 115 + shift, relwidth = 0.3, relheight = 0.03 )
+        self.submit_button.place(x = 25, y = 115 + shift, relwidth = 0.3, relheight = 0.03, )
+        tk.Label(self, background='#001a30').place(x=0, y=155 + shift, relwidth = 1, relheight = 0.001)
+
 
     def Label(self, parent, text, color, font, x, y):
         # Abstracted Tkinter Label
@@ -108,9 +123,10 @@ class SideFrame(ttk.Frame):
         self.var = tk.StringVar(parent)
         self.var.set("")
         self.dd = tk.OptionMenu(parent, self.var, *options)
-        self.dd.config(bg = '#024959') 
         self.var.set(self.var.get() if self.var.get() else set)
         self.dd.place(x=x, y=y, relwidth = 0.3, relheight=0.05)
+
+
         return self.dd, self.var
 
     def CheckBox(self, parent, x, y):
@@ -189,22 +205,22 @@ class GraphFrame(ttk.Frame):
         g1 = tk.Frame(self, background='red')
         g1.place(x=0, y= 0, relheight=1, relwidth=1)
         #self.fig1 = self.gen_graph(class_data)
-        self.c1 = self.gen_canvas(g1, self.fig1[0],0,0)
+        #self.c1 = self.gen_canvas(g1, self.fig1[0],0,0)
 
         g2 = tk.Frame(self, background='green')
         g2.place(x=420, y= 0, relheight=1, relwidth=1)
         #self.fig2 = self.gen_graph(class_data)
-        self.c2 = self.gen_canvas(g2, self.fig2[0], 0,0)
+        #self.c2 = self.gen_canvas(g2, self.fig2[0], 0,0)
 
         g3 = tk.Frame(self, background='yellow')
         g3.place(x=0, y= 350, relheight=1, relwidth=1)
         #self.fig3 = self.gen_graph(class_data)
-        self.c3 = self.gen_canvas(g3, self.fig3[0], 0,0)
+        #self.c3 = self.gen_canvas(g3, self.fig3[0], 0,0)
 
         g4 = tk.Frame(self, background='purple')
         g4.place(x=420, y= 350, relheight=1, relwidth=1)
         #self.fig4 = self.gen_graph(class_data)
-        self.c4 = self.gen_canvas(g4, self.fig4[0], 0,0)
+        #self.c4 = self.gen_canvas(g4, self.fig4[0], 0,0)
     
     def gen_canvas(self, parent, fig, x, y):
         # Generates a canvas to house the graph
