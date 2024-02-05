@@ -11,9 +11,11 @@ def GenerateGraph(filter):
     Returns:
         fig (matplotlib.pyplot.fig): Graph
     """
-    # read data from file
+    # normalize filter type to lowercase
     filter["TYPE"] = filter["TYPE"].lower()
-    print(filter)
+    # print(filter)
+
+    # read data from file
     average_grades_file = open("Data/average_grades.txt")
     averages = average_grades_file.readlines()
 
