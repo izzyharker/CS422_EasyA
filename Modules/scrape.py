@@ -43,16 +43,16 @@ def format_names(elements):
             # this is based on 'name, role' format of 2014-2015 catalog
             full_name = element.get_text().split(',')[0].strip()
             # split the name into a list, separated by whitespace
-            name_parts = full_name.split()
+            #name_parts = full_name.split()
             # check if the name consists of at least first and last names
-            if len(name_parts) >= 2:
+            #if len(name_parts) >= 2:
                 # format as 'lname, fname', -1 is the last item in the list
                 # then rejoin the parts, placing the last name, and remaining names in order
-                formatted_name = f"{name_parts[-1]}, {' '.join(name_parts[:-1])}"
-            else:
+            #    formatted_name = f"{name_parts[-1]}, {' '.join(name_parts[:-1])}"
+            #else:
                 # if only one part is present, use it as is
-                formatted_name = full_name
-            formated_list.append(formatted_name)
+             #   formatted_name = full_name
+            formated_list.append(full_name)
     return formated_list
 
 
