@@ -236,7 +236,7 @@ class GraphFrame(ttk.Frame):
             canvas = self.gen_canvas(self, fig, 420, 0)   
         elif ctr == 3:
             canvas = self.gen_canvas(self, fig, 0, 350)  
-        elif canvas >= 4:
+        elif ctr >= 4:
             canvas =  self.gen_canvas(self, fig, 420, 350) 
 
         return canvas.draw()
