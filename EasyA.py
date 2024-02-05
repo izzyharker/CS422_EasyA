@@ -20,14 +20,9 @@ def main():
             return
 
         UI()
-        # filt = {"TYPE": "level", "DEPT": "MATH", "COURSE": "400", "REG_INSTR": 0, "APREC_YES": True, "SHOW_INSTR": True, "SHOW_INSTR_CLASSES_TAUGHT": False}
-
-        # fig = GenerateGraph(filt)
-
-        # fig.savefig(fname="test.png", dpi=300, format="png")
 
     elif start_mode == 'u':
-        new_path = input("Please enter the filepath to the new data: ")
+        new_path = input("Please enter the filepath to the new data, or 'reset' to use default data file: ")
 
         file_path_to_data = open("Data/PathToDataFile", "w")
 
