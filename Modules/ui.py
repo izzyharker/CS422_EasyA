@@ -72,12 +72,13 @@ class SideFrame(ttk.Frame):
     def on_press_increment(self):
         self.buttonCtr += 1
         if(self.buttonCtr <= 4):
+            self.i += 1
             self.shift += (self.height)
-            # print(self.buttonCtr, self.shift)
-            return self.GenFilter(self.shift, self.buttonCtr)
+            print(self.buttonCtr, self.shift)
+            return self.GenFilter(self.shift, self.i)
         elif(self.buttonCtr >= 4):
             self.buttonCtr = 4
-            # print(self.buttonCtr, self.shift)
+            print(self.buttonCtr, self.shift)
 
             return None
         
@@ -252,8 +253,10 @@ class GraphFrame(ttk.Frame):
         elif ctr >= 4:
             canvas =  self.gen_canvas(self, GenerateGraph(filter), 420, 350) 
 
-        return canvas.draw()
-    
+        if canvas:
+            return canvas.draw()
+        else:
+            None
     def gen_graph(self, data):
         fig, ax1 = plt.subplots()
         ax1.bar(data.keys(), data.values())
