@@ -8,7 +8,7 @@ notes: still need to actually generate graphs as frames or images
 
 import tkinter as tk
 from tkinter import ttk
-from GenerateGraph import *
+from Modules.GenerateGraph import *
 from sys import platform as sys_pf
 
 
@@ -18,7 +18,6 @@ if sys_pf == 'darwin':
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
-import numpy as np
 
 
 filters = {"Department", "Level", "Class"}
@@ -36,22 +35,26 @@ class App(tk.Tk):
 
         # Side Frame Parent element
         
-        menu = SideFrame(self)
-        graphs = GraphFrame(self)
+        self.menu = SideFrame(self, callback=self.update_graph)
+        self.graphs = GraphFrame(self)
         self.mainloop()
+
+    def update_graph(self, filter):
+        self.graphs.update_graph(filter)
         
 
 class SideFrame(ttk.Frame):
-    def __init__(self, parent):
+    def __init__(self, parent, callback):
         super().__init__(parent)
         tk.Frame(self, background='#024959').pack(expand = True, fill = 'both')
-
-
+        self.callback = callback
         self.place(x=0, y = 0, relwidth = 0.3, relheight = 1)
         self.menu = self
         self.buttonCtr = 1
         self.height = 182
         self.shift = 0
+        self.quadx = 420
+        self.quady = 350
         self.filters = self.GenFilter(self.shift, self.buttonCtr)
 
 
@@ -61,8 +64,6 @@ class SideFrame(ttk.Frame):
             self.shift += (self.height)
             print(self.buttonCtr, self.shift)
             return self.GenFilter(self.shift, self.buttonCtr)
-
-
         elif(self.buttonCtr >= 4):
             self.buttonCtr = 4
             print(self.buttonCtr, self.shift)
@@ -145,16 +146,16 @@ class SideFrame(ttk.Frame):
         self.entry.place(x=x, y = y, relwidth = 0.15, relheight = 0.04)
         return self.entry, self.entry_var
     
-    def on_submit(self, filter_dd, avpass, dept_dd, cbox, class_entry, count_cbox):        
+    def on_submit(self, filter_dd, avpass_dd, dept_dd, cbox, class_entry, count_cbox):        
         # generates and sends a filter object w/ options to be used by
         # the matplotlib backend for graphing
         filter = {
             'TYPE': filter_dd[1].get(),
-            'DEPT': self.dept_dd[1].get(),
-            'REG_INSTR': self.cbox[1].get(),
+            'DEPT': dept_dd[1].get(),
+            'REG_INSTR': cbox[1].get(),
             'APREC_YES': aprec_yes[self.avpass_dd[1].get()],
-            'COURSE': self.class_entry[1].get(),
-            'SHOW_INSTR_CLASSES_TAUGHT': self.count_cbox[1].get(),
+            'COURSE': class_entry[1].get(),
+            'SHOW_INSTR_CLASSES_TAUGHT': count_cbox[1].get(),
             'SHOW_INSTR': True,        }
 
         # as of now just generates random graph for each
@@ -164,10 +165,7 @@ class SideFrame(ttk.Frame):
         #for ax in axes:
         #    ax.clear()
         #    ax.bar(x, y)    
-        fig = GenerateGraph(filter)
-
-        canvas = GraphFrame.gen_canvas(self, 0, 0)        
-        return canvas
+        return self.callback(filter)
 
     
     def on_selection(self, index, var, mode):
@@ -202,22 +200,23 @@ class GraphFrame(ttk.Frame):
         # Graph Frame Parent Element
         # 1 2
         # 3 4
-        g1 = tk.Frame(self, background='red')
+        self.current_quadrant = 0
+        g1 = tk.Frame(self, background='#8ebcd4')
         g1.place(x=0, y= 0, relheight=1, relwidth=1)
         #self.fig1 = self.gen_graph(class_data)
         #self.c1 = self.gen_canvas(g1, self.fig1[0],0,0)
 
-        g2 = tk.Frame(self, background='green')
+        g2 = tk.Frame(self, background='#7ca8bf')
         g2.place(x=420, y= 0, relheight=1, relwidth=1)
         #self.fig2 = self.gen_graph(class_data)
         #self.c2 = self.gen_canvas(g2, self.fig2[0], 0,0)
 
-        g3 = tk.Frame(self, background='yellow')
+        g3 = tk.Frame(self, background='#6590a6')
         g3.place(x=0, y= 350, relheight=1, relwidth=1)
         #self.fig3 = self.gen_graph(class_data)
         #self.c3 = self.gen_canvas(g3, self.fig3[0], 0,0)
 
-        g4 = tk.Frame(self, background='purple')
+        g4 = tk.Frame(self, background='#54798c')
         g4.place(x=420, y= 350, relheight=1, relwidth=1)
         #self.fig4 = self.gen_graph(class_data)
         #self.c4 = self.gen_canvas(g4, self.fig4[0], 0,0)
@@ -227,6 +226,11 @@ class GraphFrame(ttk.Frame):
         canvas = FigureCanvasTkAgg(fig, parent)
         canvas.get_tk_widget().place(x=x, y=y, relheight=0.5, relwidth=0.5)
         return canvas 
+    
+    def update_graph(self, filter):
+        fig = GenerateGraph(filter)
+        canvas = self.gen_canvas(self, fig, 0, 0)        
+        return canvas.draw()
     
     def gen_graph(self, data):
         fig, ax1 = plt.subplots()
