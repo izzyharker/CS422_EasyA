@@ -260,14 +260,10 @@ def applyFilter(average_grades, filter_options: dict):
     # if filtering by faculty only, return faculty instructors
     faculty_data = {}
     if faculty_only:
-        print("Sorting for faculty only")
         for instr, info in filter_data.items():
-            print(info)
             if '1' in str(info["Faculty Status"]):
                 faculty_data[instr] = info
                 faculty_data[instr].pop("Faculty Status")
-        print("done")
-        print(faculty_data)
         return faculty_data
     else:
         # returns the filtered data.
