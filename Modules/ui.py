@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 filters = {"Department", "Level", "Class"}
 class_levels = [100, 200, 300, 400, 500, 600]
 aprec_yes = {"Percent A's": True, "Percent D/F's": False}
-courses = ["BI", "CH", "CIS", "GEOL","HPHY", "MATH", "NEU", "PHYS", "PSY"]
+courses = ["BI", "CH", "CIS", "GEOL", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
 
 class App(tk.Tk):
     def __init__(self, title):
@@ -39,8 +39,8 @@ class App(tk.Tk):
         self.graphs = GraphFrame(self)
         self.mainloop()
 
-    def update_graph(self, filter):
-        self.graphs.update_graph(filter)
+    def update_graph(self, filter, ctr):
+        self.graphs.update_graph(filter, ctr)
         
 
 class SideFrame(ttk.Frame):
@@ -53,6 +53,7 @@ class SideFrame(ttk.Frame):
         self.buttonCtr = 1
         self.height = 182
         self.shift = 0
+        self.quadshift = 0
         self.quadx = 420
         self.quady = 350
         self.filters = self.GenFilter(self.shift, self.buttonCtr)
@@ -165,7 +166,7 @@ class SideFrame(ttk.Frame):
         #for ax in axes:
         #    ax.clear()
         #    ax.bar(x, y)    
-        return self.callback(filter)
+        return self.callback(filter, self.buttonCtr)
 
     
     def on_selection(self, index, var, mode):
@@ -227,9 +228,17 @@ class GraphFrame(ttk.Frame):
         canvas.get_tk_widget().place(x=x, y=y, relheight=0.5, relwidth=0.5)
         return canvas 
     
-    def update_graph(self, filter):
+    def update_graph(self, filter, ctr):
         fig = GenerateGraph(filter)
-        canvas = self.gen_canvas(self, fig, 0, 0)        
+        if ctr == 1:
+            canvas = self.gen_canvas(self, fig, 0, 0)   
+        elif ctr == 2:
+            canvas = self.gen_canvas(self, fig, 420, 0)   
+        elif ctr == 3:
+            canvas = self.gen_canvas(self, fig, 0, 350)  
+        elif canvas >= 4:
+            canvas =  self.gen_canvas(self, fig, 420, 350) 
+
         return canvas.draw()
     
     def gen_graph(self, data):
