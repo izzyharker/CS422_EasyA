@@ -104,19 +104,23 @@ class SideFrame(ttk.Frame):
         #self.select_dd = self.menu.DropDown(self.menu, "Select Level", class_levels, 25, 80 + shift)
         # self.select_dd[0].config(state='disabled')
         # Input box for classes
-        self.entry_label = self.menu.Label(self.menu, "Enter Class Code:", "White", 150, 150, 40 + shift)
-        self.class_entry = self.menu.EntryBox(self, self.menu, 290, 47 + shift)
+        self.entry_label = self.menu.Label(self.menu, "Level/Class #: ", "White", 150, 150, 40 + shift)
+        self.class_entry = self.menu.EntryBox(self, self.menu, 270, 47 + shift)
         self.class_entry[0].config(state='disabled')
         # Easy A vs Just Pass
         self.avpass_dd = self.menu.DropDown(self.menu, "Percent A's",aprec_yes, 180, 10 + shift)
 
         # Checkbox for regular faculty
-        self.cbox_label = self.menu.Label(self.menu, f'Regular Faculty Only', "White", 25, 150, 105 + shift)
-        self.cbox = self.CheckBox(self.menu, 295, 105 + shift )
+        self.cbox_label = self.menu.Label(self.menu, f'Regular Faculty Only: ', "White", 25, 150, 105 + shift)
+        self.cbox = self.CheckBox(self.menu, 295, 110 + shift )
 
         # Checkbox for class count
-        self.class_count_label = self.menu.Label(self.menu, "Include Class Count", "White", 25, 150, 75 + shift)
-        self.count_cbox = self.CheckBox(self.menu, 295, 76+ shift)
+        self.class_count_label = self.menu.Label(self.menu, "Count: ", "White", 25, 110, 75 + shift)
+        self.count_cbox = self.CheckBox(self.menu, 200, 80 + shift)
+
+        # Checkbox for show classes
+        self.class_or_instr_label = self.menu.Label(self.menu, "By Class: ", "White", 25, 220, 75 + shift)
+        self.show_classes_cbox = self.CheckBox(self.menu, 320, 78 + shift)
 
        # Add Graph Button 
         self.button = tk.Button(self.menu, text="Add Graph", command=lambda: self.on_press_increment())
@@ -125,7 +129,7 @@ class SideFrame(ttk.Frame):
         self.indexbutton = tk.Button(self.menu, text=i, command=lambda: self.on_press_decrement(i))
         self.indexbutton.place(x = 335, y = 5 + shift, relwidth = 0.05, relheight = 0.03 )
 
-        self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox))
+        self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox, self.show_classes_cbox))
 
         self.submit_button.place(x = 25, y = 115 + shift, relwidth = 0.3, relheight = 0.03, )
         self.separator = tk.Label(self, background='#001a30').place(x=0, y=155 + shift, relwidth = 1, relheight = 0.001)
@@ -162,7 +166,7 @@ class SideFrame(ttk.Frame):
         self.entry.place(x=x, y = y, relwidth = 0.15, relheight = 0.04)
         return self.entry, self.entry_var
     
-    def on_submit(self, filter_dd, avpass_dd, dept_dd, cbox, class_entry, count_cbox):        
+    def on_submit(self, filter_dd, avpass_dd, dept_dd, cbox, class_entry, count_cbox, show_classes_cbox):        
         # generates and sends a filter object w/ options to be used by
         # the matplotlib backend for graphing
         filter = {
@@ -172,7 +176,7 @@ class SideFrame(ttk.Frame):
             'APREC_YES': aprec_yes[self.avpass_dd[1].get()],
             'COURSE': class_entry[1].get(),
             'SHOW_INSTR_CLASSES_TAUGHT': count_cbox[1].get(),
-            'SHOW_INSTR': True,        }
+            'SHOW_INSTR': show_classes_cbox[1].get(),        }
 
         # as of now just generates random graph for each
         # quadrant in graph frame. Need to be able to call GenerateGraph,

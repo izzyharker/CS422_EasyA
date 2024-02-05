@@ -15,6 +15,12 @@ def GenerateGraph(filter):
     filter["TYPE"] = filter["TYPE"].lower()
     # print(filter)
 
+    # change instructor filter to bool
+    if filter["SHOW_INSTR"] == 1:
+        filter["SHOW_INSTR"] = False
+    else:
+        filter["SHOW_INSTR"] = True
+
     # read data from file
     average_grades_file = open("Data/average_grades.txt")
     averages = average_grades_file.readlines()
