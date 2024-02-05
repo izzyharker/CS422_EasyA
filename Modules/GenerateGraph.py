@@ -12,6 +12,8 @@ def GenerateGraph(filter):
         fig (matplotlib.pyplot.fig): Graph
     """
     # read data from file
+    filter["TYPE"] = filter["TYPE"].lower()
+    print(filter)
     average_grades_file = open("Data/average_grades.txt")
     averages = average_grades_file.readlines()
 
@@ -30,8 +32,11 @@ def GenerateGraph(filter):
         if filter["SHOW_INSTR"]:
             try:
                 if filter["SHOW_INSTR_CLASSES_TAUGHT"]:
-                    filtered_data = {label + " (" + str(info["Total Classes"]) + ")": info for label, info in filtered_data.items()}
+                    filtered_data = {label.split(' ')[0] + " " + label.split(' ')[-1] + " (" + str(info["Total Classes"]) + ")": info for label, info in filtered_data.items()}
+                else:
+                    filtered_data = {label.split(' ')[0] + " " + label.split(' ')[-1]: info for label, info in filtered_data.items()}
             except KeyError:
+                filtered_data = {label.split(' ')[0] + " " + label.split(' ')[-1]: info for label, info in filtered_data.items()}
                 pass
     except KeyError:
         pass
@@ -41,7 +46,7 @@ def GenerateGraph(filter):
         title = "All " + filter["DEPT"] + " Classes"
     elif filter["TYPE"] == 'level':
         title = f"All {filter['DEPT']} {filter['COURSE'][0]}00-level"
-    elif filter["TYPE"] == 'course':
+    elif filter["TYPE"] == 'class':
         title = f"{filter['DEPT']} {filter['COURSE']}"
     else:
         title = ""

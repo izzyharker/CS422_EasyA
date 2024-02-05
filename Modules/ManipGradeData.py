@@ -239,7 +239,7 @@ def applyFilter(average_grades, filter_options: dict):
         except KeyError:
             print("ERROR: Course data not found. Filtering by department...")
             filter_data = filter_by_department(average_grades, department)
-        filter_data = filter_by_course(average_grades, course)
+        filter_data = filter_by_course(average_grades, department + course)
 
     # filter by level
     elif filter_type == "level":
@@ -257,16 +257,21 @@ def applyFilter(average_grades, filter_options: dict):
     else:
         filter_data = {}
 
-    # if filtering by faculty only, delete non-faculty instructors
+    # if filtering by faculty only, return faculty instructors
+    faculty_data = {}
     if faculty_only:
+        print("Sorting for faculty only")
         for instr, info in filter_data.items():
-            if info["Faculty Status"] == 0:
-                filter_data.pop(instr)
-            else:
-                filter_data[instr].pop("Faculty Status")
-
-    # returns the filtered data, possible cut down to faculty only.
-    return filter_data
+            print(info)
+            if '1' in str(info["Faculty Status"]):
+                faculty_data[instr] = info
+                faculty_data[instr].pop("Faculty Status")
+        print("done")
+        print(faculty_data)
+        return faculty_data
+    else:
+        # returns the filtered data.
+        return filter_data
     
 
 def main():

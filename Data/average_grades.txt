@@ -384,6 +384,108 @@ Course: CIS621, Instructor: Christopher Wilson, Taught Count: 2, Aprec Avg: 68.8
 Course: CIS624, Instructor: Boyana Radenska Norris, Taught Count: 3, Aprec Avg: 80.08%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: CIS630, Instructor: Reza Rejaie, Taught Count: 3, Aprec Avg: 48.46%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: CIS650, Instructor: Stephen F. Fickas, Taught Count: 4, Aprec Avg: 89.17%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG141, Instructor: Matthew Niel Goslin, Taught Count: 2, Aprec Avg: 37.78%, Failprec Avg: 6.88%, Faculty Status: 0
+Course: GEOG141, Instructor: Daniel Girard Gavin, Taught Count: 3, Aprec Avg: 25.80%, Failprec Avg: 5.22%, Faculty Status: 0
+Course: GEOG141, Instructor: Swagata Goswami, Taught Count: 2, Aprec Avg: 49.29%, Failprec Avg: 6.16%, Faculty Status: 0
+Course: GEOG141, Instructor: Mark A. Fonstad, Taught Count: 2, Aprec Avg: 16.29%, Failprec Avg: 14.18%, Faculty Status: 0
+Course: GEOG141, Instructor: Devin Michael Lea, Taught Count: 3, Aprec Avg: 29.29%, Failprec Avg: 5.62%, Faculty Status: 0
+Course: GEOG141, Instructor: Eric Allan Sproles, Taught Count: 1, Aprec Avg: 15.18%, Failprec Avg: 5.26%, Faculty Status: 0
+Course: GEOG141, Instructor: Aaron Zettler-Mann, Taught Count: 1, Aprec Avg: 15.62%, Failprec Avg: 3.17%, Faculty Status: 0
+Course: GEOG142, Instructor: Connie Lewis Johnston, Taught Count: 2, Aprec Avg: 18.93%, Failprec Avg: 8.63%, Faculty Status: 0
+Course: GEOG142, Instructor: Jessie Hanna Clark, Taught Count: 1, Aprec Avg: 51.25%, Failprec Avg: 2.50%, Faculty Status: 0
+Course: GEOG142, Instructor: Briana Kay Meier, Taught Count: 2, Aprec Avg: 37.37%, Failprec Avg: 6.94%, Faculty Status: 0
+Course: GEOG142, Instructor: Denielle M. Perry, Taught Count: 1, Aprec Avg: 18.37%, Failprec Avg: 12.24%, Faculty Status: 0
+Course: GEOG142, Instructor: Leslie Ann McLees, Taught Count: 2, Aprec Avg: 33.78%, Failprec Avg: 10.80%, Faculty Status: 0
+Course: GEOG142, Instructor: Katharine Meehan, Taught Count: 1, Aprec Avg: 48.23%, Failprec Avg: 3.53%, Faculty Status: 0
+Course: GEOG142, Instructor: Thomas Walter Ptak, Taught Count: 1, Aprec Avg: 30.14%, Failprec Avg: 35.62%, Faculty Status: 0
+Course: GEOG142, Instructor: Shaul Cohen, Taught Count: 2, Aprec Avg: 28.49%, Failprec Avg: 5.17%, Faculty Status: 0
+Course: GEOG142, Instructor: Maria Belen Norona, Taught Count: 1, Aprec Avg: 52.00%, Failprec Avg: 20.00%, Faculty Status: 0
+Course: GEOG142, Instructor: Olivia Conniff Molden, Taught Count: 1, Aprec Avg: 41.51%, Failprec Avg: 2.89%, Faculty Status: 0
+Course: GEOG181, Instructor: Christopher E. Bone, Taught Count: 3, Aprec Avg: 18.90%, Failprec Avg: 8.77%, Faculty Status: 0
+Course: GEOG181, Instructor: Nicholas Adam Perdue, Taught Count: 3, Aprec Avg: 45.30%, Failprec Avg: 6.82%, Faculty Status: 0
+Course: GEOG181, Instructor: Amy Kathleen Lobben, Taught Count: 1, Aprec Avg: 26.09%, Failprec Avg: 7.25%, Faculty Status: 0
+Course: GEOG181, Instructor: Leslie Ann McLees, Taught Count: 1, Aprec Avg: 19.64%, Failprec Avg: 12.57%, Faculty Status: 0
+Course: GEOG181, Instructor: Nicholas Peter Kohler, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 4.91%, Faculty Status: 0
+Course: GEOG201, Instructor: Douglas W. Foster, Taught Count: 1, Aprec Avg: 11.36%, Failprec Avg: 20.45%, Faculty Status: 0
+Course: GEOG201, Instructor: Anna Wiley Moore, Taught Count: 1, Aprec Avg: 27.27%, Failprec Avg: 18.18%, Faculty Status: 0
+Course: GEOG201, Instructor: Leslie Ann McLees, Taught Count: 2, Aprec Avg: 22.08%, Failprec Avg: 10.85%, Faculty Status: 0
+Course: GEOG201, Instructor: Dylan Patrick Brady, Taught Count: 1, Aprec Avg: 23.08%, Failprec Avg: 26.92%, Faculty Status: 0
+Course: GEOG201, Instructor: Alexander B. Murphy, Taught Count: 1, Aprec Avg: 2.27%, Failprec Avg: 2.27%, Faculty Status: 0
+Course: GEOG201, Instructor: Sanan Moradi, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 3.33%, Faculty Status: 0
+Course: GEOG202, Instructor: Alexander B. Murphy, Taught Count: 3, Aprec Avg: 22.98%, Failprec Avg: 3.66%, Faculty Status: 0
+Course: GEOG202, Instructor: Thomas Walter Ptak, Taught Count: 1, Aprec Avg: 39.73%, Failprec Avg: 8.22%, Faculty Status: 0
+Course: GEOG204, Instructor: Douglas W. Foster, Taught Count: 1, Aprec Avg: 67.74%, Failprec Avg: 3.23%, Faculty Status: 0
+Course: GEOG205, Instructor: Dylan Patrick Brady, Taught Count: 1, Aprec Avg: 15.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG208, Instructor: Connie Lewis Johnston, Taught Count: 2, Aprec Avg: 8.19%, Failprec Avg: 3.37%, Faculty Status: 0
+Course: GEOG208, Instructor: Leslie Ann McLees, Taught Count: 3, Aprec Avg: 52.55%, Failprec Avg: 13.35%, Faculty Status: 0
+Course: GEOG208, Instructor: Christine M. Carolan, Taught Count: 1, Aprec Avg: 68.75%, Failprec Avg: 6.25%, Faculty Status: 0
+Course: GEOG208, Instructor: Nicholas Peter Kohler, Taught Count: 1, Aprec Avg: 34.29%, Failprec Avg: 5.73%, Faculty Status: 0
+Course: GEOG209, Instructor: Shaul Cohen, Taught Count: 2, Aprec Avg: 32.65%, Failprec Avg: 0.78%, Faculty Status: 0
+Course: GEOG209, Instructor: Zackery Ryan Thill, Taught Count: 1, Aprec Avg: 69.05%, Failprec Avg: 2.38%, Faculty Status: 0
+Course: GEOG209, Instructor: Sanan Moradi, Taught Count: 1, Aprec Avg: 34.78%, Failprec Avg: 4.43%, Faculty Status: 0
+Course: GEOG214, Instructor: Denielle M. Perry, Taught Count: 1, Aprec Avg: 26.41%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG214, Instructor: Graciela Maria Mercedes Lu, Taught Count: 1, Aprec Avg: 47.37%, Failprec Avg: 2.63%, Faculty Status: 0
+Course: GEOG214, Instructor: Katharine Meehan, Taught Count: 1, Aprec Avg: 19.51%, Failprec Avg: 2.44%, Faculty Status: 0
+Course: GEOG321, Instructor: Patrick Bartlein, Taught Count: 4, Aprec Avg: 33.05%, Failprec Avg: 0.83%, Faculty Status: 0
+Course: GEOG322, Instructor: Jeffrey Robert Bandow, Taught Count: 1, Aprec Avg: 29.73%, Failprec Avg: 5.41%, Faculty Status: 0
+Course: GEOG322, Instructor: Helen Willemien Beeson, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 14.29%, Faculty Status: 0
+Course: GEOG322, Instructor: Patricia F. McDowell, Taught Count: 3, Aprec Avg: 24.45%, Failprec Avg: 6.29%, Faculty Status: 0
+Course: GEOG323, Instructor: Daniel Girard Gavin, Taught Count: 3, Aprec Avg: 21.43%, Failprec Avg: 9.21%, Faculty Status: 0
+Course: GEOG323, Instructor: Erin Mauryeen Herring, Taught Count: 2, Aprec Avg: 84.17%, Failprec Avg: 2.08%, Faculty Status: 0
+Course: GEOG323, Instructor: Win Nadia Francis McLaughlin, Taught Count: 1, Aprec Avg: 65.06%, Failprec Avg: 0.01%, Faculty Status: 0
+Course: GEOG341, Instructor: Ashley W. Jennings, Taught Count: 1, Aprec Avg: 79.17%, Failprec Avg: 4.17%, Faculty Status: 0
+Course: GEOG341, Instructor: Shaul Cohen, Taught Count: 3, Aprec Avg: 14.97%, Failprec Avg: 3.71%, Faculty Status: 0
+Course: GEOG341, Instructor: Zackery Ryan Thill, Taught Count: 1, Aprec Avg: 61.29%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG342, Instructor: Daniel Patrick Buck, Taught Count: 2, Aprec Avg: 32.54%, Failprec Avg: 3.67%, Faculty Status: 0
+Course: GEOG342, Instructor: Dylan Patrick Brady, Taught Count: 2, Aprec Avg: 12.70%, Failprec Avg: 13.80%, Faculty Status: 0
+Course: GEOG342, Instructor: Kuan-Chi Wang, Taught Count: 2, Aprec Avg: 36.93%, Failprec Avg: 4.07%, Faculty Status: 0
+Course: GEOG343, Instructor: Xiaobo Su, Taught Count: 4, Aprec Avg: 11.40%, Failprec Avg: 1.23%, Faculty Status: 0
+Course: GEOG343, Instructor: Douglas W. Foster, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 10.71%, Faculty Status: 0
+Course: GEOG343, Instructor: Sanan Moradi, Taught Count: 1, Aprec Avg: 79.07%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG360, Instructor: Patricia F. McDowell, Taught Count: 4, Aprec Avg: 28.71%, Failprec Avg: 3.74%, Faculty Status: 0
+Course: GEOG361, Instructor: Patrick Bartlein, Taught Count: 2, Aprec Avg: 33.94%, Failprec Avg: 4.85%, Faculty Status: 0
+Course: GEOG361, Instructor: Erin Mauryeen Herring, Taught Count: 1, Aprec Avg: 68.29%, Failprec Avg: 2.44%, Faculty Status: 0
+Course: GEOG391, Instructor: Leigh Johnson, Taught Count: 2, Aprec Avg: 29.14%, Failprec Avg: 9.87%, Faculty Status: 0
+Course: GEOG399, Instructor: Shaul Cohen, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG410, Instructor: Daniel Patrick Buck, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG410, Instructor: Xiaobo Su, Taught Count: 2, Aprec Avg: 28.12%, Failprec Avg: 1.04%, Faculty Status: 0
+Course: GEOG410, Instructor: Susan Wiley Hardwick, Taught Count: 1, Aprec Avg: 46.67%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG410, Instructor: Peter Walker, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG410, Instructor: Kathleen Mary Dwyer, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG425, Instructor: Mark A. Fonstad, Taught Count: 1, Aprec Avg: 64.29%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG427, Instructor: Patricia F. McDowell, Taught Count: 3, Aprec Avg: 34.49%, Failprec Avg: 0.07%, Faculty Status: 0
+Course: GEOG432, Instructor: Patrick Bartlein, Taught Count: 1, Aprec Avg: 73.33%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG433, Instructor: Daniel Girard Gavin, Taught Count: 3, Aprec Avg: 53.55%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG441, Instructor: Alexander B. Murphy, Taught Count: 3, Aprec Avg: 29.37%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG441, Instructor: Anna Wiley Moore, Taught Count: 1, Aprec Avg: 43.75%, Failprec Avg: 3.12%, Faculty Status: 0
+Course: GEOG442, Instructor: Katharine Meehan, Taught Count: 3, Aprec Avg: 48.25%, Failprec Avg: 4.14%, Faculty Status: 0
+Course: GEOG442, Instructor: David Howard Kaplan, Taught Count: 1, Aprec Avg: 44.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG442, Instructor: Susan Wiley Hardwick, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG443, Instructor: Susan Wiley Hardwick, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 10.00%, Faculty Status: 0
+Course: GEOG444, Instructor: Connie Lewis Johnston, Taught Count: 2, Aprec Avg: 46.76%, Failprec Avg: 2.63%, Faculty Status: 0
+Course: GEOG445, Instructor: Anna Wiley Moore, Taught Count: 1, Aprec Avg: 73.68%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG445, Instructor: Douglas W. Foster, Taught Count: 1, Aprec Avg: 72.73%, Failprec Avg: 9.09%, Faculty Status: 0
+Course: GEOG461, Instructor: Nicholas Peter Kohler, Taught Count: 4, Aprec Avg: 36.50%, Failprec Avg: 5.91%, Faculty Status: 0
+Course: GEOG463, Instructor: Denielle M. Perry, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG465, Instructor: Denielle M. Perry, Taught Count: 1, Aprec Avg: 59.09%, Failprec Avg: 4.54%, Faculty Status: 0
+Course: GEOG465, Instructor: Leigh Johnson, Taught Count: 1, Aprec Avg: 39.13%, Failprec Avg: 0.09%, Faculty Status: 0
+Course: GEOG466, Instructor: Connie Lewis Johnston, Taught Count: 2, Aprec Avg: 70.47%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG471, Instructor: Donald Gordon Holtgrieve, Taught Count: 7, Aprec Avg: 57.24%, Failprec Avg: 2.69%, Faculty Status: 0
+Course: GEOG475, Instructor: Xiaobo Su, Taught Count: 1, Aprec Avg: 45.16%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG475, Instructor: Daniel Patrick Buck, Taught Count: 1, Aprec Avg: 6.25%, Failprec Avg: 6.25%, Faculty Status: 0
+Course: GEOG481, Instructor: Amy Kathleen Lobben, Taught Count: 1, Aprec Avg: 48.78%, Failprec Avg: 4.88%, Faculty Status: 0
+Course: GEOG481, Instructor: Nicholas Peter Kohler, Taught Count: 5, Aprec Avg: 28.65%, Failprec Avg: 3.08%, Faculty Status: 0
+Course: GEOG481, Instructor: Megen Elizabeth Brittell, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 3.85%, Faculty Status: 0
+Course: GEOG481, Instructor: Hedda Rahel Schmidtke, Taught Count: 2, Aprec Avg: 37.29%, Failprec Avg: 1.62%, Faculty Status: 0
+Course: GEOG482, Instructor: Nicholas Peter Kohler, Taught Count: 5, Aprec Avg: 39.73%, Failprec Avg: 1.54%, Faculty Status: 0
+Course: GEOG482, Instructor: Christopher E. Bone, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 8.33%, Faculty Status: 0
+Course: GEOG485, Instructor: James Thomas Dietrich, Taught Count: 1, Aprec Avg: 60.00%, Failprec Avg: 10.00%, Faculty Status: 0
+Course: GEOG485, Instructor: Mark A. Fonstad, Taught Count: 1, Aprec Avg: 58.14%, Failprec Avg: 2.33%, Faculty Status: 0
+Course: GEOG485, Instructor: Nicholas Peter Kohler, Taught Count: 2, Aprec Avg: 55.05%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG490, Instructor: Christopher E. Bone, Taught Count: 2, Aprec Avg: 55.88%, Failprec Avg: 11.76%, Faculty Status: 0
+Course: GEOG490, Instructor: Nicholas Peter Kohler, Taught Count: 2, Aprec Avg: 29.23%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG490, Instructor: Joanna Rachelle Merson, Taught Count: 1, Aprec Avg: 83.33%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG493, Instructor: James Edwin Meacham, Taught Count: 3, Aprec Avg: 43.81%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY101, Instructor: Kara Marie Beasley, Taught Count: 1, Aprec Avg: 85.50%, Failprec Avg: 0.50%, Faculty Status: 0
 Course: HPHY101, Instructor: Jennifer Ann Miner, Taught Count: 2, Aprec Avg: 37.34%, Failprec Avg: 2.78%, Faculty Status: 0
 Course: HPHY102, Instructor: Robin M. Hopkins, Taught Count: 1, Aprec Avg: 27.50%, Failprec Avg: 10.00%, Faculty Status: 0
@@ -1526,6 +1628,11 @@ Course: CHN436, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 68.75%, Fail
 Course: CHN445, Instructor: Weijun Chen, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: CIS322, Instructor: Michal Terry Young, Taught Count: 1, Aprec Avg: 36.84%, Failprec Avg: 5.32%, Faculty Status: 0
 Course: CIS322, Instructor: Ramakrishnan Durairajan, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 16.12%, Faculty Status: 0
+Course: GEOG448, Instructor: Xiaobo Su, Taught Count: 1, Aprec Avg: 10.00%, Failprec Avg: 0.03%, Faculty Status: 0
+Course: GEOG467, Instructor: Katharine Meehan, Taught Count: 1, Aprec Avg: 28.00%, Failprec Avg: 8.08%, Faculty Status: 0
+Course: GEOG494, Instructor: Michael France Nelson, Taught Count: 1, Aprec Avg: 41.67%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG581, Instructor: Hedda Rahel Schmidtke, Taught Count: 1, Aprec Avg: 92.31%, Failprec Avg: 7.69%, Faculty Status: 0
+Course: GEOG608, Instructor: Shaul Cohen, Taught Count: 1, Aprec Avg: 83.87%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY621, Instructor: Li-Shan Chou, Taught Count: 1, Aprec Avg: 46.15%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY631, Instructor: Brad William Wilkins, Taught Count: 1, Aprec Avg: 64.41%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: MATH70, Instructor: Tammy Marie Nezol, Taught Count: 1, Aprec Avg: 0.00%, Failprec Avg: 0.00%, Faculty Status: 0
@@ -1565,6 +1672,11 @@ Course: CIS199, Instructor: David A. Wilkins, Taught Count: 1, Aprec Avg: 60.00%
 Course: CIS413, Instructor: Andrzej Proskurowski, Taught Count: 1, Aprec Avg: 38.46%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: CIS431, Instructor: Allen Malony, Taught Count: 1, Aprec Avg: 25.00%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: CIS610, Instructor: Dejing Dou, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG281, Instructor: Hedda Rahel Schmidtke, Taught Count: 1, Aprec Avg: 63.64%, Failprec Avg: 4.59%, Faculty Status: 0
+Course: GEOG419, Instructor: Leslie Ann McLees, Taught Count: 2, Aprec Avg: 45.59%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG495, Instructor: Patrick Bartlein, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG510, Instructor: Laura Pulido, Taught Count: 1, Aprec Avg: 80.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG595, Instructor: Patrick Bartlein, Taught Count: 1, Aprec Avg: 83.33%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY112, Instructor: Robin M. Hopkins, Taught Count: 1, Aprec Avg: 73.97%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY375, Instructor: Philip D. Matern, Taught Count: 1, Aprec Avg: 39.53%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY610, Instructor: Shannon Michelle Pomeroy, Taught Count: 1, Aprec Avg: 50.00%, Failprec Avg: 0.00%, Faculty Status: 0
@@ -1581,6 +1693,9 @@ Course: CHN206, Instructor: Fengjun Mao, Taught Count: 1, Aprec Avg: 75.00%, Fai
 Course: CHN380, Instructor: Yugen Wang, Taught Count: 1, Aprec Avg: 71.43%, Failprec Avg: 3.61%, Faculty Status: 0
 Course: CHN482, Instructor: Zhuo Jing-Schmidt, Taught Count: 1, Aprec Avg: 75.00%, Failprec Avg: 6.25%, Faculty Status: 0
 Course: CIS473, Instructor: Daniel Baruch Lowd, Taught Count: 1, Aprec Avg: 20.83%, Failprec Avg: 0.08%, Faculty Status: 0
+Course: GEOG285, Instructor: Aaron Zettler-Mann, Taught Count: 1, Aprec Avg: 66.67%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG468, Instructor: Leslie Ann McLees, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 0.00%, Faculty Status: 0
+Course: GEOG491, Instructor: Nicholas Peter Kohler, Taught Count: 1, Aprec Avg: 70.00%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY406, Instructor: Sierra Dawson, Taught Count: 1, Aprec Avg: 100.00%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: HPHY472, Instructor: Kimber Marie Mattox, Taught Count: 1, Aprec Avg: 73.68%, Failprec Avg: 0.00%, Faculty Status: 0
 Course: MATH317, Instructor: Benjamin Seth Elias, Taught Count: 1, Aprec Avg: 40.00%, Failprec Avg: 10.00%, Faculty Status: 0

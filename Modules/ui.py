@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 filters = {"Department", "Level", "Class"}
 class_levels = [100, 200, 300, 400, 500, 600]
 aprec_yes = {"Percent A's": True, "Percent D/F's": False}
-courses = ["BI", "CH", "CIS", "GEOL", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
+courses = ["BI", "CH", "CIS", "GEOG", "HPHY", "MATH", "PHYS", "PSY"]
 
 class App(tk.Tk):
     def __init__(self, title):
@@ -73,12 +73,11 @@ class SideFrame(ttk.Frame):
         self.buttonCtr += 1
         if(self.buttonCtr <= 4):
             self.shift += (self.height)
-            self.i += 1
-            print(self.buttonCtr, self.i)
-            return self.GenFilter(self.shift,  self.i)
+            # print(self.buttonCtr, self.shift)
+            return self.GenFilter(self.shift, self.buttonCtr)
         elif(self.buttonCtr >= 4):
             self.buttonCtr = 4
-            print(self.buttonCtr, self.shift)
+            # print(self.buttonCtr, self.shift)
 
             return None
         

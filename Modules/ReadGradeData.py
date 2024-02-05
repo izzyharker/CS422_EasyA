@@ -14,7 +14,7 @@ class readGradeData():
     elements_to_remove = ["crn", "bprec", "cprec", "dprec", "fprec"]
 
     # Define majors to keep
-    majors_to_keep = ["BI", "CH", "CIS", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
+    majors_to_keep = ["BI", "CH", "CIS", "GEOG", "HPHY", "MATH", "NEUR", "PHYS", "PSY"]
 
     def __init__(self, filepath):
         """

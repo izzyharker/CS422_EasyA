@@ -58,6 +58,7 @@ class StyledGraph():
         ax.set_yticklabels(ax.get_yticklabels(), weight='bold')
         ax.set_xticklabels(ax.get_xticklabels(), weight='bold')
         ax.tick_params(axis='both', width = 2, length = 6)
+        ax.tick_params(axis='x', labelsize=7)
 
         # set label of y-axis based on given arg
         if aprec:
@@ -79,7 +80,7 @@ class StyledGraph():
         plt.xticks(rotation=45, ha="right")
 
         # reformat for better visibility
-        plt.tight_layout(pad = 2)
+        plt.tight_layout(pad = 6)
 
         # return graph
         return fig

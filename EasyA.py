@@ -12,8 +12,6 @@ def main():
         path_to_data.strip()
         file_path_to_data.close()
 
-        print(path_to_data)
-
         try: 
             loadData(path_to_data)
         except FileNotFoundError:
@@ -22,8 +20,6 @@ def main():
             return
 
         UI()
-        # # start UI loop
-        # # UI(averages)
         # filt = {"TYPE": "level", "DEPT": "MATH", "COURSE": "400", "REG_INSTR": 0, "APREC_YES": True, "SHOW_INSTR": True, "SHOW_INSTR_CLASSES_TAUGHT": False}
 
         # fig = GenerateGraph(filt)
