@@ -37,34 +37,45 @@ class App(tk.Tk):
         
         self.menu = SideFrame(self, callback=self.update_graph)
         self.graphs = GraphFrame(self)
+        self.clear = tk.Button(self.menu, text="Clear", command=lambda: self.on_clear())
+        self.clear.place(x= 130, y = 670, relheight=0.03, relwidth=0.2)
         self.mainloop()
+        
+    def on_clear(self):
+        self.destroy()
+        return App("Easy A")
+
 
     def update_graph(self, filter, ctr):
         self.graphs.update_graph(filter, ctr)
+
         
 
 class SideFrame(ttk.Frame):
     def __init__(self, parent, callback):
         super().__init__(parent)
-        tk.Frame(self, background='#024959').pack(expand = True, fill = 'both')
+        self.frame = tk.Frame(self, background='#024959')
+        self.frame.pack(expand = True, fill = 'both')
         self.callback = callback
         self.place(x=0, y = 0, relwidth = 0.3, relheight = 1)
         self.menu = self
         self.buttonCtr = 1
-        self.height = 182
+        self.height = 165
         self.shift = 0
         self.quadshift = 0
         self.quadx = 420
         self.quady = 350
         self.filters = self.GenFilter(self.shift, self.buttonCtr)
+        self.i = 1
 
 
     def on_press_increment(self):
         self.buttonCtr += 1
         if(self.buttonCtr <= 4):
             self.shift += (self.height)
-            print(self.buttonCtr, self.shift)
-            return self.GenFilter(self.shift, self.buttonCtr)
+            self.i += 1
+            print(self.buttonCtr, self.i)
+            return self.GenFilter(self.shift,  self.i)
         elif(self.buttonCtr >= 4):
             self.buttonCtr = 4
             print(self.buttonCtr, self.shift)
@@ -72,12 +83,13 @@ class SideFrame(ttk.Frame):
             return None
         
     
-    def on_press_decrement(self, index):
-        index = self.buttonCtr
-        if(self.buttonCtr >= 1):
-            self.buttonCtr -= 1
-        print(self.buttonCtr)
-        return self.buttonCtr
+    def on_press_decrement(self, i):
+        if(1 <= self.i <= 4):
+            self.i -= 1
+        elif(self.i == 0):
+            self.i = 1
+        print(self.i)
+        return self.i
 
     def GenFilter(self, shift, i):
         # Department DropDown Menu
@@ -109,12 +121,15 @@ class SideFrame(ttk.Frame):
        # Add Graph Button 
         self.button = tk.Button(self.menu, text="Add Graph", command=lambda: self.on_press_increment())
         self.button.place(x = 25, y = 85 + shift, relwidth = 0.3, relheight = 0.03 )
+        
+        self.indexbutton = tk.Button(self.menu, text=i, command=lambda: self.on_press_decrement(i))
+        self.indexbutton.place(x = 335, y = 5 + shift, relwidth = 0.05, relheight = 0.03 )
 
         self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox))
 
         self.submit_button.place(x = 25, y = 115 + shift, relwidth = 0.3, relheight = 0.03, )
-        tk.Label(self, background='#001a30').place(x=0, y=155 + shift, relwidth = 1, relheight = 0.001)
-
+        self.separator = tk.Label(self, background='#001a30').place(x=0, y=155 + shift, relwidth = 1, relheight = 0.001)
+        return self.dept_dd, self.filter_dd, self.trace_var, self.entry_label, self.class_entry, self.avpass_dd, self.cbox_label, self.cbox, self.class_count_label, self.count_cbox, self.button, self.indexbutton, self.submit_button, self.separator
 
     def Label(self, parent, text, color, font, x, y):
         # Abstracted Tkinter Label
@@ -166,7 +181,7 @@ class SideFrame(ttk.Frame):
         #for ax in axes:
         #    ax.clear()
         #    ax.bar(x, y)    
-        return self.callback(filter, self.buttonCtr)
+        return self.callback(filter, self.i)
 
     
     def on_selection(self, index, var, mode):
@@ -229,15 +244,14 @@ class GraphFrame(ttk.Frame):
         return canvas 
     
     def update_graph(self, filter, ctr):
-        fig = GenerateGraph(filter)
         if ctr == 1:
-            canvas = self.gen_canvas(self, fig, 0, 0)   
+            canvas = self.gen_canvas(self, GenerateGraph(filter), 0, 0)   
         elif ctr == 2:
-            canvas = self.gen_canvas(self, fig, 420, 0)   
+            canvas = self.gen_canvas(self, GenerateGraph(filter), 420, 0)   
         elif ctr == 3:
-            canvas = self.gen_canvas(self, fig, 0, 350)  
+            canvas = self.gen_canvas(self, GenerateGraph(filter), 0, 350)  
         elif ctr >= 4:
-            canvas =  self.gen_canvas(self, fig, 420, 350) 
+            canvas =  self.gen_canvas(self, GenerateGraph(filter), 420, 350) 
 
         return canvas.draw()
     
