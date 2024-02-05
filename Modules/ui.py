@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 filters = {"Department", "Level", "Class"}
 class_levels = [100, 200, 300, 400, 500, 600]
 aprec_yes = {"Percent A's": True, "Percent D/F's": False}
-courses = ["BI", "CH", "CIS", "HPHY", "MATH", "NEU", "PHYS", "PSY"]
+courses = ["BI", "CH", "CIS", "GEOL","HPHY", "MATH", "NEU", "PHYS", "PSY"]
 
 class App(tk.Tk):
     def __init__(self, title):
