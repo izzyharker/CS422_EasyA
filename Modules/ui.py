@@ -112,11 +112,11 @@ class SideFrame(ttk.Frame):
 
         # Checkbox for regular faculty
         self.cbox_label = self.menu.Label(self.menu, f'Regular Faculty Only: ', "White", 25, 150, 105 + shift)
-        self.cbox = self.CheckBox(self.menu, 295, 110 + shift )
+        self.cbox = self.CheckBox(self.menu, 295, 108 + shift )
 
         # Checkbox for class count
-        self.class_count_label = self.menu.Label(self.menu, "Count: ", "White", 25, 110, 75 + shift)
-        self.count_cbox = self.CheckBox(self.menu, 200, 80 + shift)
+        self.class_count_label = self.menu.Label(self.menu, "Count: ", "White", 25, 110, 73 + shift)
+        self.count_cbox = self.CheckBox(self.menu, 200, 76 + shift)
 
         # Checkbox for show classes
         self.class_or_instr_label = self.menu.Label(self.menu, "By Class: ", "White", 25, 220, 75 + shift)
@@ -125,8 +125,9 @@ class SideFrame(ttk.Frame):
        # Add Graph Button 
         self.button = tk.Button(self.menu, text="Add Graph", command=lambda: self.on_press_increment())
         self.button.place(x = 25, y = 85 + shift, relwidth = 0.3, relheight = 0.03 )
+        self.button.config(bg = '#024959')
         
-        self.indexbutton = tk.Button(self.menu, text=i, command=lambda: self.on_press_decrement(i))
+        self.indexbutton = tk.Button(self.menu, text=i, command=lambda: print(i))
         self.indexbutton.place(x = 335, y = 5 + shift, relwidth = 0.05, relheight = 0.03 )
 
         self.submit_button = tk.Button(self.menu, text="Submit", command=lambda: self.on_submit(self.filter_dd, self.avpass_dd, self.dept_dd, self.cbox, self.class_entry, self.count_cbox, self.show_classes_cbox))
@@ -146,7 +147,7 @@ class SideFrame(ttk.Frame):
         self.dd = tk.OptionMenu(parent, self.var, *options)
         self.var.set(self.var.get() if self.var.get() else set)
         self.dd.place(x=x, y=y, relwidth = 0.3, relheight=0.05)
-
+        self.dd.config(bg = '#024959')
 
         return self.dd, self.var
 
